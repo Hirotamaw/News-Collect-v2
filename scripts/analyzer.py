@@ -355,7 +355,20 @@ def gemini_analyze(title, body_text, api_key, timeout=30):
     }
 
 
-def analyze_article(title, body_text, api_key=None, retries=2):
+def _describe_error(exc):
+    """例外からHTTPステータスコードと理由を人間可読な形にする（キー・URLは含めない）。"""
+    if isinstance(exc, requests.HTTPError) and exc.response is not None:
+        status = exc.response.status_code
+        try:
+            body = exc.response.json().get("error", {})
+            reason = body.get("status") or body.get("message", "")
+        except ValueError:
+            reason = exc.response.text[:200]
+        return f"HTTP {status} {reason}".strip()
+    return f"{type(exc).__name__}: {exc}"
+
+
+def analyze_article(title, body_text, api_key=None, retries=3):
     """Gemini分析を試み、失敗時はキーワードフォールバックに切り替える。
     APIキー・URLはログに出力しない。
     """
@@ -366,6 +379,14 @@ def analyze_article(title, body_text, api_key=None, retries=2):
                 return gemini_analyze(title, body_text, api_key)
             except Exception as exc:  # noqa: BLE001
                 last_err = exc
-                time.sleep(1.5 * (attempt + 1))
-        print(f"[warn] Gemini analysis failed after {retries} attempts ({type(last_err).__name__}); using keyword fallback")
+                wait = 2.0 * (attempt + 1)
+                if isinstance(exc, requests.HTTPError) and exc.response is not None:
+                    retry_after = exc.response.headers.get("Retry-After")
+                    if retry_after:
+                        try:
+                            wait = max(wait, float(retry_after))
+                        except ValueError:
+                            pass
+                time.sleep(wait)
+        print(f"[warn] Gemini analysis failed after {retries} attempts ({_describe_error(last_err)}); using keyword fallback")
     return fallback_analysis(title, body_text)

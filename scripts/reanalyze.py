@@ -94,7 +94,7 @@ def main():
         article["all_entities"] = analysis["all_entities"]
         article["main_entities"] = analysis["main_entities"]
         updated_count += 1
-        time.sleep(0.5)
+        time.sleep(4)  # Gemini APIの無料枠レート制限（1分あたりのリクエスト数）に配慮
 
     news_db["last_updated"] = datetime.now(JST).isoformat()
     save_json(DATA_FILE, news_db)

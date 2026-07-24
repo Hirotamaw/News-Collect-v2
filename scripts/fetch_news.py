@@ -203,7 +203,7 @@ def main():
         }
         news_db["articles"].insert(0, article)
         update_entities_db(entities_db, article)
-        time.sleep(0.5)  # Gemini APIのレート制限に配慮
+        time.sleep(4)  # Gemini APIの無料枠レート制限（1分あたりのリクエスト数）に配慮
 
     news_db["articles"].sort(key=lambda a: a["pub_date"], reverse=True)
     news_db["total_count"] = len(news_db["articles"])
