@@ -29,10 +29,15 @@
       "last_seen": "2026-07-24T16:16:04.237265+09:00"
     },
     "Coinbase": {
-      "article_count": 7,
-      "as_main_count": 4,
+      "article_count": 8,
+      "as_main_count": 5,
       "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
+          "link": "https://www.neweconomy.jp/posts/594616",
+          "pub_date": "2026-07-24T16:40:44+09:00"
+        },
         {
           "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
           "link": "https://www.neweconomy.jp/posts/594528",
@@ -52,15 +57,10 @@
           "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
           "link": "https://coinpost.jp/?p=726926",
           "pub_date": "2026-07-24T05:40:59+09:00"
-        },
-        {
-          "title": "コインベース、AIエージェント向け決済機能を発表 x402採用",
-          "link": "https://coinpost.jp/?p=727087",
-          "pub_date": "2026-07-24T13:47:20+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-07-24T16:16:32.389532+09:00"
+      "last_seen": "2026-07-24T17:31:00.645680+09:00"
     },
     "Strategy": {
       "article_count": 2,
@@ -135,10 +135,15 @@
       "last_seen": "2026-07-24T16:16:34.876092+09:00"
     },
     "Ripple": {
-      "article_count": 2,
-      "as_main_count": 2,
+      "article_count": 3,
+      "as_main_count": 3,
       "as_related_count": 0,
       "recent_articles": [
+        {
+          "title": "リップル、暗号資産決済・コンプライアンス基盤のノタベネに戦略出資",
+          "link": "https://www.neweconomy.jp/posts/594608",
+          "pub_date": "2026-07-24T16:19:36+09:00"
+        },
         {
           "title": "米BNY、米国債の24時間決済へ 2026年末にトークン試験取引",
           "link": "https://coinpost.jp/?p=726928",
@@ -151,7 +156,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:05.509758+09:00",
-      "last_seen": "2026-07-24T16:16:24.997353+09:00"
+      "last_seen": "2026-07-24T17:31:07.565341+09:00"
     },
     "Visa": {
       "article_count": 1,
@@ -239,10 +244,15 @@
       "last_seen": "2026-07-24T16:16:33.626639+09:00"
     },
     "日本銀行": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
+          "link": "https://www.neweconomy.jp/posts/594628",
+          "pub_date": "2026-07-24T16:47:14+09:00"
+        },
         {
           "title": "日経新聞に掲載された筆者コメントを解説──日本版ビットコインETF「3兆円試算」の根拠【エックスウィン】",
           "link": "https://www.nadanews.com/360894/",
@@ -250,7 +260,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:08.779894+09:00",
-      "last_seen": "2026-07-24T16:16:08.779894+09:00"
+      "last_seen": "2026-07-24T17:30:54.717778+09:00"
     },
     "Circle": {
       "article_count": 2,
@@ -272,10 +282,15 @@
       "last_seen": "2026-07-24T16:16:30.546413+09:00"
     },
     "Binance": {
-      "article_count": 1,
-      "as_main_count": 1,
+      "article_count": 2,
+      "as_main_count": 2,
       "as_related_count": 0,
       "recent_articles": [
+        {
+          "title": "円ステーブルコイン決済の実装期、5社が語る現在地｜WebX2026",
+          "link": "https://coinpost.jp/?p=724284",
+          "pub_date": "2026-07-24T16:49:56+09:00"
+        },
         {
           "title": "ビットコインは「マクロ資産」へ、保有者の大規模再編も進行＝バイナンスの2026年上半期レポート",
           "link": "https://coinpost.jp/?p=727083",
@@ -283,7 +298,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:13.718679+09:00",
-      "last_seen": "2026-07-24T16:16:13.718679+09:00"
+      "last_seen": "2026-07-24T17:30:48.695026+09:00"
     },
     "Tether": {
       "article_count": 1,
@@ -314,10 +329,15 @@
       "last_seen": "2026-07-24T16:16:23.529514+09:00"
     },
     "SEC": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        },
         {
           "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
           "link": "https://coinpost.jp/?p=726926",
@@ -325,7 +345,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:26.941210+09:00",
-      "last_seen": "2026-07-24T16:16:26.941210+09:00"
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
     },
     "Upbit": {
       "article_count": 1,
@@ -370,10 +390,15 @@
       "last_seen": "2026-07-24T16:16:31.154591+09:00"
     },
     "Bybit": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
+          "link": "https://www.neweconomy.jp/posts/594628",
+          "pub_date": "2026-07-24T16:47:14+09:00"
+        },
         {
           "title": "バイビット、xStocksを構造化運用商品「デュアルアセット」に追加",
           "link": "https://www.neweconomy.jp/posts/594537",
@@ -381,7 +406,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:31.154591+09:00",
-      "last_seen": "2026-07-24T16:16:31.154591+09:00"
+      "last_seen": "2026-07-24T17:30:54.717778+09:00"
     },
     "Solana": {
       "article_count": 1,
@@ -438,6 +463,216 @@
       ],
       "first_seen": "2026-07-24T16:16:35.493650+09:00",
       "last_seen": "2026-07-24T16:16:35.493650+09:00"
+    },
+    "Ondo Finance": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "Oasis Pro Markets": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "米金融業規制機構": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "FINRA": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "Ondo Stocks": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "米証券取引委員会": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "Dinari": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "Texture Capital": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "tZERO": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "Securitize": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
+          "link": "https://www.nadanews.com/360997/",
+          "pub_date": "2026-07-24T16:26:41+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:27.168552+09:00",
+      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+    },
+    "コンヴァノ": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ネイルサロン運営のコンヴァノ、暗号資産を全売却へ",
+          "link": "https://www.nadanews.com/361016/",
+          "pub_date": "2026-07-24T16:19:15+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:36.197802+09:00",
+      "last_seen": "2026-07-24T17:30:36.197802+09:00"
+    },
+    "FASTNAIL": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ネイルサロン運営のコンヴァノ、暗号資産を全売却へ",
+          "link": "https://www.nadanews.com/361016/",
+          "pub_date": "2026-07-24T16:19:15+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:36.197802+09:00",
+      "last_seen": "2026-07-24T17:30:36.197802+09:00"
+    },
+    "ビットコイン": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ネイルサロン運営のコンヴァノ、暗号資産を全売却へ",
+          "link": "https://www.nadanews.com/361016/",
+          "pub_date": "2026-07-24T16:19:15+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:36.197802+09:00",
+      "last_seen": "2026-07-24T17:30:36.197802+09:00"
+    },
+    "BTC": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ネイルサロン運営のコンヴァノ、暗号資産を全売却へ",
+          "link": "https://www.nadanews.com/361016/",
+          "pub_date": "2026-07-24T16:19:15+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:36.197802+09:00",
+      "last_seen": "2026-07-24T17:30:36.197802+09:00"
+    },
+    "金融庁": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
+          "link": "https://www.neweconomy.jp/posts/594628",
+          "pub_date": "2026-07-24T16:47:14+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T17:30:54.717778+09:00",
+      "last_seen": "2026-07-24T17:30:54.717778+09:00"
     }
   }
 }
