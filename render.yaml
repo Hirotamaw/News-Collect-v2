@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: news-collector
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./docs
+    headers:
+      - path: /data/*
+        name: Cache-Control
+        value: no-cache
+    autoDeploy: true

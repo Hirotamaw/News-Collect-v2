@@ -1,0 +1,47 @@
+name: Fetch News
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 毎朝09:00 JST (UTC 00:00)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "取得モード"
+        required: true
+        default: "24h"
+        type: choice
+        options:
+          - "24h"
+          - "today"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run fetch_news.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FETCH_MODE: ${{ github.event.inputs.mode || '24h' }}
+        run: python scripts/fetch_news.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/news.json docs/data/entities.json
+          git diff --cached --quiet || git commit -m "chore: update news data"
+          git push

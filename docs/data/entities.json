@@ -1,0 +1,443 @@
+{
+  "entities": {
+    "楽天ウォレット": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ビットコイン軟調 Clarity法案、休会前採決断念で9月へ先送り【楽天ウォレットDaily Report】",
+          "link": "https://www.nadanews.com/360947/",
+          "pub_date": "2026-07-24T12:57:03+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:04.237265+09:00",
+      "last_seen": "2026-07-24T16:16:04.237265+09:00"
+    },
+    "楽天": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ビットコイン軟調 Clarity法案、休会前採決断念で9月へ先送り【楽天ウォレットDaily Report】",
+          "link": "https://www.nadanews.com/360947/",
+          "pub_date": "2026-07-24T12:57:03+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:04.237265+09:00",
+      "last_seen": "2026-07-24T16:16:04.237265+09:00"
+    },
+    "Coinbase": {
+      "article_count": 7,
+      "as_main_count": 4,
+      "as_related_count": 3,
+      "recent_articles": [
+        {
+          "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
+          "link": "https://www.neweconomy.jp/posts/594528",
+          "pub_date": "2026-07-24T14:23:22+09:00"
+        },
+        {
+          "title": "バイビット、xStocksを構造化運用商品「デュアルアセット」に追加",
+          "link": "https://www.neweconomy.jp/posts/594537",
+          "pub_date": "2026-07-24T15:02:42+09:00"
+        },
+        {
+          "title": "ストラテジーやブラックロックなど9社、ビットコイン安全保障団体を設立",
+          "link": "https://coinpost.jp/?p=726918",
+          "pub_date": "2026-07-24T05:00:04+09:00"
+        },
+        {
+          "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
+          "link": "https://coinpost.jp/?p=726926",
+          "pub_date": "2026-07-24T05:40:59+09:00"
+        },
+        {
+          "title": "コインベース、AIエージェント向け決済機能を発表 x402採用",
+          "link": "https://coinpost.jp/?p=727087",
+          "pub_date": "2026-07-24T13:47:20+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:04.888620+09:00",
+      "last_seen": "2026-07-24T16:16:32.389532+09:00"
+    },
+    "Strategy": {
+      "article_count": 2,
+      "as_main_count": 0,
+      "as_related_count": 2,
+      "recent_articles": [
+        {
+          "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
+          "link": "https://www.neweconomy.jp/posts/594528",
+          "pub_date": "2026-07-24T14:23:22+09:00"
+        },
+        {
+          "title": "Strategyやブラックロックなど9社、ビットコイン開発支援へ1500万ドル拠出──量子リスクに備え【価格分析】",
+          "link": "https://www.nadanews.com/360927/",
+          "pub_date": "2026-07-24T12:56:05+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:04.888620+09:00",
+      "last_seen": "2026-07-24T16:16:32.389532+09:00"
+    },
+    "BlackRock": {
+      "article_count": 3,
+      "as_main_count": 3,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
+          "link": "https://www.neweconomy.jp/posts/594528",
+          "pub_date": "2026-07-24T14:23:22+09:00"
+        },
+        {
+          "title": "ストラテジーやブラックロックなど9社、ビットコイン安全保障団体を設立",
+          "link": "https://coinpost.jp/?p=726918",
+          "pub_date": "2026-07-24T05:00:04+09:00"
+        },
+        {
+          "title": "Strategyやブラックロックなど9社、ビットコイン開発支援へ1500万ドル拠出──量子リスクに備え【価格分析】",
+          "link": "https://www.nadanews.com/360927/",
+          "pub_date": "2026-07-24T12:56:05+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:04.888620+09:00",
+      "last_seen": "2026-07-24T16:16:32.389532+09:00"
+    },
+    "Fidelity": {
+      "article_count": 4,
+      "as_main_count": 1,
+      "as_related_count": 3,
+      "recent_articles": [
+        {
+          "title": "レボリュートが二次株式売却、評価額115Bドルか＝報道",
+          "link": "https://www.neweconomy.jp/posts/594388",
+          "pub_date": "2026-07-24T12:13:01+09:00"
+        },
+        {
+          "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
+          "link": "https://www.neweconomy.jp/posts/594528",
+          "pub_date": "2026-07-24T14:23:22+09:00"
+        },
+        {
+          "title": "ストラテジーやブラックロックなど9社、ビットコイン安全保障団体を設立",
+          "link": "https://coinpost.jp/?p=726918",
+          "pub_date": "2026-07-24T05:00:04+09:00"
+        },
+        {
+          "title": "Strategyやブラックロックなど9社、ビットコイン開発支援へ1500万ドル拠出──量子リスクに備え【価格分析】",
+          "link": "https://www.nadanews.com/360927/",
+          "pub_date": "2026-07-24T12:56:05+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:04.888620+09:00",
+      "last_seen": "2026-07-24T16:16:34.876092+09:00"
+    },
+    "Ripple": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "米BNY、米国債の24時間決済へ 2026年末にトークン試験取引",
+          "link": "https://coinpost.jp/?p=726928",
+          "pub_date": "2026-07-24T07:12:29+09:00"
+        },
+        {
+          "title": "リップル、機関向けRLUSD発行基盤「Ripple Mint」を開始──5つのネットワークへの追加展開に続き",
+          "link": "https://www.nadanews.com/360916/",
+          "pub_date": "2026-07-24T11:22:39+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:05.509758+09:00",
+      "last_seen": "2026-07-24T16:16:24.997353+09:00"
+    },
+    "Visa": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Coinbase、AIエージェントによるUSDC決済を企業ユーザーに提供",
+          "link": "https://www.nadanews.com/360914/",
+          "pub_date": "2026-07-24T08:30:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:06.153632+09:00",
+      "last_seen": "2026-07-24T16:16:06.153632+09:00"
+    },
+    "Mastercard": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Coinbase、AIエージェントによるUSDC決済を企業ユーザーに提供",
+          "link": "https://www.nadanews.com/360914/",
+          "pub_date": "2026-07-24T08:30:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:06.153632+09:00",
+      "last_seen": "2026-07-24T16:16:06.153632+09:00"
+    },
+    "Grayscale": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "日経新聞に掲載された筆者コメントを解説──日本版ビットコインETF「3兆円試算」の根拠【エックスウィン】",
+          "link": "https://www.nadanews.com/360894/",
+          "pub_date": "2026-07-24T06:53:51+09:00"
+        },
+        {
+          "title": "ビットコイン、すでに底を打った可能性＝Grayscale",
+          "link": "https://www.nadanews.com/360911/",
+          "pub_date": "2026-07-24T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:06.827873+09:00",
+      "last_seen": "2026-07-24T16:16:08.779894+09:00"
+    },
+    "JPMorgan": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
+          "link": "https://coinpost.jp/?p=726926",
+          "pub_date": "2026-07-24T05:40:59+09:00"
+        },
+        {
+          "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
+          "link": "https://www.nadanews.com/360897/",
+          "pub_date": "2026-07-24T07:30:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:07.510251+09:00",
+      "last_seen": "2026-07-24T16:16:26.941210+09:00"
+    },
+    "Uniswap": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ユニスワップラボ、規制対象資産向け「パーミッションドプール」発表。v4でアクセス制御型AMMを実現",
+          "link": "https://www.neweconomy.jp/posts/594482",
+          "pub_date": "2026-07-24T12:57:50+09:00"
+        },
+        {
+          "title": "Uniswap、トークン化資産のコンプライアンス対応を強化",
+          "link": "https://www.nadanews.com/360893/",
+          "pub_date": "2026-07-24T07:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:08.128838+09:00",
+      "last_seen": "2026-07-24T16:16:33.626639+09:00"
+    },
+    "日本銀行": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "日経新聞に掲載された筆者コメントを解説──日本版ビットコインETF「3兆円試算」の根拠【エックスウィン】",
+          "link": "https://www.nadanews.com/360894/",
+          "pub_date": "2026-07-24T06:53:51+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:08.779894+09:00",
+      "last_seen": "2026-07-24T16:16:08.779894+09:00"
+    },
+    "Circle": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
+          "link": "https://www.neweconomy.jp/posts/594589",
+          "pub_date": "2026-07-24T15:59:02+09:00"
+        },
+        {
+          "title": "Circle、韓国Kakaoと提携──USDC活用の決済基盤を共同検討",
+          "link": "https://www.nadanews.com/360887/",
+          "pub_date": "2026-07-24T06:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:10.024598+09:00",
+      "last_seen": "2026-07-24T16:16:30.546413+09:00"
+    },
+    "Binance": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ビットコインは「マクロ資産」へ、保有者の大規模再編も進行＝バイナンスの2026年上半期レポート",
+          "link": "https://coinpost.jp/?p=727083",
+          "pub_date": "2026-07-24T14:30:47+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:13.718679+09:00",
+      "last_seen": "2026-07-24T16:16:13.718679+09:00"
+    },
+    "Tether": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "暗号資産×AI融合 Justin Sun氏がTRONの展望を語る｜WebX2026",
+          "link": "https://coinpost.jp/?p=725331",
+          "pub_date": "2026-07-24T09:00:17+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:22.011018+09:00",
+      "last_seen": "2026-07-24T16:16:22.011018+09:00"
+    },
+    "Robinhood": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "「仮想通貨の次の強気相場を牽引するのは伝統金融との融合」ビットワイズ幹部が見解",
+          "link": "https://coinpost.jp/?p=726943",
+          "pub_date": "2026-07-24T08:25:27+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:23.529514+09:00",
+      "last_seen": "2026-07-24T16:16:23.529514+09:00"
+    },
+    "SEC": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
+          "link": "https://coinpost.jp/?p=726926",
+          "pub_date": "2026-07-24T05:40:59+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:26.941210+09:00",
+      "last_seen": "2026-07-24T16:16:26.941210+09:00"
+    },
+    "Upbit": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
+          "link": "https://www.neweconomy.jp/posts/594589",
+          "pub_date": "2026-07-24T15:59:02+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:30.546413+09:00",
+      "last_seen": "2026-07-24T16:16:30.546413+09:00"
+    },
+    "Bithumb": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
+          "link": "https://www.neweconomy.jp/posts/594589",
+          "pub_date": "2026-07-24T15:59:02+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:30.546413+09:00",
+      "last_seen": "2026-07-24T16:16:30.546413+09:00"
+    },
+    "Kraken": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "バイビット、xStocksを構造化運用商品「デュアルアセット」に追加",
+          "link": "https://www.neweconomy.jp/posts/594537",
+          "pub_date": "2026-07-24T15:02:42+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:31.154591+09:00",
+      "last_seen": "2026-07-24T16:16:31.154591+09:00"
+    },
+    "Bybit": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "バイビット、xStocksを構造化運用商品「デュアルアセット」に追加",
+          "link": "https://www.neweconomy.jp/posts/594537",
+          "pub_date": "2026-07-24T15:02:42+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:31.154591+09:00",
+      "last_seen": "2026-07-24T16:16:31.154591+09:00"
+    },
+    "Solana": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "S＆Pとパンテラ、プロトコル収益重視の暗号資産指数を算出開始",
+          "link": "https://www.neweconomy.jp/posts/594539",
+          "pub_date": "2026-07-24T14:40:06+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:31.772049+09:00",
+      "last_seen": "2026-07-24T16:16:31.772049+09:00"
+    },
+    "ARK Invest": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
+          "link": "https://www.neweconomy.jp/posts/594528",
+          "pub_date": "2026-07-24T14:23:22+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:32.389532+09:00",
+      "last_seen": "2026-07-24T16:16:32.389532+09:00"
+    },
+    "bitbank": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ビットバンク、イーサリアム（ETH）のステーキングサービス提供開始を予告",
+          "link": "https://www.neweconomy.jp/posts/594489",
+          "pub_date": "2026-07-24T13:33:47+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:33.007405+09:00",
+      "last_seen": "2026-07-24T16:16:33.007405+09:00"
+    },
+    "BitMEX": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ビットメックス、9/23に取引所サービス終了へ",
+          "link": "https://www.neweconomy.jp/posts/594436",
+          "pub_date": "2026-07-24T12:10:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:35.493650+09:00",
+      "last_seen": "2026-07-24T16:16:35.493650+09:00"
+    }
+  }
+}

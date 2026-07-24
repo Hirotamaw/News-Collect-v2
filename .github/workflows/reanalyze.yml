@@ -1,0 +1,37 @@
+name: Reanalyze Articles
+
+# 手動実行専用。定期実行スケジュールは持たない。
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  reanalyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      # reanalyze.py の実行 → commit/push の順序は厳守（逆順にすると反映されない）
+      - name: Run reanalyze.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/reanalyze.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/news.json docs/data/entities.json
+          git diff --cached --quiet || git commit -m "chore: reanalyze articles"
+          git push

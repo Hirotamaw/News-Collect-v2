@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>暗号資産ニュース</title>
+<style>
+  :root {
+    --bg: #f4f5f7;
+    --card-bg: #ffffff;
+    --text: #1a1d23;
+    --text-sub: #6b7280;
+    --border: #e5e7eb;
+    --accent: #111827;
+    --chip-bg: #eef0f3;
+    --chip-text: #374151;
+    --main-entity-bg: #fde68a;
+    --main-entity-text: #78350f;
+    --related-entity-bg: #e5e7eb;
+    --related-entity-text: #374151;
+    --error-color: #dc2626;
+    --edited-bg: #dbeafe;
+    --edited-text: #1e40af;
+    --mark-bg: #fef08a;
+
+    --c-nada: #0f6e56;
+    --c-coinpost: #1d4ed8;
+    --c-neweconomy: #7c3aed;
+    --c-cointelegraph: #b45309;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+
+  header {
+    background: var(--card-bg);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  header h1 {
+    margin: 0 0 12px;
+    font-size: 20px;
+  }
+  header h1 .sub {
+    font-size: 13px;
+    color: var(--text-sub);
+    font-weight: normal;
+    margin-left: 8px;
+  }
+
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 6px;
+    background: var(--chip-bg);
+    padding: 4px;
+    border-radius: 10px;
+  }
+  .tabs button {
+    border: none;
+    background: transparent;
+    padding: 6px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--chip-text);
+  }
+  .tabs button.active {
+    background: var(--accent);
+    color: #fff;
+  }
+
+  .btn {
+    border: 1px solid var(--border);
+    background: var(--card-bg);
+    padding: 7px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--text);
+  }
+  .btn:hover { background: var(--chip-bg); }
+  .btn.active {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+
+  .spacer { flex: 1; }
+
+  #search {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 7px 12px;
+    font-size: 13px;
+    width: 220px;
+    max-width: 50vw;
+  }
+
+  .filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+  }
+
+  .chip {
+    border: 1px solid var(--border);
+    background: var(--chip-bg);
+    color: var(--chip-text);
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .chip .count { color: var(--text-sub); margin-left: 4px; }
+  .chip.active { color: #fff; border-color: transparent; }
+  .chip.active .count { color: rgba(255,255,255,0.85); }
+
+  .chip[data-source="NADA NEWS"].active { background: var(--c-nada); }
+  .chip[data-source="CoinPost"].active { background: var(--c-coinpost); }
+  .chip[data-source="あたらしい経済"].active { background: var(--c-neweconomy); }
+  .chip[data-source="CoinTelegraph JP"].active { background: var(--c-cointelegraph); }
+  .chip[data-category].active { background: var(--accent); }
+
+  main {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 16px 20px 60px;
+  }
+
+  .status-line {
+    font-size: 12px;
+    color: var(--text-sub);
+    margin: 4px 0 14px;
+  }
+
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+    margin-bottom: 14px;
+  }
+
+  .badges {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+  .badge {
+    font-size: 11px;
+    padding: 3px 9px;
+    border-radius: 999px;
+    color: #fff;
+    font-weight: 600;
+  }
+  .badge.category {
+    background: var(--chip-bg);
+    color: var(--chip-text);
+    font-weight: 500;
+  }
+  .badge.edited {
+    background: var(--edited-bg);
+    color: var(--edited-text);
+    font-weight: 500;
+  }
+
+  .card h2 {
+    font-size: 16px;
+    margin: 0 0 6px;
+  }
+  .card h2 a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  .card h2 a:hover { text-decoration: underline; }
+
+  .pub-date {
+    font-size: 12px;
+    color: var(--text-sub);
+    margin-bottom: 10px;
+  }
+
+  .summary {
+    font-size: 14px;
+    margin-bottom: 12px;
+    white-space: pre-wrap;
+  }
+  .summary.error { color: var(--error-color); }
+  .summary-error-tag {
+    display: inline-block;
+    font-size: 11px;
+    color: var(--error-color);
+    border: 1px solid var(--error-color);
+    border-radius: 6px;
+    padding: 1px 6px;
+    margin-bottom: 6px;
+  }
+
+  .entities {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+  .tag {
+    font-size: 11px;
+    padding: 3px 9px;
+    border-radius: 999px;
+  }
+  .tag.main { background: var(--main-entity-bg); color: var(--main-entity-text); font-weight: 600; }
+  .tag.related { background: var(--related-entity-bg); color: var(--related-entity-text); }
+
+  .card-actions {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    font-size: 12px;
+  }
+  .card-actions a, .card-actions button.link-like {
+    color: var(--text-sub);
+    text-decoration: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 0;
+  }
+  .card-actions a:hover, .card-actions button.link-like:hover { color: var(--text); text-decoration: underline; }
+
+  .edit-panel {
+    margin-top: 12px;
+    padding: 12px;
+    background: var(--bg);
+    border-radius: 8px;
+    border: 1px solid var(--border);
+  }
+  .edit-panel label {
+    display: block;
+    font-size: 12px;
+    color: var(--text-sub);
+    margin-bottom: 4px;
+    margin-top: 10px;
+  }
+  .edit-panel label:first-child { margin-top: 0; }
+  .edit-panel input[type=text] {
+    width: 100%;
+    padding: 7px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 13px;
+  }
+  .edit-panel .hint { font-size: 11px; color: var(--text-sub); margin-top: 3px; }
+  .edit-panel .edit-actions {
+    margin-top: 12px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  .edit-status { font-size: 12px; color: var(--text-sub); }
+
+  mark { background: var(--mark-bg); border-radius: 2px; padding: 0 1px; }
+
+  .empty-state {
+    text-align: center;
+    color: var(--text-sub);
+    padding: 60px 20px;
+    font-size: 14px;
+  }
+
+  .modal-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+  }
+  .modal-backdrop.hidden { display: none; }
+  .modal {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 20px;
+    width: 380px;
+    max-width: 90vw;
+  }
+  .modal h3 { margin-top: 0; font-size: 15px; }
+  .modal label {
+    display: block;
+    font-size: 12px;
+    color: var(--text-sub);
+    margin: 10px 0 4px;
+  }
+  .modal input[type=text], .modal input[type=password] {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 13px;
+  }
+  .modal .hint { font-size: 11px; color: var(--text-sub); margin-top: 8px; }
+  .modal-actions {
+    margin-top: 16px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161a;
+      --card-bg: #1c1f26;
+      --text: #e7e9ec;
+      --text-sub: #9aa1ab;
+      --border: #2c313a;
+      --accent: #e7e9ec;
+      --chip-bg: #262a32;
+      --chip-text: #c6cad2;
+      --main-entity-bg: #7c5e0f;
+      --main-entity-text: #fde68a;
+      --related-entity-bg: #2c313a;
+      --related-entity-text: #c6cad2;
+      --edited-bg: #1e3a5f;
+      --edited-text: #93c5fd;
+      --mark-bg: #7c5e0f;
+    }
+    .tabs button.active { color: #14161a; }
+    .btn.active { color: #14161a; }
+    .chip[data-category].active { color: #14161a; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>暗号資産ニュース<span class="sub" id="lastUpdated"></span></h1>
+  <div class="toolbar">
+    <div class="tabs" id="periodTabs">
+      <button data-period="24h">過去24時間</button>
+      <button data-period="today">今日</button>
+      <button data-period="week">今週</button>
+      <button data-period="all">すべて</button>
+    </div>
+    <button class="btn" id="todayOnlyBtn" title="当日09:00 JST以降の記事に絞り込み">🌅 今日分</button>
+    <button class="btn" id="refreshBtn" title="news.jsonを再読み込み">↻ 更新</button>
+    <div class="spacer"></div>
+    <input type="text" id="search" placeholder="タイトル・要約・企業名で検索">
+    <button class="btn" id="settingsBtn" title="GitHub Personal Access Tokenの設定">⚙</button>
+  </div>
+  <div class="filter-row" id="sourceFilters"></div>
+  <div class="filter-row" id="categoryFilters"></div>
+</header>
+
+<main>
+  <div class="status-line" id="statusLine"></div>
+  <div id="articleList"></div>
+</main>
+
+<div class="modal-backdrop hidden" id="settingsModal">
+  <div class="modal">
+    <h3>GitHub連携設定</h3>
+    <label for="ghToken">Personal Access Token（scope: repo）</label>
+    <input type="password" id="ghToken" placeholder="ghp_...">
+    <label for="ghRepo">リポジトリ（owner/repo）</label>
+    <input type="text" id="ghRepo" placeholder="Hirotamaw/News_collector">
+    <label for="ghBranch">ブランチ</label>
+    <input type="text" id="ghBranch" placeholder="main">
+    <p class="hint">トークンはこのブラウザのlocalStorageにのみ保存され、サーバーには送信されません。企業名の編集内容はGitHub Contents API経由で直接コミットされます。</p>
+    <div class="modal-actions">
+      <button class="btn" id="ghClearBtn">クリア</button>
+      <button class="btn active" id="ghSaveBtn">保存</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const DATA_URL = 'data/news.json';
+const SOURCE_ORDER = ['NADA NEWS', 'CoinPost', 'あたらしい経済', 'CoinTelegraph JP'];
+const GH_STORAGE_KEY = 'newsCollector.githubSettings';
+
+const state = {
+  articles: [],
+  lastUpdated: null,
+  period: '24h',
+  todayOnly: false,
+  activeSources: new Set(),
+  activeCategories: new Set(),
+  query: '',
+  editingLink: null,
+};
+
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function highlight(text, query) {
+  const escaped = escapeHtml(text);
+  if (!query) return escaped;
+  const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp('(' + escapedQuery.replace(/ /g, '|') + ')', 'gi');
+  return escaped.replace(re, '<mark>$1</mark>');
+}
+
+function jstBoundaryEpoch(hourOfDay) {
+  const now = new Date();
+  const jstShifted = new Date(now.getTime() + 9 * 3600 * 1000);
+  const boundaryJst = new Date(Date.UTC(
+    jstShifted.getUTCFullYear(), jstShifted.getUTCMonth(), jstShifted.getUTCDate(), hourOfDay, 0, 0
+  ));
+  let boundaryEpoch = boundaryJst.getTime() - 9 * 3600 * 1000;
+  if (boundaryEpoch > now.getTime()) boundaryEpoch -= 24 * 3600 * 1000;
+  return boundaryEpoch;
+}
+
+function formatJst(isoString) {
+  const d = new Date(isoString);
+  const shifted = new Date(d.getTime() + 9 * 3600 * 1000);
+  const pad = n => String(n).padStart(2, '0');
+  return `${shifted.getUTCFullYear()}年${pad(shifted.getUTCMonth() + 1)}月${pad(shifted.getUTCDate())}日 ${pad(shifted.getUTCHours())}:${pad(shifted.getUTCMinutes())}`;
+}
+
+function matchesPeriod(article) {
+  const pubMs = new Date(article.pub_date).getTime();
+  const now = Date.now();
+  if (state.todayOnly) {
+    return pubMs >= jstBoundaryEpoch(9);
+  }
+  switch (state.period) {
+    case '24h': return now - pubMs <= 24 * 3600 * 1000;
+    case 'today': return pubMs >= jstBoundaryEpoch(0);
+    case 'week': return now - pubMs <= 7 * 24 * 3600 * 1000;
+    case 'all': default: return true;
+  }
+}
+
+function matchesQuery(article, query) {
+  if (!query) return true;
+  const q = query.toLowerCase();
+  const haystack = [
+    article.title,
+    article.summary,
+    ...(article.all_entities || []),
+    ...(article.main_entities || []),
+  ].join(' ').toLowerCase();
+  return haystack.includes(q);
+}
+
+function filteredArticles() {
+  return state.articles.filter(a => {
+    if (!matchesPeriod(a)) return false;
+    if (state.activeSources.size && !state.activeSources.has(a.source_name)) return false;
+    if (state.activeCategories.size && !state.activeCategories.has(a.category)) return false;
+    if (!matchesQuery(a, state.query)) return false;
+    return true;
+  });
+}
+
+function countBy(articles, key) {
+  const counts = {};
+  for (const a of articles) {
+    const v = a[key];
+    counts[v] = (counts[v] || 0) + 1;
+  }
+  return counts;
+}
+
+function renderFilters() {
+  const baseArticles = state.articles.filter(a => matchesPeriod(a) && matchesQuery(a, state.query));
+  const sourceCounts = countBy(baseArticles, 'source_name');
+  const categoryCounts = countBy(baseArticles, 'category');
+
+  const sourceHtml = SOURCE_ORDER.filter(s => sourceCounts[s]).map(s => {
+    const active = state.activeSources.has(s);
+    return `<button class="chip${active ? ' active' : ''}" data-source="${escapeHtml(s)}">${escapeHtml(s)}<span class="count">${sourceCounts[s]}</span></button>`;
+  }).join('');
+  document.getElementById('sourceFilters').innerHTML = sourceHtml;
+  document.querySelectorAll('#sourceFilters .chip').forEach(btn => {
+    const s = btn.dataset.source;
+    btn.addEventListener('click', () => {
+      if (state.activeSources.has(s)) state.activeSources.delete(s);
+      else state.activeSources.add(s);
+      renderAll();
+    });
+  });
+
+  const sortedCategories = Object.entries(categoryCounts).sort((a, b) => b[1] - a[1]);
+  const categoryHtml = sortedCategories.map(([cat, count]) => {
+    const active = state.activeCategories.has(cat);
+    return `<button class="chip${active ? ' active' : ''}" data-category="${escapeHtml(cat)}">${escapeHtml(cat)}<span class="count">${count}</span></button>`;
+  }).join('');
+  document.getElementById('categoryFilters').innerHTML = categoryHtml;
+  document.querySelectorAll('#categoryFilters .chip').forEach(btn => {
+    const c = btn.dataset.category;
+    btn.addEventListener('click', () => {
+      if (state.activeCategories.has(c)) state.activeCategories.delete(c);
+      else state.activeCategories.add(c);
+      renderAll();
+    });
+  });
+}
+
+function entityTagsHtml(article) {
+  const mainSet = new Set(article.main_entities || []);
+  const mainTags = (article.main_entities || []).map(e => `<span class="tag main">${highlight(e, state.query)}</span>`);
+  const relatedTags = (article.all_entities || []).filter(e => !mainSet.has(e)).map(e => `<span class="tag related">${highlight(e, state.query)}</span>`);
+  return mainTags.concat(relatedTags).join('');
+}
+
+function cardHtml(article) {
+  const isEditing = state.editingLink === article.link;
+  return `
+  <article class="card" data-link="${escapeHtml(article.link)}">
+    <div class="badges">
+      <span class="badge" style="background:${article.source_color || '#666'}">${escapeHtml(article.source_name)}</span>
+      <span class="badge category">${escapeHtml(article.category || '未分類')}</span>
+      ${article.manually_edited ? '<span class="badge edited">編集済</span>' : ''}
+    </div>
+    <h2><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer">${highlight(article.title, state.query)}</a></h2>
+    <div class="pub-date">${formatJst(article.pub_date)}</div>
+    ${article.summary_error ? '<div class="summary-error-tag">要約生成エラー（フォールバック表示）</div>' : ''}
+    <div class="summary${article.summary_error ? ' error' : ''}">${highlight(article.summary || '', state.query)}</div>
+    <div class="entities">${entityTagsHtml(article)}</div>
+    <div class="card-actions">
+      <button class="link-like edit-toggle">✎ 編集</button>
+      <a href="${escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer">元記事を開く ↗</a>
+    </div>
+    ${isEditing ? editPanelHtml(article) : ''}
+  </article>`;
+}
+
+function editPanelHtml(article) {
+  return `
+  <div class="edit-panel">
+    <label>主体企業（main_entities）※カンマ区切り</label>
+    <input type="text" class="edit-main" value="${escapeHtml((article.main_entities || []).join(', '))}">
+    <label>登場企業・団体（all_entities）※カンマ区切り</label>
+    <input type="text" class="edit-all" value="${escapeHtml((article.all_entities || []).join(', '))}">
+    <div class="hint">保存すると manually_edited フラグが立ち、次回以降の自動処理で上書きされなくなります。</div>
+    <div class="edit-actions">
+      <button class="btn edit-cancel">キャンセル</button>
+      <button class="btn edit-save-local">ローカルに反映</button>
+      <button class="btn active edit-save-github">💾 GitHubに保存</button>
+      <span class="edit-status"></span>
+    </div>
+  </div>`;
+}
+
+function attachCardHandlers() {
+  document.querySelectorAll('.card').forEach(card => {
+    const link = card.dataset.link;
+    const article = state.articles.find(a => a.link === link);
+
+    card.querySelector('.edit-toggle').addEventListener('click', () => {
+      state.editingLink = state.editingLink === link ? null : link;
+      renderList();
+    });
+
+    const cancelBtn = card.querySelector('.edit-cancel');
+    if (cancelBtn) cancelBtn.addEventListener('click', () => {
+      state.editingLink = null;
+      renderList();
+    });
+
+    const saveLocalBtn = card.querySelector('.edit-save-local');
+    if (saveLocalBtn) saveLocalBtn.addEventListener('click', () => {
+      applyEdit(article, card, false);
+    });
+
+    const saveGithubBtn = card.querySelector('.edit-save-github');
+    if (saveGithubBtn) saveGithubBtn.addEventListener('click', () => {
+      applyEdit(article, card, true);
+    });
+  });
+}
+
+function parseTagList(value) {
+  return value.split(',').map(s => s.trim()).filter(Boolean);
+}
+
+async function applyEdit(article, card, pushToGithub) {
+  const mainVal = parseTagList(card.querySelector('.edit-main').value);
+  const allVal = parseTagList(card.querySelector('.edit-all').value);
+  const statusEl = card.querySelector('.edit-status');
+
+  article.main_entities = mainVal;
+  article.all_entities = allVal;
+  article.manually_edited = true;
+
+  if (!pushToGithub) {
+    state.editingLink = null;
+    renderAll();
+    return;
+  }
+
+  const settings = loadGithubSettings();
+  if (!settings.token || !settings.repo) {
+    statusEl.textContent = '⚙ でGitHub PATとリポジトリを設定してください';
+    return;
+  }
+
+  statusEl.textContent = '保存中...';
+  try {
+    await saveNewsToGithub(settings);
+    statusEl.textContent = '保存しました';
+    state.editingLink = null;
+    renderAll();
+  } catch (err) {
+    statusEl.textContent = '保存に失敗しました: ' + err.message;
+  }
+}
+
+function loadGithubSettings() {
+  try {
+    return JSON.parse(localStorage.getItem(GH_STORAGE_KEY) || '{}');
+  } catch (e) {
+    return {};
+  }
+}
+
+function saveGithubSettings(settings) {
+  localStorage.setItem(GH_STORAGE_KEY, JSON.stringify(settings));
+}
+
+async function saveNewsToGithub(settings) {
+  const { token, repo, branch } = settings;
+  const path = 'docs/data/news.json';
+  const apiUrl = `https://api.github.com/repos/${repo}/contents/${path}${branch ? `?ref=${encodeURIComponent(branch)}` : ''}`;
+
+  const getRes = await fetch(apiUrl, {
+    headers: { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json' },
+  });
+  if (!getRes.ok) throw new Error(`GET failed (${getRes.status})`);
+  const getData = await getRes.json();
+
+  const payload = {
+    articles: state.articles,
+    last_updated: state.lastUpdated,
+    total_count: state.articles.length,
+    sources: SOURCE_ORDER,
+  };
+  const content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2) + '\n')));
+
+  const putRes = await fetch(apiUrl, {
+    method: 'PUT',
+    headers: {
+      Authorization: `Bearer ${token}`,
+      Accept: 'application/vnd.github+json',
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      message: 'chore: update news.json via frontend inline edit',
+      content,
+      sha: getData.sha,
+      branch: branch || undefined,
+    }),
+  });
+  if (!putRes.ok) {
+    const errBody = await putRes.json().catch(() => ({}));
+    throw new Error(errBody.message || `PUT failed (${putRes.status})`);
+  }
+}
+
+function renderList() {
+  const list = filteredArticles();
+  document.getElementById('statusLine').textContent = `${list.length}件の記事を表示中（全${state.articles.length}件）`;
+  const container = document.getElementById('articleList');
+  if (!list.length) {
+    container.innerHTML = '<div class="empty-state">該当する記事がありません</div>';
+    return;
+  }
+  container.innerHTML = list.map(cardHtml).join('');
+  attachCardHandlers();
+}
+
+function renderAll() {
+  renderFilters();
+  renderList();
+}
+
+async function loadData(bust) {
+  const url = DATA_URL + (bust ? `?t=${Date.now()}` : '');
+  const res = await fetch(url);
+  const data = await res.json();
+  state.articles = data.articles || [];
+  state.lastUpdated = data.last_updated || null;
+  document.getElementById('lastUpdated').textContent = state.lastUpdated
+    ? `最終更新: ${formatJst(state.lastUpdated)}`
+    : '';
+  renderAll();
+}
+
+function setupToolbar() {
+  document.querySelectorAll('#periodTabs button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.period = btn.dataset.period;
+      state.todayOnly = false;
+      document.querySelectorAll('#periodTabs button').forEach(b => b.classList.toggle('active', b === btn));
+      document.getElementById('todayOnlyBtn').classList.remove('active');
+      renderAll();
+    });
+  });
+  document.querySelector('#periodTabs button[data-period="24h"]').classList.add('active');
+
+  document.getElementById('todayOnlyBtn').addEventListener('click', () => {
+    state.todayOnly = !state.todayOnly;
+    document.getElementById('todayOnlyBtn').classList.toggle('active', state.todayOnly);
+    renderAll();
+  });
+
+  document.getElementById('refreshBtn').addEventListener('click', () => loadData(true));
+
+  let searchTimer = null;
+  document.getElementById('search').addEventListener('input', (e) => {
+    clearTimeout(searchTimer);
+    const value = e.target.value.trim();
+    searchTimer = setTimeout(() => {
+      state.query = value;
+      renderAll();
+    }, 200);
+  });
+
+  const modal = document.getElementById('settingsModal');
+  document.getElementById('settingsBtn').addEventListener('click', () => {
+    const s = loadGithubSettings();
+    document.getElementById('ghToken').value = s.token || '';
+    document.getElementById('ghRepo').value = s.repo || '';
+    document.getElementById('ghBranch').value = s.branch || 'main';
+    modal.classList.remove('hidden');
+  });
+  modal.addEventListener('click', (e) => { if (e.target === modal) modal.classList.add('hidden'); });
+  document.getElementById('ghSaveBtn').addEventListener('click', () => {
+    saveGithubSettings({
+      token: document.getElementById('ghToken').value.trim(),
+      repo: document.getElementById('ghRepo').value.trim(),
+      branch: document.getElementById('ghBranch').value.trim() || 'main',
+    });
+    modal.classList.add('hidden');
+  });
+  document.getElementById('ghClearBtn').addEventListener('click', () => {
+    localStorage.removeItem(GH_STORAGE_KEY);
+    document.getElementById('ghToken').value = '';
+    document.getElementById('ghRepo').value = '';
+    document.getElementById('ghBranch').value = '';
+  });
+}
+
+setupToolbar();
+loadData(false);
+</script>
+</body>
+</html>
