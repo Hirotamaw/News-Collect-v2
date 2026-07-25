@@ -526,7 +526,11 @@ function renderFilters() {
 
 function entityTagsHtml(article) {
   const mainSet = new Set(article.main_entities || []);
-  const mainTags = (article.main_entities || []).map(e => `<span class="tag main">${highlight(e, state.query)}</span>`);
+  const isReport = article.category === '分析・レポート';
+  const mainTags = (article.main_entities || []).map(e => {
+    const label = isReport ? `分析会社「${e}」` : e;
+    return `<span class="tag main">${highlight(label, state.query)}</span>`;
+  });
   const relatedTags = (article.all_entities || []).filter(e => !mainSet.has(e)).map(e => `<span class="tag related">${highlight(e, state.query)}</span>`);
   return mainTags.concat(relatedTags).join('');
 }

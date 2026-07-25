@@ -262,6 +262,39 @@ def match_entities(title, body_text):
     return all_entities, main_entities
 
 
+# Gemini出力（自由記述）の正規化用。ENTITY_DBのエイリアスをすべて正式名称へのマップにしておき、
+# 「コインベース」「Coinbase」のような表記ゆれをまとめて重複を防ぐ。
+_ALIAS_TO_CANONICAL = {
+    alias.lower(): canonical for canonical, aliases in ENTITY_DB.items() for alias in aliases
+}
+
+# 人物名・役職名がentityとして紛れ込むのを防ぐためのキーワード（部分一致で除外）。
+_TITLE_KEYWORDS = [
+    "CEO", "CFO", "COO", "CTO", "会長", "社長", "代表取締役", "代表理事", "理事長",
+    "総裁", "会頭", "副社長", "専務", "常務", "取締役", "議員", "大臣", "長官",
+    "委員長", "局長", "頭取", "創業者", "founder", "Founder",
+]
+
+
+def canonicalize_entities(names):
+    """企業名リストを正規化する: 表記ゆれの統合・重複排除・人物名/役職名の除去。"""
+    result = []
+    seen = set()
+    for raw in names or []:
+        name = (raw or "").strip()
+        if not name:
+            continue
+        if any(kw in name for kw in _TITLE_KEYWORDS):
+            continue
+        canonical = _ALIAS_TO_CANONICAL.get(name.lower(), name)
+        key = canonical.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        result.append(canonical)
+    return result
+
+
 def keyword_category(title, body_text):
     haystack = f"{title} {body_text}"
     scores = {}
@@ -302,8 +335,11 @@ def _build_prompt(title, body_text):
 - summary: 350〜400字の日本語要約。省略記号（…や"[…]"など）は使わず、必ず完結した文章にすること。
 - category: 以下のカテゴリの中から最も適切なものを1つだけ選ぶこと（このリストの文字列をそのまま出力し、番号は使わないこと）。
 {categories_list}
-- all_entities: 記事本文中に登場する全ての企業名・団体名・プロジェクト名のリスト。
+- all_entities: 記事本文中に登場する全ての企業名・団体名・プロジェクト名のリスト。以下のルールを厳守すること。
+  - 同一の企業・団体がカタカナ表記と英語表記の両方で記事中に登場する場合（例:「コインベース」と「Coinbase」）、重複して列挙せず、どちらか一方（より正式・一般的な表記）に統一すること。
+  - 人物名（例:「デービッド・ソロモン」）や役職名（CEO、会長、社長、代表取締役など）は企業名ではないため含めないこと。その人物が所属する企業名のみを含めること。
 - main_entities: all_entitiesのうち、タイトルにおいて主役となっている企業・団体を1〜3件選んだリスト。
+  - カテゴリが「分析・レポート」の場合は、分析・調査を行っている企業や機関（分析主体）を優先すること。分析対象となっている企業やプロトコルそのものではない点に注意すること。
 """
 
 
@@ -346,12 +382,13 @@ def gemini_analyze(title, body_text, api_key, timeout=30):
     if not summary:
         raise ValueError("empty summary from Gemini")
 
+    # プロンプトで表記統一・人物名除外を指示しているが、確実性のためコード側でも正規化する
     return {
         "summary": summary,
         "summary_error": False,
         "category": result.get("category") or DEFAULT_CATEGORY,
-        "all_entities": result.get("all_entities") or [],
-        "main_entities": result.get("main_entities") or [],
+        "all_entities": canonicalize_entities(result.get("all_entities")),
+        "main_entities": canonicalize_entities(result.get("main_entities")),
     }
 
 
