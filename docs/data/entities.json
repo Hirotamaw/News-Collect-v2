@@ -1,10 +1,15 @@
 {
   "entities": {
     "楽天ウォレット": {
-      "article_count": 1,
-      "as_main_count": 1,
+      "article_count": 2,
+      "as_main_count": 2,
       "as_related_count": 0,
       "recent_articles": [
+        {
+          "title": "マトリックス法によるテクニカル分析（2026/7/24）梅雨明け！次はサマーラリー？【楽天ウォレット】",
+          "link": "https://www.nadanews.com/361019/",
+          "pub_date": "2026-07-24T18:25:13+09:00"
+        },
         {
           "title": "ビットコイン軟調 Clarity法案、休会前採決断念で9月へ先送り【楽天ウォレットDaily Report】",
           "link": "https://www.nadanews.com/360947/",
@@ -12,7 +17,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:04.237265+09:00",
-      "last_seen": "2026-07-24T16:16:04.237265+09:00"
+      "last_seen": "2026-07-25T10:24:48.873999+09:00"
     },
     "楽天": {
       "article_count": 1,
@@ -29,10 +34,25 @@
       "last_seen": "2026-07-24T16:16:04.237265+09:00"
     },
     "Coinbase": {
-      "article_count": 8,
-      "as_main_count": 5,
-      "as_related_count": 3,
+      "article_count": 11,
+      "as_main_count": 6,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        },
+        {
+          "title": "強気回復の中で問われる「買いの質」── ETF流入と現物需要が支えるビットコイン市場【BitTrade Market Weekly】",
+          "link": "https://www.nadanews.com/361093/",
+          "pub_date": "2026-07-25T06:30:00+09:00"
+        },
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
+          "link": "https://www.nadanews.com/360969/",
+          "pub_date": "2026-07-25T08:00:00+09:00"
+        },
         {
           "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
           "link": "https://www.neweconomy.jp/posts/594616",
@@ -42,50 +62,55 @@
           "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
           "link": "https://www.neweconomy.jp/posts/594528",
           "pub_date": "2026-07-24T14:23:22+09:00"
-        },
-        {
-          "title": "バイビット、xStocksを構造化運用商品「デュアルアセット」に追加",
-          "link": "https://www.neweconomy.jp/posts/594537",
-          "pub_date": "2026-07-24T15:02:42+09:00"
-        },
-        {
-          "title": "ストラテジーやブラックロックなど9社、ビットコイン安全保障団体を設立",
-          "link": "https://coinpost.jp/?p=726918",
-          "pub_date": "2026-07-24T05:00:04+09:00"
-        },
-        {
-          "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
-          "link": "https://coinpost.jp/?p=726926",
-          "pub_date": "2026-07-24T05:40:59+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-07-24T17:31:00.645680+09:00"
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "Strategy": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
+      "as_related_count": 3,
+      "recent_articles": [
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
+          "link": "https://www.nadanews.com/360969/",
+          "pub_date": "2026-07-25T08:00:00+09:00"
+        },
+        {
+          "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
+          "link": "https://www.neweconomy.jp/posts/594528",
+          "pub_date": "2026-07-24T14:23:22+09:00"
+        },
+        {
+          "title": "Strategyやブラックロックなど9社、ビットコイン開発支援へ1500万ドル拠出──量子リスクに備え【価格分析】",
+          "link": "https://www.nadanews.com/360927/",
+          "pub_date": "2026-07-24T12:56:05+09:00"
+        }
+      ],
+      "first_seen": "2026-07-24T16:16:04.888620+09:00",
+      "last_seen": "2026-07-25T10:24:09.150546+09:00"
+    },
+    "BlackRock": {
+      "article_count": 6,
+      "as_main_count": 4,
       "as_related_count": 2,
       "recent_articles": [
         {
-          "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
-          "link": "https://www.neweconomy.jp/posts/594528",
-          "pub_date": "2026-07-24T14:23:22+09:00"
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
         },
         {
-          "title": "Strategyやブラックロックなど9社、ビットコイン開発支援へ1500万ドル拠出──量子リスクに備え【価格分析】",
-          "link": "https://www.nadanews.com/360927/",
-          "pub_date": "2026-07-24T12:56:05+09:00"
-        }
-      ],
-      "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-07-24T16:16:32.389532+09:00"
-    },
-    "BlackRock": {
-      "article_count": 3,
-      "as_main_count": 3,
-      "as_related_count": 0,
-      "recent_articles": [
+          "title": "強気回復の中で問われる「買いの質」── ETF流入と現物需要が支えるビットコイン市場【BitTrade Market Weekly】",
+          "link": "https://www.nadanews.com/361093/",
+          "pub_date": "2026-07-25T06:30:00+09:00"
+        },
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
+          "link": "https://www.nadanews.com/360969/",
+          "pub_date": "2026-07-25T08:00:00+09:00"
+        },
         {
           "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
           "link": "https://www.neweconomy.jp/posts/594528",
@@ -95,15 +120,10 @@
           "title": "ストラテジーやブラックロックなど9社、ビットコイン安全保障団体を設立",
           "link": "https://coinpost.jp/?p=726918",
           "pub_date": "2026-07-24T05:00:04+09:00"
-        },
-        {
-          "title": "Strategyやブラックロックなど9社、ビットコイン開発支援へ1500万ドル拠出──量子リスクに備え【価格分析】",
-          "link": "https://www.nadanews.com/360927/",
-          "pub_date": "2026-07-24T12:56:05+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-07-24T16:16:32.389532+09:00"
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "Fidelity": {
       "article_count": 4,
@@ -135,10 +155,15 @@
       "last_seen": "2026-07-24T16:16:34.876092+09:00"
     },
     "Ripple": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 3,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        },
         {
           "title": "リップル、暗号資産決済・コンプライアンス基盤のノタベネに戦略出資",
           "link": "https://www.neweconomy.jp/posts/594608",
@@ -156,7 +181,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:05.509758+09:00",
-      "last_seen": "2026-07-24T17:31:07.565341+09:00"
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "Visa": {
       "article_count": 1,
@@ -263,10 +288,20 @@
       "last_seen": "2026-07-24T17:30:54.717778+09:00"
     },
     "Circle": {
-      "article_count": 2,
+      "article_count": 4,
       "as_main_count": 2,
-      "as_related_count": 0,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        },
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
+          "link": "https://www.nadanews.com/360969/",
+          "pub_date": "2026-07-25T08:00:00+09:00"
+        },
         {
           "title": "米サークル、韓国カカオグループとMOU。USDC活用など共同検討",
           "link": "https://www.neweconomy.jp/posts/594589",
@@ -279,7 +314,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:10.024598+09:00",
-      "last_seen": "2026-07-24T16:16:30.546413+09:00"
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "Binance": {
       "article_count": 2,
@@ -301,10 +336,15 @@
       "last_seen": "2026-07-24T17:30:48.695026+09:00"
     },
     "Tether": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
+          "link": "https://www.nadanews.com/360969/",
+          "pub_date": "2026-07-25T08:00:00+09:00"
+        },
         {
           "title": "暗号資産×AI融合 Justin Sun氏がTRONの展望を語る｜WebX2026",
           "link": "https://coinpost.jp/?p=725331",
@@ -312,13 +352,18 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:22.011018+09:00",
-      "last_seen": "2026-07-24T16:16:22.011018+09:00"
+      "last_seen": "2026-07-25T10:24:09.150546+09:00"
     },
     "Robinhood": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        },
         {
           "title": "「仮想通貨の次の強気相場を牽引するのは伝統金融との融合」ビットワイズ幹部が見解",
           "link": "https://coinpost.jp/?p=726943",
@@ -326,7 +371,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:23.529514+09:00",
-      "last_seen": "2026-07-24T16:16:23.529514+09:00"
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "SEC": {
       "article_count": 2,
@@ -390,10 +435,15 @@
       "last_seen": "2026-07-24T16:16:31.154591+09:00"
     },
     "Bybit": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 1,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        },
         {
           "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
           "link": "https://www.neweconomy.jp/posts/594628",
@@ -406,7 +456,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:31.154591+09:00",
-      "last_seen": "2026-07-24T17:30:54.717778+09:00"
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "Solana": {
       "article_count": 1,
@@ -437,10 +487,15 @@
       "last_seen": "2026-07-24T16:16:32.389532+09:00"
     },
     "bitbank": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        },
         {
           "title": "ビットバンク、イーサリアム（ETH）のステーキングサービス提供開始を予告",
           "link": "https://www.neweconomy.jp/posts/594489",
@@ -448,13 +503,18 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:33.007405+09:00",
-      "last_seen": "2026-07-24T16:16:33.007405+09:00"
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "BitMEX": {
-      "article_count": 1,
-      "as_main_count": 1,
+      "article_count": 2,
+      "as_main_count": 2,
       "as_related_count": 0,
       "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        },
         {
           "title": "ビットメックス、9/23に取引所サービス終了へ",
           "link": "https://www.neweconomy.jp/posts/594436",
@@ -462,7 +522,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:35.493650+09:00",
-      "last_seen": "2026-07-24T16:16:35.493650+09:00"
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "Ondo Finance": {
       "article_count": 1,
@@ -633,10 +693,20 @@
       "last_seen": "2026-07-24T17:30:36.197802+09:00"
     },
     "ビットコイン": {
-      "article_count": 1,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "マトリックス法によるテクニカル分析（2026/7/24）梅雨明け！次はサマーラリー？【楽天ウォレット】",
+          "link": "https://www.nadanews.com/361019/",
+          "pub_date": "2026-07-24T18:25:13+09:00"
+        },
+        {
+          "title": "イーサリアムは底値圏へ近づいたのか──CryptoQuantが示す「5つの底打ちシグナル」を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361080/",
+          "pub_date": "2026-07-25T06:00:00+09:00"
+        },
         {
           "title": "ネイルサロン運営のコンヴァノ、暗号資産を全売却へ",
           "link": "https://www.nadanews.com/361016/",
@@ -644,7 +714,7 @@
         }
       ],
       "first_seen": "2026-07-24T17:30:36.197802+09:00",
-      "last_seen": "2026-07-24T17:30:36.197802+09:00"
+      "last_seen": "2026-07-25T10:24:48.873999+09:00"
     },
     "BTC": {
       "article_count": 1,
@@ -661,10 +731,15 @@
       "last_seen": "2026-07-24T17:30:36.197802+09:00"
     },
     "金融庁": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        },
         {
           "title": "金融庁、暗号資産事業者のサイバーセキュリティ調査報告書を公表",
           "link": "https://www.neweconomy.jp/posts/594628",
@@ -672,7 +747,413 @@
         }
       ],
       "first_seen": "2026-07-24T17:30:54.717778+09:00",
-      "last_seen": "2026-07-24T17:30:54.717778+09:00"
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "NADA NEWS": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
+          "link": "https://www.nadanews.com/360969/",
+          "pub_date": "2026-07-25T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:09.150546+09:00",
+      "last_seen": "2026-07-25T10:24:09.150546+09:00"
+    },
+    "Kakao": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
+          "link": "https://www.nadanews.com/360969/",
+          "pub_date": "2026-07-25T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:09.150546+09:00",
+      "last_seen": "2026-07-25T10:24:09.150546+09:00"
+    },
+    "BitTrade": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "強気回復の中で問われる「買いの質」── ETF流入と現物需要が支えるビットコイン市場【BitTrade Market Weekly】",
+          "link": "https://www.nadanews.com/361093/",
+          "pub_date": "2026-07-25T06:30:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:19.875540+09:00",
+      "last_seen": "2026-07-25T10:24:19.875540+09:00"
+    },
+    "FRB": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "強気回復の中で問われる「買いの質」── ETF流入と現物需要が支えるビットコイン市場【BitTrade Market Weekly】",
+          "link": "https://www.nadanews.com/361093/",
+          "pub_date": "2026-07-25T06:30:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:19.875540+09:00",
+      "last_seen": "2026-07-25T10:24:19.875540+09:00"
+    },
+    "CryptoQuant": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "イーサリアムは底値圏へ近づいたのか──CryptoQuantが示す「5つの底打ちシグナル」を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361080/",
+          "pub_date": "2026-07-25T06:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:29.635286+09:00",
+      "last_seen": "2026-07-25T10:24:29.635286+09:00"
+    },
+    "イーサリアム": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "イーサリアムは底値圏へ近づいたのか──CryptoQuantが示す「5つの底打ちシグナル」を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361080/",
+          "pub_date": "2026-07-25T06:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:29.635286+09:00",
+      "last_seen": "2026-07-25T10:24:29.635286+09:00"
+    },
+    "エックスウィン": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "イーサリアムは底値圏へ近づいたのか──CryptoQuantが示す「5つの底打ちシグナル」を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361080/",
+          "pub_date": "2026-07-25T06:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:29.635286+09:00",
+      "last_seen": "2026-07-25T10:24:29.635286+09:00"
+    },
+    "CertiK": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "暗号資産保有者への強奪事件が過去最多──被害額は前年の約11.8倍に急増＝CertiK",
+          "link": "https://www.nadanews.com/361062/",
+          "pub_date": "2026-07-24T21:36:33+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:42.134257+09:00",
+      "last_seen": "2026-07-25T10:24:42.134257+09:00"
+    },
+    "あたらしい経済": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "Apple": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "Spotify": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "Voicy": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "YouTube": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "SBI VCトレード": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "Bitcoin Security Consortium": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "カイアDLT財団": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "finoject": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "ファントム": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "Base": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "ユニスワップラボ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "ヴェルス": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "42DAO": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "レボリュート": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "ノタベネ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "カカオ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "S＆P": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "パンテラ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "アルパカ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "ブロードリッジ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/594853",
+          "pub_date": "2026-07-24T22:29:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-25T10:24:58.753545+09:00",
+      "last_seen": "2026-07-25T10:24:58.753545+09:00"
     }
   }
 }
