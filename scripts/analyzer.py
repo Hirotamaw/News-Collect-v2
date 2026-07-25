@@ -368,25 +368,34 @@ def _describe_error(exc):
     return f"{type(exc).__name__}: {exc}"
 
 
+def _status_code(exc):
+    if isinstance(exc, requests.HTTPError) and exc.response is not None:
+        return exc.response.status_code
+    return None
+
+
 def analyze_article(title, body_text, api_key=None, retries=3):
     """Gemini分析を試み、失敗時はキーワードフォールバックに切り替える。
     APIキー・URLはログに出力しない。
+
+    429(クォータ超過)は数秒〜数十秒待っても回復しないため、リトライを重ねず即座に
+    フォールバックする。戻り値のquota_exhaustedがTrueの場合、呼び出し側はこの実行内で
+    以降の記事のGemini呼び出しを打ち切り、無駄なリクエストを避けるべき。
     """
     if api_key:
         last_err = None
         for attempt in range(retries):
             try:
-                return gemini_analyze(title, body_text, api_key)
+                return {**gemini_analyze(title, body_text, api_key), "quota_exhausted": False}
             except Exception as exc:  # noqa: BLE001
                 last_err = exc
-                wait = 2.0 * (attempt + 1)
-                if isinstance(exc, requests.HTTPError) and exc.response is not None:
-                    retry_after = exc.response.headers.get("Retry-After")
-                    if retry_after:
-                        try:
-                            wait = max(wait, float(retry_after))
-                        except ValueError:
-                            pass
-                time.sleep(wait)
-        print(f"[warn] Gemini analysis failed after {retries} attempts ({_describe_error(last_err)}); using keyword fallback")
-    return fallback_analysis(title, body_text)
+                if _status_code(exc) == 429:
+                    break
+                time.sleep(2.0 * (attempt + 1))
+        print(f"[warn] Gemini analysis failed ({_describe_error(last_err)}); using keyword fallback")
+        result = fallback_analysis(title, body_text)
+        result["quota_exhausted"] = _status_code(last_err) == 429
+        return result
+    result = fallback_analysis(title, body_text)
+    result["quota_exhausted"] = False
+    return result

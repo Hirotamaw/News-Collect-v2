@@ -87,6 +87,9 @@ def main():
     for article in targets:
         body_text = fetch_article_body(article["link"])
         analysis = analyze_article(article["title"], body_text or article.get("description", ""), api_key=api_key)
+        if analysis.pop("quota_exhausted", False) and api_key:
+            print("[warn] Gemini quota exhausted; skipping Gemini for the rest of this run (fallback only)")
+            api_key = None
 
         article["summary"] = analysis["summary"]
         article["summary_error"] = analysis["summary_error"]

@@ -184,6 +184,9 @@ def main():
     for entry in new_articles:
         body_text = fetch_article_body(entry["link"])
         analysis = analyze_article(entry["title"], body_text or entry["description"], api_key=api_key)
+        if analysis.pop("quota_exhausted", False) and api_key:
+            print("[warn] Gemini quota exhausted; skipping Gemini for the rest of this run (fallback only)")
+            api_key = None
         fetched_at = datetime.now(JST).isoformat()
 
         article = {
