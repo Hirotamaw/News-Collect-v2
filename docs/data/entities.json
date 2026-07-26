@@ -34,10 +34,15 @@
       "last_seen": "2026-07-24T16:16:04.237265+09:00"
     },
     "Coinbase": {
-      "article_count": 11,
+      "article_count": 12,
       "as_main_count": 6,
-      "as_related_count": 5,
+      "as_related_count": 6,
       "recent_articles": [
+        {
+          "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
+          "link": "https://coinpost.jp/?p=726998",
+          "pub_date": "2026-07-26T09:25:27+09:00"
+        },
         {
           "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/594853",
@@ -57,15 +62,10 @@
           "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
           "link": "https://www.neweconomy.jp/posts/594616",
           "pub_date": "2026-07-24T16:40:44+09:00"
-        },
-        {
-          "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
-          "link": "https://www.neweconomy.jp/posts/594528",
-          "pub_date": "2026-07-24T14:23:22+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+      "last_seen": "2026-07-26T10:27:46.708258+09:00"
     },
     "Strategy": {
       "article_count": 3,
@@ -92,10 +92,25 @@
       "last_seen": "2026-07-25T10:24:09.150546+09:00"
     },
     "BlackRock": {
-      "article_count": 6,
-      "as_main_count": 4,
-      "as_related_count": 2,
+      "article_count": 9,
+      "as_main_count": 5,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
+          "link": "https://coinpost.jp/?p=726998",
+          "pub_date": "2026-07-26T09:25:27+09:00"
+        },
+        {
+          "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
+          "link": "https://www.nadanews.com/361152/",
+          "pub_date": "2026-07-26T06:29:55+09:00"
+        },
+        {
+          "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
+          "link": "https://www.nadanews.com/361100/",
+          "pub_date": "2026-07-26T10:00:00+09:00"
+        },
         {
           "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/594853",
@@ -105,31 +120,21 @@
           "title": "強気回復の中で問われる「買いの質」── ETF流入と現物需要が支えるビットコイン市場【BitTrade Market Weekly】",
           "link": "https://www.nadanews.com/361093/",
           "pub_date": "2026-07-25T06:30:00+09:00"
-        },
-        {
-          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-          "link": "https://www.nadanews.com/360969/",
-          "pub_date": "2026-07-25T08:00:00+09:00"
-        },
-        {
-          "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
-          "link": "https://www.neweconomy.jp/posts/594528",
-          "pub_date": "2026-07-24T14:23:22+09:00"
-        },
-        {
-          "title": "ストラテジーやブラックロックなど9社、ビットコイン安全保障団体を設立",
-          "link": "https://coinpost.jp/?p=726918",
-          "pub_date": "2026-07-24T05:00:04+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+      "last_seen": "2026-07-26T10:27:46.708258+09:00"
     },
     "Fidelity": {
-      "article_count": 4,
-      "as_main_count": 1,
+      "article_count": 5,
+      "as_main_count": 2,
       "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
+          "link": "https://www.nadanews.com/361152/",
+          "pub_date": "2026-07-26T06:29:55+09:00"
+        },
         {
           "title": "レボリュートが二次株式売却、評価額115Bドルか＝報道",
           "link": "https://www.neweconomy.jp/posts/594388",
@@ -152,13 +157,18 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-07-24T16:16:34.876092+09:00"
+      "last_seen": "2026-07-26T10:27:24.171321+09:00"
     },
     "Ripple": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 3,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        },
         {
           "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/594853",
@@ -181,7 +191,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:05.509758+09:00",
-      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+      "last_seen": "2026-07-26T10:27:17.392749+09:00"
     },
     "Visa": {
       "article_count": 1,
@@ -212,10 +222,15 @@
       "last_seen": "2026-07-24T16:16:06.153632+09:00"
     },
     "Grayscale": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 2,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
+          "link": "https://www.nadanews.com/361152/",
+          "pub_date": "2026-07-26T06:29:55+09:00"
+        },
         {
           "title": "日経新聞に掲載された筆者コメントを解説──日本版ビットコインETF「3兆円試算」の根拠【エックスウィン】",
           "link": "https://www.nadanews.com/360894/",
@@ -228,13 +243,18 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:06.827873+09:00",
-      "last_seen": "2026-07-24T16:16:08.779894+09:00"
+      "last_seen": "2026-07-26T10:27:24.171321+09:00"
     },
     "JPMorgan": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 1,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
+          "link": "https://www.nadanews.com/361100/",
+          "pub_date": "2026-07-26T10:00:00+09:00"
+        },
         {
           "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
           "link": "https://coinpost.jp/?p=726926",
@@ -247,7 +267,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:07.510251+09:00",
-      "last_seen": "2026-07-24T16:16:26.941210+09:00"
+      "last_seen": "2026-07-26T10:26:55.251336+09:00"
     },
     "Uniswap": {
       "article_count": 2,
@@ -288,10 +308,15 @@
       "last_seen": "2026-07-24T17:30:54.717778+09:00"
     },
     "Circle": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 2,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
+          "link": "https://www.nadanews.com/361100/",
+          "pub_date": "2026-07-26T10:00:00+09:00"
+        },
         {
           "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/594853",
@@ -314,7 +339,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:10.024598+09:00",
-      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+      "last_seen": "2026-07-26T10:26:55.251336+09:00"
     },
     "Binance": {
       "article_count": 2,
@@ -374,10 +399,25 @@
       "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "SEC": {
-      "article_count": 2,
+      "article_count": 5,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
+          "link": "https://www.nadanews.com/361152/",
+          "pub_date": "2026-07-26T06:29:55+09:00"
+        },
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        },
+        {
+          "title": "CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か【サンフランシスコ レポート】",
+          "link": "https://www.nadanews.com/360892/",
+          "pub_date": "2026-07-26T09:00:00+09:00"
+        },
         {
           "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
           "link": "https://www.nadanews.com/360997/",
@@ -390,7 +430,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:26.941210+09:00",
-      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+      "last_seen": "2026-07-26T10:27:24.171321+09:00"
     },
     "Upbit": {
       "article_count": 1,
@@ -435,10 +475,15 @@
       "last_seen": "2026-07-24T16:16:31.154591+09:00"
     },
     "Bybit": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 1,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
+          "link": "https://www.nadanews.com/361142/",
+          "pub_date": "2026-07-26T09:53:04+09:00"
+        },
         {
           "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/594853",
@@ -456,7 +501,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:31.154591+09:00",
-      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+      "last_seen": "2026-07-26T10:27:01.508813+09:00"
     },
     "Solana": {
       "article_count": 1,
@@ -750,10 +795,15 @@
       "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "NADA NEWS": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
+          "link": "https://www.nadanews.com/361100/",
+          "pub_date": "2026-07-26T10:00:00+09:00"
+        },
         {
           "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
           "link": "https://www.nadanews.com/360969/",
@@ -761,7 +811,7 @@
         }
       ],
       "first_seen": "2026-07-25T10:24:09.150546+09:00",
-      "last_seen": "2026-07-25T10:24:09.150546+09:00"
+      "last_seen": "2026-07-26T10:26:55.251336+09:00"
     },
     "Kakao": {
       "article_count": 1,
@@ -792,10 +842,20 @@
       "last_seen": "2026-07-25T10:24:19.875540+09:00"
     },
     "FRB": {
-      "article_count": 1,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
+          "link": "https://coinpost.jp/?p=726998",
+          "pub_date": "2026-07-26T09:25:27+09:00"
+        },
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        },
         {
           "title": "強気回復の中で問われる「買いの質」── ETF流入と現物需要が支えるビットコイン市場【BitTrade Market Weekly】",
           "link": "https://www.nadanews.com/361093/",
@@ -803,7 +863,7 @@
         }
       ],
       "first_seen": "2026-07-25T10:24:19.875540+09:00",
-      "last_seen": "2026-07-25T10:24:19.875540+09:00"
+      "last_seen": "2026-07-26T10:27:46.708258+09:00"
     },
     "CryptoQuant": {
       "article_count": 1,
@@ -834,10 +894,25 @@
       "last_seen": "2026-07-25T10:24:29.635286+09:00"
     },
     "エックスウィン": {
-      "article_count": 1,
-      "as_main_count": 1,
-      "as_related_count": 0,
+      "article_count": 4,
+      "as_main_count": 2,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
+          "link": "https://www.nadanews.com/361152/",
+          "pub_date": "2026-07-26T06:29:55+09:00"
+        },
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        },
+        {
+          "title": "CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か【サンフランシスコ レポート】",
+          "link": "https://www.nadanews.com/360892/",
+          "pub_date": "2026-07-26T09:00:00+09:00"
+        },
         {
           "title": "イーサリアムは底値圏へ近づいたのか──CryptoQuantが示す「5つの底打ちシグナル」を読み解く【エックスウィン】",
           "link": "https://www.nadanews.com/361080/",
@@ -845,7 +920,7 @@
         }
       ],
       "first_seen": "2026-07-25T10:24:29.635286+09:00",
-      "last_seen": "2026-07-25T10:24:29.635286+09:00"
+      "last_seen": "2026-07-26T10:27:24.171321+09:00"
     },
     "CertiK": {
       "article_count": 1,
@@ -1154,6 +1229,703 @@
       ],
       "first_seen": "2026-07-25T10:24:58.753545+09:00",
       "last_seen": "2026-07-25T10:24:58.753545+09:00"
+    },
+    "AZ-COM丸和ホールディングス": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        },
+        {
+          "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
+          "link": "https://www.nadanews.com/361100/",
+          "pub_date": "2026-07-26T10:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:26:55.251336+09:00",
+      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+    },
+    "JPYC": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        },
+        {
+          "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
+          "link": "https://www.nadanews.com/361100/",
+          "pub_date": "2026-07-26T10:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:26:55.251336+09:00",
+      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+    },
+    "SWIFT": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
+          "link": "https://www.nadanews.com/361100/",
+          "pub_date": "2026-07-26T10:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:26:55.251336+09:00",
+      "last_seen": "2026-07-26T10:26:55.251336+09:00"
+    },
+    "Startale": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
+          "link": "https://www.nadanews.com/361100/",
+          "pub_date": "2026-07-26T10:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:26:55.251336+09:00",
+      "last_seen": "2026-07-26T10:26:55.251336+09:00"
+    },
+    "Google": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
+          "link": "https://www.nadanews.com/361142/",
+          "pub_date": "2026-07-26T09:53:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:01.508813+09:00",
+      "last_seen": "2026-07-26T10:27:01.508813+09:00"
+    },
+    "Digital Asset": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
+          "link": "https://www.nadanews.com/361142/",
+          "pub_date": "2026-07-26T09:53:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:01.508813+09:00",
+      "last_seen": "2026-07-26T10:27:01.508813+09:00"
+    },
+    "CoinMarketCap": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
+          "link": "https://www.nadanews.com/361142/",
+          "pub_date": "2026-07-26T09:53:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:01.508813+09:00",
+      "last_seen": "2026-07-26T10:27:01.508813+09:00"
+    },
+    "OKX": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
+          "link": "https://www.nadanews.com/361142/",
+          "pub_date": "2026-07-26T09:53:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:01.508813+09:00",
+      "last_seen": "2026-07-26T10:27:01.508813+09:00"
+    },
+    "MEXC": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
+          "link": "https://www.nadanews.com/361142/",
+          "pub_date": "2026-07-26T09:53:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:01.508813+09:00",
+      "last_seen": "2026-07-26T10:27:01.508813+09:00"
+    },
+    "KuCoin": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
+          "link": "https://www.nadanews.com/361142/",
+          "pub_date": "2026-07-26T09:53:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:01.508813+09:00",
+      "last_seen": "2026-07-26T10:27:01.508813+09:00"
+    },
+    "金融情報分析院": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
+          "link": "https://www.nadanews.com/361142/",
+          "pub_date": "2026-07-26T09:53:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:01.508813+09:00",
+      "last_seen": "2026-07-26T10:27:01.508813+09:00"
+    },
+    "民主党": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か【サンフランシスコ レポート】",
+          "link": "https://www.nadanews.com/360892/",
+          "pub_date": "2026-07-26T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:10.458149+09:00",
+      "last_seen": "2026-07-26T10:27:10.458149+09:00"
+    },
+    "共和党": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か【サンフランシスコ レポート】",
+          "link": "https://www.nadanews.com/360892/",
+          "pub_date": "2026-07-26T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:10.458149+09:00",
+      "last_seen": "2026-07-26T10:27:10.458149+09:00"
+    },
+    "CFTC": {
+      "article_count": 2,
+      "as_main_count": 0,
+      "as_related_count": 2,
+      "recent_articles": [
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        },
+        {
+          "title": "CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か【サンフランシスコ レポート】",
+          "link": "https://www.nadanews.com/360892/",
+          "pub_date": "2026-07-26T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:10.458149+09:00",
+      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+    },
+    "財務省": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か【サンフランシスコ レポート】",
+          "link": "https://www.nadanews.com/360892/",
+          "pub_date": "2026-07-26T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:10.458149+09:00",
+      "last_seen": "2026-07-26T10:27:10.458149+09:00"
+    },
+    "日本経済新聞": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:17.392749+09:00",
+      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+    },
+    "THE BLOCK": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:17.392749+09:00",
+      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+    },
+    "マイナウォレット社": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:17.392749+09:00",
+      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+    },
+    "App Store": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:17.392749+09:00",
+      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+    },
+    "Google Play": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
+          "link": "https://www.nadanews.com/360960/",
+          "pub_date": "2026-07-26T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:17.392749+09:00",
+      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+    },
+    "ARK": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
+          "link": "https://www.nadanews.com/361152/",
+          "pub_date": "2026-07-26T06:29:55+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:24.171321+09:00",
+      "last_seen": "2026-07-26T10:27:24.171321+09:00"
+    },
+    "Bitwise": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
+          "link": "https://www.nadanews.com/361152/",
+          "pub_date": "2026-07-26T06:29:55+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:24.171321+09:00",
+      "last_seen": "2026-07-26T10:27:24.171321+09:00"
+    },
+    "Ethereum": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:31.192786+09:00"
+    },
+    "Polymarket": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ドル円39年ぶり高値、BTC6万5000ドル割れ──暗号資産清算3億ドル超【価格分析】",
+          "link": "https://www.nadanews.com/361113/",
+          "pub_date": "2026-07-25T12:59:11+09:00"
+        },
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:38.845883+09:00"
+    },
+    "Robinhood Chain": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:31.192786+09:00"
+    },
+    "TradingView": {
+      "article_count": 2,
+      "as_main_count": 0,
+      "as_related_count": 2,
+      "recent_articles": [
+        {
+          "title": "ドル円39年ぶり高値、BTC6万5000ドル割れ──暗号資産清算3億ドル超【価格分析】",
+          "link": "https://www.nadanews.com/361113/",
+          "pub_date": "2026-07-25T12:59:11+09:00"
+        },
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:38.845883+09:00"
+    },
+    "FOMC": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:31.192786+09:00"
+    },
+    "Artemis": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:31.192786+09:00"
+    },
+    "Memecoin.fun": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:31.192786+09:00"
+    },
+    "Becker Ventures": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:31.192786+09:00"
+    },
+    "BitValue Capital": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:31.192786+09:00"
+    },
+    "Mason Labs": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:31.192786+09:00"
+    },
+    "Negentropy Capital": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
+          "link": "https://www.nadanews.com/361124/",
+          "pub_date": "2026-07-25T13:21:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:31.192786+09:00",
+      "last_seen": "2026-07-26T10:27:31.192786+09:00"
+    },
+    "米連邦準備制度理事会": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ドル円39年ぶり高値、BTC6万5000ドル割れ──暗号資産清算3億ドル超【価格分析】",
+          "link": "https://www.nadanews.com/361113/",
+          "pub_date": "2026-07-25T12:59:11+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:38.845883+09:00",
+      "last_seen": "2026-07-26T10:27:38.845883+09:00"
+    },
+    "Coinglass": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ドル円39年ぶり高値、BTC6万5000ドル割れ──暗号資産清算3億ドル超【価格分析】",
+          "link": "https://www.nadanews.com/361113/",
+          "pub_date": "2026-07-25T12:59:11+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:38.845883+09:00",
+      "last_seen": "2026-07-26T10:27:38.845883+09:00"
+    },
+    "Farside Investors": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ドル円39年ぶり高値、BTC6万5000ドル割れ──暗号資産清算3億ドル超【価格分析】",
+          "link": "https://www.nadanews.com/361113/",
+          "pub_date": "2026-07-25T12:59:11+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:38.845883+09:00",
+      "last_seen": "2026-07-26T10:27:38.845883+09:00"
+    },
+    "Metaplanet": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
+          "link": "https://coinpost.jp/?p=726998",
+          "pub_date": "2026-07-26T09:25:27+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:46.708258+09:00",
+      "last_seen": "2026-07-26T10:27:46.708258+09:00"
+    },
+    "ギャラクシー・デジタル": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
+          "link": "https://coinpost.jp/?p=726998",
+          "pub_date": "2026-07-26T09:25:27+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:46.708258+09:00",
+      "last_seen": "2026-07-26T10:27:46.708258+09:00"
+    },
+    "マイクロストラテジー": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
+          "link": "https://coinpost.jp/?p=726998",
+          "pub_date": "2026-07-26T09:25:27+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:46.708258+09:00",
+      "last_seen": "2026-07-26T10:27:46.708258+09:00"
+    },
+    "グレースケール": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
+          "link": "https://coinpost.jp/?p=726998",
+          "pub_date": "2026-07-26T09:25:27+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:46.708258+09:00",
+      "last_seen": "2026-07-26T10:27:46.708258+09:00"
+    },
+    "米国務省": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
+          "link": "https://coinpost.jp/?p=727306",
+          "pub_date": "2026-07-25T13:10:14+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:53.869049+09:00",
+      "last_seen": "2026-07-26T10:27:53.869049+09:00"
+    },
+    "ビットコイン政策研究所": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
+          "link": "https://coinpost.jp/?p=727306",
+          "pub_date": "2026-07-25T13:10:14+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:53.869049+09:00",
+      "last_seen": "2026-07-26T10:27:53.869049+09:00"
+    },
+    "パランティア・テクノロジーズ": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
+          "link": "https://coinpost.jp/?p=727306",
+          "pub_date": "2026-07-25T13:10:14+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:53.869049+09:00",
+      "last_seen": "2026-07-26T10:27:53.869049+09:00"
+    },
+    "アンドゥリル・インダストリーズ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
+          "link": "https://coinpost.jp/?p=727306",
+          "pub_date": "2026-07-25T13:10:14+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:53.869049+09:00",
+      "last_seen": "2026-07-26T10:27:53.869049+09:00"
+    },
+    "共産主義犠牲者追悼財団": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
+          "link": "https://coinpost.jp/?p=727306",
+          "pub_date": "2026-07-25T13:10:14+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:53.869049+09:00",
+      "last_seen": "2026-07-26T10:27:53.869049+09:00"
+    },
+    "米国防総省": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
+          "link": "https://coinpost.jp/?p=727306",
+          "pub_date": "2026-07-25T13:10:14+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:27:53.869049+09:00",
+      "last_seen": "2026-07-26T10:27:53.869049+09:00"
+    },
+    "鎌倉インターナショナルFC": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "サッカークラブ鎌倉インテル、スタジアムNFT関連特許取得",
+          "link": "https://coinpost.jp/?p=727263",
+          "pub_date": "2026-07-25T11:16:24+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:28:01.337492+09:00",
+      "last_seen": "2026-07-26T10:28:01.337492+09:00"
+    },
+    "鎌倉スタジアムNFTプロジェクト": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "サッカークラブ鎌倉インテル、スタジアムNFT関連特許取得",
+          "link": "https://coinpost.jp/?p=727263",
+          "pub_date": "2026-07-25T11:16:24+09:00"
+        }
+      ],
+      "first_seen": "2026-07-26T10:28:01.337492+09:00",
+      "last_seen": "2026-07-26T10:28:01.337492+09:00"
     }
   }
 }
