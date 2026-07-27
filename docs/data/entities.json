@@ -92,10 +92,15 @@
       "last_seen": "2026-07-25T10:24:09.150546+09:00"
     },
     "BlackRock": {
-      "article_count": 9,
+      "article_count": 10,
       "as_main_count": 5,
-      "as_related_count": 4,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361190/",
+          "pub_date": "2026-07-27T06:39:06+09:00"
+        },
         {
           "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
           "link": "https://coinpost.jp/?p=726998",
@@ -115,15 +120,10 @@
           "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/594853",
           "pub_date": "2026-07-24T22:29:30+09:00"
-        },
-        {
-          "title": "強気回復の中で問われる「買いの質」── ETF流入と現物需要が支えるビットコイン市場【BitTrade Market Weekly】",
-          "link": "https://www.nadanews.com/361093/",
-          "pub_date": "2026-07-25T06:30:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-07-26T10:27:46.708258+09:00"
+      "last_seen": "2026-07-27T10:45:05.975098+09:00"
     },
     "Fidelity": {
       "article_count": 5,
@@ -194,10 +194,15 @@
       "last_seen": "2026-07-26T10:27:17.392749+09:00"
     },
     "Visa": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "サムスン、Galaxy端末のウォレットにステーブルコイン機能導入へ",
+          "link": "https://www.nadanews.com/361201/",
+          "pub_date": "2026-07-27T10:35:31+09:00"
+        },
         {
           "title": "Coinbase、AIエージェントによるUSDC決済を企業ユーザーに提供",
           "link": "https://www.nadanews.com/360914/",
@@ -205,7 +210,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:06.153632+09:00",
-      "last_seen": "2026-07-24T16:16:06.153632+09:00"
+      "last_seen": "2026-07-27T10:44:45.205116+09:00"
     },
     "Mastercard": {
       "article_count": 1,
@@ -532,10 +537,15 @@
       "last_seen": "2026-07-24T16:16:32.389532+09:00"
     },
     "bitbank": {
-      "article_count": 2,
-      "as_main_count": 1,
+      "article_count": 3,
+      "as_main_count": 2,
       "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
+          "link": "https://coinpost.jp/?p=727127",
+          "pub_date": "2026-07-26T11:30:35+09:00"
+        },
         {
           "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/594853",
@@ -548,7 +558,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:33.007405+09:00",
-      "last_seen": "2026-07-25T10:24:58.753545+09:00"
+      "last_seen": "2026-07-27T10:45:47.393146+09:00"
     },
     "BitMEX": {
       "article_count": 2,
@@ -640,10 +650,20 @@
       "last_seen": "2026-07-24T17:30:27.168552+09:00"
     },
     "米証券取引委員会": {
-      "article_count": 1,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "セイラー氏「別の色が必要」 BTC購入4週途絶",
+          "link": "https://coinpost.jp/?p=727331",
+          "pub_date": "2026-07-27T08:37:37+09:00"
+        },
+        {
+          "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361190/",
+          "pub_date": "2026-07-27T06:39:06+09:00"
+        },
         {
           "title": "Ondo、トークン化株式の米国展開へ──SEC監督下の自主規制機関から追加認可",
           "link": "https://www.nadanews.com/360997/",
@@ -651,7 +671,7 @@
         }
       ],
       "first_seen": "2026-07-24T17:30:27.168552+09:00",
-      "last_seen": "2026-07-24T17:30:27.168552+09:00"
+      "last_seen": "2026-07-27T10:45:33.967425+09:00"
     },
     "Dinari": {
       "article_count": 1,
@@ -738,10 +758,15 @@
       "last_seen": "2026-07-24T17:30:36.197802+09:00"
     },
     "ビットコイン": {
-      "article_count": 3,
-      "as_main_count": 0,
+      "article_count": 4,
+      "as_main_count": 1,
       "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "ビットコイン長期保有者、保有1630万BTCで含み益30％まで圧縮＝アナリスト",
+          "link": "https://coinpost.jp/?p=727327",
+          "pub_date": "2026-07-27T07:49:37+09:00"
+        },
         {
           "title": "マトリックス法によるテクニカル分析（2026/7/24）梅雨明け！次はサマーラリー？【楽天ウォレット】",
           "link": "https://www.nadanews.com/361019/",
@@ -759,7 +784,7 @@
         }
       ],
       "first_seen": "2026-07-24T17:30:36.197802+09:00",
-      "last_seen": "2026-07-25T10:24:48.873999+09:00"
+      "last_seen": "2026-07-27T10:45:40.491208+09:00"
     },
     "BTC": {
       "article_count": 1,
@@ -866,10 +891,15 @@
       "last_seen": "2026-07-26T10:27:46.708258+09:00"
     },
     "CryptoQuant": {
-      "article_count": 1,
-      "as_main_count": 1,
+      "article_count": 2,
+      "as_main_count": 2,
       "as_related_count": 0,
       "recent_articles": [
+        {
+          "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361190/",
+          "pub_date": "2026-07-27T06:39:06+09:00"
+        },
         {
           "title": "イーサリアムは底値圏へ近づいたのか──CryptoQuantが示す「5つの底打ちシグナル」を読み解く【エックスウィン】",
           "link": "https://www.nadanews.com/361080/",
@@ -877,7 +907,7 @@
         }
       ],
       "first_seen": "2026-07-25T10:24:29.635286+09:00",
-      "last_seen": "2026-07-25T10:24:29.635286+09:00"
+      "last_seen": "2026-07-27T10:45:05.975098+09:00"
     },
     "イーサリアム": {
       "article_count": 1,
@@ -894,10 +924,15 @@
       "last_seen": "2026-07-25T10:24:29.635286+09:00"
     },
     "エックスウィン": {
-      "article_count": 4,
-      "as_main_count": 2,
+      "article_count": 5,
+      "as_main_count": 3,
       "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361190/",
+          "pub_date": "2026-07-27T06:39:06+09:00"
+        },
         {
           "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
           "link": "https://www.nadanews.com/361152/",
@@ -920,7 +955,7 @@
         }
       ],
       "first_seen": "2026-07-25T10:24:29.635286+09:00",
-      "last_seen": "2026-07-26T10:27:24.171321+09:00"
+      "last_seen": "2026-07-27T10:45:05.975098+09:00"
     },
     "CertiK": {
       "article_count": 1,
@@ -1423,10 +1458,15 @@
       "last_seen": "2026-07-26T10:27:10.458149+09:00"
     },
     "CFTC": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
+          "link": "https://www.nadanews.com/361191/",
+          "pub_date": "2026-07-27T06:45:00+09:00"
+        },
         {
           "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
           "link": "https://www.nadanews.com/360960/",
@@ -1439,7 +1479,7 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:10.458149+09:00",
-      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+      "last_seen": "2026-07-27T10:44:57.737821+09:00"
     },
     "財務省": {
       "article_count": 1,
@@ -1718,10 +1758,15 @@
       "last_seen": "2026-07-26T10:27:31.192786+09:00"
     },
     "米連邦準備制度理事会": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
+          "link": "https://coinpost.jp/?p=727127",
+          "pub_date": "2026-07-26T11:30:35+09:00"
+        },
         {
           "title": "ドル円39年ぶり高値、BTC6万5000ドル割れ──暗号資産清算3億ドル超【価格分析】",
           "link": "https://www.nadanews.com/361113/",
@@ -1729,7 +1774,7 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:38.845883+09:00",
-      "last_seen": "2026-07-26T10:27:38.845883+09:00"
+      "last_seen": "2026-07-27T10:45:47.393146+09:00"
     },
     "Coinglass": {
       "article_count": 1,
@@ -1788,10 +1833,15 @@
       "last_seen": "2026-07-26T10:27:46.708258+09:00"
     },
     "マイクロストラテジー": {
-      "article_count": 1,
-      "as_main_count": 0,
+      "article_count": 2,
+      "as_main_count": 1,
       "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "セイラー氏「別の色が必要」 BTC購入4週途絶",
+          "link": "https://coinpost.jp/?p=727331",
+          "pub_date": "2026-07-27T08:37:37+09:00"
+        },
         {
           "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
           "link": "https://coinpost.jp/?p=726998",
@@ -1799,7 +1849,7 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:46.708258+09:00",
-      "last_seen": "2026-07-26T10:27:46.708258+09:00"
+      "last_seen": "2026-07-27T10:45:33.967425+09:00"
     },
     "グレースケール": {
       "article_count": 1,
@@ -1926,6 +1976,412 @@
       ],
       "first_seen": "2026-07-26T10:28:01.337492+09:00",
       "last_seen": "2026-07-26T10:28:01.337492+09:00"
+    },
+    "Samsung Electronics": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "サムスン、Galaxy端末のウォレットにステーブルコイン機能導入へ",
+          "link": "https://www.nadanews.com/361201/",
+          "pub_date": "2026-07-27T10:35:31+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:45.205116+09:00",
+      "last_seen": "2026-07-27T10:44:45.205116+09:00"
+    },
+    "Barclays": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "サムスン、Galaxy端末のウォレットにステーブルコイン機能導入へ",
+          "link": "https://www.nadanews.com/361201/",
+          "pub_date": "2026-07-27T10:35:31+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:45.205116+09:00",
+      "last_seen": "2026-07-27T10:44:45.205116+09:00"
+    },
+    "BitMart": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "BitMart、取引プラットフォームを段階的終了へ──8月に全取引停止",
+          "link": "https://www.nadanews.com/361198/",
+          "pub_date": "2026-07-27T07:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:51.532121+09:00",
+      "last_seen": "2026-07-27T10:44:51.532121+09:00"
+    },
+    "X": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "BitMart、取引プラットフォームを段階的終了へ──8月に全取引停止",
+          "link": "https://www.nadanews.com/361198/",
+          "pub_date": "2026-07-27T07:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:51.532121+09:00",
+      "last_seen": "2026-07-27T10:44:51.532121+09:00"
+    },
+    "Postmodern Studio": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "BitMart、取引プラットフォームを段階的終了へ──8月に全取引停止",
+          "link": "https://www.nadanews.com/361198/",
+          "pub_date": "2026-07-27T07:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:51.532121+09:00",
+      "last_seen": "2026-07-27T10:44:51.532121+09:00"
+    },
+    "Robinhood Markets": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
+          "link": "https://www.nadanews.com/361191/",
+          "pub_date": "2026-07-27T06:45:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:57.737821+09:00",
+      "last_seen": "2026-07-27T10:44:57.737821+09:00"
+    },
+    "Crypto.com": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
+          "link": "https://www.nadanews.com/361191/",
+          "pub_date": "2026-07-27T06:45:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:57.737821+09:00",
+      "last_seen": "2026-07-27T10:44:57.737821+09:00"
+    },
+    "Wall Street Journal": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
+          "link": "https://www.nadanews.com/361191/",
+          "pub_date": "2026-07-27T06:45:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:57.737821+09:00",
+      "last_seen": "2026-07-27T10:44:57.737821+09:00"
+    },
+    "Kalshi": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
+          "link": "https://www.nadanews.com/361191/",
+          "pub_date": "2026-07-27T06:45:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:57.737821+09:00",
+      "last_seen": "2026-07-27T10:44:57.737821+09:00"
+    },
+    "Interactive Brokers": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
+          "link": "https://www.nadanews.com/361191/",
+          "pub_date": "2026-07-27T06:45:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:57.737821+09:00",
+      "last_seen": "2026-07-27T10:44:57.737821+09:00"
+    },
+    "ForecastEx": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
+          "link": "https://www.nadanews.com/361191/",
+          "pub_date": "2026-07-27T06:45:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:57.737821+09:00",
+      "last_seen": "2026-07-27T10:44:57.737821+09:00"
+    },
+    "Rothera": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
+          "link": "https://www.nadanews.com/361191/",
+          "pub_date": "2026-07-27T06:45:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:57.737821+09:00",
+      "last_seen": "2026-07-27T10:44:57.737821+09:00"
+    },
+    "Susquehanna International Group": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Robinhood、Crypto.comと予測市場で提携協議＝WSJ",
+          "link": "https://www.nadanews.com/361191/",
+          "pub_date": "2026-07-27T06:45:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:44:57.737821+09:00",
+      "last_seen": "2026-07-27T10:44:57.737821+09:00"
+    },
+    "iShares Bitcoin Trust ETF": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361190/",
+          "pub_date": "2026-07-27T06:39:06+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:05.975098+09:00",
+      "last_seen": "2026-07-27T10:45:05.975098+09:00"
+    },
+    "Mt.Gox": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361190/",
+          "pub_date": "2026-07-27T06:39:06+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:05.975098+09:00",
+      "last_seen": "2026-07-27T10:45:05.975098+09:00"
+    },
+    "Glassnode": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
+          "link": "https://www.nadanews.com/361190/",
+          "pub_date": "2026-07-27T06:39:06+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:05.975098+09:00",
+      "last_seen": "2026-07-27T10:45:05.975098+09:00"
+    },
+    "Galaxy Digital": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "Galaxy、米クラリティ法案の2026年成立確率を30％へ引き下げ",
+          "link": "https://www.nadanews.com/361188/",
+          "pub_date": "2026-07-27T06:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:12.266946+09:00",
+      "last_seen": "2026-07-27T10:45:12.266946+09:00"
+    },
+    "Galaxy Research": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "Galaxy、米クラリティ法案の2026年成立確率を30％へ引き下げ",
+          "link": "https://www.nadanews.com/361188/",
+          "pub_date": "2026-07-27T06:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:12.266946+09:00",
+      "last_seen": "2026-07-27T10:45:12.266946+09:00"
+    },
+    "Crypto Council for Innovation": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Galaxy、米クラリティ法案の2026年成立確率を30％へ引き下げ",
+          "link": "https://www.nadanews.com/361188/",
+          "pub_date": "2026-07-27T06:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:12.266946+09:00",
+      "last_seen": "2026-07-27T10:45:12.266946+09:00"
+    },
+    "Blockchain Association": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Galaxy、米クラリティ法案の2026年成立確率を30％へ引き下げ",
+          "link": "https://www.nadanews.com/361188/",
+          "pub_date": "2026-07-27T06:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:12.266946+09:00",
+      "last_seen": "2026-07-27T10:45:12.266946+09:00"
+    },
+    "The Digital Chamber": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Galaxy、米クラリティ法案の2026年成立確率を30％へ引き下げ",
+          "link": "https://www.nadanews.com/361188/",
+          "pub_date": "2026-07-27T06:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:12.266946+09:00",
+      "last_seen": "2026-07-27T10:45:12.266946+09:00"
+    },
+    "WEMIX": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "韓国発ゲームWEMIX、独自ステーブルコイン不正発行 約10億円流出",
+          "link": "https://coinpost.jp/?p=727360",
+          "pub_date": "2026-07-27T10:42:43+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:20.280554+09:00",
+      "last_seen": "2026-07-27T10:45:20.280554+09:00"
+    },
+    "USDC": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "韓国発ゲームWEMIX、独自ステーブルコイン不正発行 約10億円流出",
+          "link": "https://coinpost.jp/?p=727360",
+          "pub_date": "2026-07-27T10:42:43+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:20.280554+09:00",
+      "last_seen": "2026-07-27T10:45:20.280554+09:00"
+    },
+    "スベルバンク": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ロシア最大手銀スベルバンク、仮想通貨取引インフラ構築へ デジタル通貨法の可決受けて",
+          "link": "https://coinpost.jp/?p=727335",
+          "pub_date": "2026-07-27T09:55:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:27.134252+09:00",
+      "last_seen": "2026-07-27T10:45:27.134252+09:00"
+    },
+    "ロシア連邦議会下院": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ロシア最大手銀スベルバンク、仮想通貨取引インフラ構築へ デジタル通貨法の可決受けて",
+          "link": "https://coinpost.jp/?p=727335",
+          "pub_date": "2026-07-27T09:55:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:27.134252+09:00",
+      "last_seen": "2026-07-27T10:45:27.134252+09:00"
+    },
+    "ビットバンク株式会社": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
+          "link": "https://coinpost.jp/?p=727127",
+          "pub_date": "2026-07-26T11:30:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:47.393146+09:00",
+      "last_seen": "2026-07-27T10:45:47.393146+09:00"
+    },
+    "米ホワイトハウス": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
+          "link": "https://coinpost.jp/?p=727127",
+          "pub_date": "2026-07-26T11:30:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:47.393146+09:00",
+      "last_seen": "2026-07-27T10:45:47.393146+09:00"
+    },
+    "アルファベット": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
+          "link": "https://coinpost.jp/?p=727127",
+          "pub_date": "2026-07-26T11:30:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:47.393146+09:00",
+      "last_seen": "2026-07-27T10:45:47.393146+09:00"
+    },
+    "米連邦公開市場委員会": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
+          "link": "https://coinpost.jp/?p=727127",
+          "pub_date": "2026-07-26T11:30:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-27T10:45:47.393146+09:00",
+      "last_seen": "2026-07-27T10:45:47.393146+09:00"
     }
   }
 }
