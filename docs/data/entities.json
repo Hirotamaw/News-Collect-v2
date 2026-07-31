@@ -73,10 +73,15 @@
       "last_seen": "2026-07-30T10:15:49.978236+09:00"
     },
     "Strategy": {
-      "article_count": 5,
-      "as_main_count": 0,
+      "article_count": 6,
+      "as_main_count": 1,
       "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "Strategy、第2四半期に82億ドルの損失を計上──BTC価格の下落が影響",
+          "link": "https://www.nadanews.com/361875/",
+          "pub_date": "2026-07-31T08:30:00+09:00"
+        },
         {
           "title": "【7/28話題】米サークルがIBMのブロックチェーン特許群取得、ストラテジーが5週連続BTC追加購入なし、KB国民銀行がKinexysで企業向け国際決済など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595552",
@@ -96,15 +101,10 @@
           "title": "ブラックロックやコインベースなど9社、「Bitcoin Security Consortium」設立",
           "link": "https://www.neweconomy.jp/posts/594528",
           "pub_date": "2026-07-24T14:23:22+09:00"
-        },
-        {
-          "title": "Strategyやブラックロックなど9社、ビットコイン開発支援へ1500万ドル拠出──量子リスクに備え【価格分析】",
-          "link": "https://www.nadanews.com/360927/",
-          "pub_date": "2026-07-24T12:56:05+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-07-29T10:24:02.114958+09:00"
+      "last_seen": "2026-07-31T10:27:50.764585+09:00"
     },
     "BlackRock": {
       "article_count": 15,
@@ -209,10 +209,15 @@
       "last_seen": "2026-07-28T10:24:48.421546+09:00"
     },
     "Visa": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        },
         {
           "title": "サムスン、Galaxy端末のウォレットにステーブルコイン機能導入へ",
           "link": "https://www.nadanews.com/361201/",
@@ -225,7 +230,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:06.153632+09:00",
-      "last_seen": "2026-07-27T10:44:45.205116+09:00"
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
     },
     "Mastercard": {
       "article_count": 3,
@@ -276,10 +281,25 @@
       "last_seen": "2026-07-26T10:27:24.171321+09:00"
     },
     "JPMorgan": {
-      "article_count": 5,
-      "as_main_count": 2,
+      "article_count": 8,
+      "as_main_count": 5,
       "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "JPモルガン、クラリティー法案の停滞は仮想通貨市場に逆風と分析",
+          "link": "https://coinpost.jp/?p=728845",
+          "pub_date": "2026-07-31T08:00:30+09:00"
+        },
+        {
+          "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
+          "link": "https://www.nadanews.com/361864/",
+          "pub_date": "2026-07-31T06:45:00+09:00"
+        },
+        {
+          "title": "JPMorganやCiti参加、BIS実証でトークン化資金による国際決済",
+          "link": "https://www.nadanews.com/361866/",
+          "pub_date": "2026-07-31T07:15:00+09:00"
+        },
         {
           "title": "韓国KB国民銀行、JPモルガン「Kinexys」活用の企業向け国際決済を8月開始へ",
           "link": "https://www.neweconomy.jp/posts/595446",
@@ -289,31 +309,21 @@
           "title": "【7/28話題】米サークルがIBMのブロックチェーン特許群取得、ストラテジーが5週連続BTC追加購入なし、KB国民銀行がKinexysで企業向け国際決済など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595552",
           "pub_date": "2026-07-28T22:35:37+09:00"
-        },
-        {
-          "title": "配送が終わると、お金が届く──物流から始まる「受け取り方」の変化【編集長コラム】",
-          "link": "https://www.nadanews.com/361100/",
-          "pub_date": "2026-07-26T10:00:00+09:00"
-        },
-        {
-          "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
-          "link": "https://coinpost.jp/?p=726926",
-          "pub_date": "2026-07-24T05:40:59+09:00"
-        },
-        {
-          "title": "Goldman SachsのソロモンCEO、クラリティ法案を「強く支持」＝報道",
-          "link": "https://www.nadanews.com/360897/",
-          "pub_date": "2026-07-24T07:30:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:07.510251+09:00",
-      "last_seen": "2026-07-29T10:24:48.574883+09:00"
+      "last_seen": "2026-07-31T10:30:27.857207+09:00"
     },
     "Uniswap": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 2,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        },
         {
           "title": "ユニスワップラボ、規制対象資産向け「パーミッションドプール」発表。v4でアクセス制御型AMMを実現",
           "link": "https://www.neweconomy.jp/posts/594482",
@@ -326,7 +336,7 @@
         }
       ],
       "first_seen": "2026-07-24T16:16:08.128838+09:00",
-      "last_seen": "2026-07-24T16:16:33.626639+09:00"
+      "last_seen": "2026-07-31T10:33:13.988356+09:00"
     },
     "日本銀行": {
       "article_count": 5,
@@ -397,44 +407,54 @@
       "last_seen": "2026-07-29T10:24:02.114958+09:00"
     },
     "Binance": {
-      "article_count": 7,
-      "as_main_count": 2,
-      "as_related_count": 5,
+      "article_count": 12,
+      "as_main_count": 3,
+      "as_related_count": 9,
       "recent_articles": [
         {
-          "title": "カートの先へ、決済大手3社が語るステーブルコイン決済の未来｜WebX2026",
-          "link": "https://coinpost.jp/?p=728433",
-          "pub_date": "2026-07-29T16:26:33+09:00"
+          "title": "バイナンス、金・銀連動オプションを提供開始",
+          "link": "https://www.neweconomy.jp/posts/596349",
+          "pub_date": "2026-07-30T17:42:56+09:00"
         },
         {
-          "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
-          "link": "https://www.nadanews.com/361682/",
-          "pub_date": "2026-07-30T08:30:00+09:00"
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
         },
         {
-          "title": "米クラリティ法案の成立期待低下が市場全体のセンチメント冷やす、今週は決算多数とFOMCでボラティリティ拡大に警戒（仮想通貨市場レポート 7/27 号）",
-          "link": "https://www.neweconomy.jp/features/sbivct/595037",
-          "pub_date": "2026-07-27T16:02:36+09:00"
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
         },
         {
-          "title": "バイナンスへのビットコイン流入 クジラ44％減、個人22％減",
-          "link": "https://coinpost.jp/?p=727808",
-          "pub_date": "2026-07-27T15:53:03+09:00"
+          "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
+          "link": "https://www.nadanews.com/361856/",
+          "pub_date": "2026-07-31T06:06:19+09:00"
         },
         {
-          "title": "Binanceに集まるビットコイン──BitMEX・BitMart閉鎖で加速する『勝者総取り』とセルフカストディの時代【エックスウィン】",
-          "link": "https://www.nadanews.com/361369/",
-          "pub_date": "2026-07-28T06:00:00+09:00"
+          "title": "ブータン特区のビットコイン準備金、コインチェックG子会社が運用受託",
+          "link": "https://www.nadanews.com/361895/",
+          "pub_date": "2026-07-31T09:57:18+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:13.718679+09:00",
-      "last_seen": "2026-07-30T10:15:28.672090+09:00"
+      "last_seen": "2026-07-31T10:32:25.181225+09:00"
     },
     "Tether": {
-      "article_count": 5,
-      "as_main_count": 3,
-      "as_related_count": 2,
+      "article_count": 7,
+      "as_main_count": 4,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        },
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
         {
           "title": "テザー、ケニアのナイロビ証券取引所とMoU締結。証券トークン化や即時決済を検討",
           "link": "https://www.neweconomy.jp/posts/595873",
@@ -449,26 +469,21 @@
           "title": "【7/29話題】QUICKとJPX総研が暗号資産指数の運営開始、イオレがHYPE取得開始、ソラナのブロック当たり最大計算量引き上げなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595981",
           "pub_date": "2026-07-29T21:30:28+09:00"
-        },
-        {
-          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.5】",
-          "link": "https://www.nadanews.com/360969/",
-          "pub_date": "2026-07-25T08:00:00+09:00"
-        },
-        {
-          "title": "暗号資産×AI融合 Justin Sun氏がTRONの展望を語る｜WebX2026",
-          "link": "https://coinpost.jp/?p=725331",
-          "pub_date": "2026-07-24T09:00:17+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:22.011018+09:00",
-      "last_seen": "2026-07-30T10:17:12.132530+09:00"
+      "last_seen": "2026-07-31T10:33:13.988356+09:00"
     },
     "Robinhood": {
-      "article_count": 5,
+      "article_count": 6,
       "as_main_count": 2,
-      "as_related_count": 3,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        },
         {
           "title": "【7/29話題】QUICKとJPX総研が暗号資産指数の運営開始、イオレがHYPE取得開始、ソラナのブロック当たり最大計算量引き上げなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595981",
@@ -488,21 +503,31 @@
           "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/594853",
           "pub_date": "2026-07-24T22:29:30+09:00"
-        },
-        {
-          "title": "「仮想通貨の次の強気相場を牽引するのは伝統金融との融合」ビットワイズ幹部が見解",
-          "link": "https://coinpost.jp/?p=726943",
-          "pub_date": "2026-07-24T08:25:27+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:23.529514+09:00",
-      "last_seen": "2026-07-30T10:16:29.510075+09:00"
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
     },
     "SEC": {
-      "article_count": 12,
-      "as_main_count": 4,
-      "as_related_count": 8,
+      "article_count": 15,
+      "as_main_count": 5,
+      "as_related_count": 10,
       "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        },
+        {
+          "title": "JPモルガン、クラリティー法案の停滞は仮想通貨市場に逆風と分析",
+          "link": "https://coinpost.jp/?p=728845",
+          "pub_date": "2026-07-31T08:00:30+09:00"
+        },
+        {
+          "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
+          "link": "https://www.nadanews.com/361864/",
+          "pub_date": "2026-07-31T06:45:00+09:00"
+        },
         {
           "title": "SECが仮想通貨規則案を検討、クラリティー法停滞の代替策か＝投資家",
           "link": "https://coinpost.jp/?p=728350",
@@ -512,25 +537,10 @@
           "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
           "link": "https://www.nadanews.com/361679/",
           "pub_date": "2026-07-30T08:00:00+09:00"
-        },
-        {
-          "title": "セキュリタイズキャピタル、米SECに投資顧問業者として登録",
-          "link": "https://www.neweconomy.jp/posts/595464",
-          "pub_date": "2026-07-28T14:37:32+09:00"
-        },
-        {
-          "title": "【7/28話題】米サークルがIBMのブロックチェーン特許群取得、ストラテジーが5週連続BTC追加購入なし、KB国民銀行がKinexysで企業向け国際決済など（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/595552",
-          "pub_date": "2026-07-28T22:35:37+09:00"
-        },
-        {
-          "title": "ブラックロック、クラリティー法を支持",
-          "link": "https://coinpost.jp/?p=728137",
-          "pub_date": "2026-07-28T16:17:04+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:26.941210+09:00",
-      "last_seen": "2026-07-30T10:16:03.279866+09:00"
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
     },
     "Upbit": {
       "article_count": 1,
@@ -595,10 +605,15 @@
       "last_seen": "2026-07-29T10:24:55.359048+09:00"
     },
     "Bybit": {
-      "article_count": 7,
+      "article_count": 8,
       "as_main_count": 1,
-      "as_related_count": 6,
+      "as_related_count": 7,
       "recent_articles": [
+        {
+          "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
+          "link": "https://www.nadanews.com/361856/",
+          "pub_date": "2026-07-31T06:06:19+09:00"
+        },
         {
           "title": "2026年上半期の仮想通貨ハッキング被害約11億ドル、件数は史上最多＝Blockaidレポート",
           "link": "https://coinpost.jp/?p=728372",
@@ -618,21 +633,31 @@
           "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
           "link": "https://www.nadanews.com/361142/",
           "pub_date": "2026-07-26T09:53:04+09:00"
-        },
-        {
-          "title": "【7/24話題】ブラックロックやコインベースらが「Bitcoin Security Consortium」設立、BitMEXがサービス終了へなど（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/594853",
-          "pub_date": "2026-07-24T22:29:30+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:31.154591+09:00",
-      "last_seen": "2026-07-30T10:15:43.018985+09:00"
+      "last_seen": "2026-07-31T10:29:06.595905+09:00"
     },
     "Solana": {
-      "article_count": 5,
+      "article_count": 8,
       "as_main_count": 2,
-      "as_related_count": 3,
+      "as_related_count": 6,
       "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        },
+        {
+          "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+          "link": "https://www.neweconomy.jp/posts/596272",
+          "pub_date": "2026-07-30T16:19:35+09:00"
+        },
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        },
         {
           "title": "ソラナ、ブロック当たりの最大計算量を1億CUへ引き上げ。メインネットで有効化",
           "link": "https://www.neweconomy.jp/posts/595911",
@@ -642,25 +667,10 @@
           "title": "【7/29話題】QUICKとJPX総研が暗号資産指数の運営開始、イオレがHYPE取得開始、ソラナのブロック当たり最大計算量引き上げなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595981",
           "pub_date": "2026-07-29T21:30:28+09:00"
-        },
-        {
-          "title": "ファントム、モナド対応を8月終了へ。開始から約9カ月で",
-          "link": "https://www.neweconomy.jp/posts/595041",
-          "pub_date": "2026-07-27T14:35:04+09:00"
-        },
-        {
-          "title": "【7/27話題】Zaifが保有BTCのレンディング新サービス検討、ビットマートが来年1月に運営終了、ワールド財団がWLD売却で約86億円調達など（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/595211",
-          "pub_date": "2026-07-27T22:52:59+09:00"
-        },
-        {
-          "title": "S＆Pとパンテラ、プロトコル収益重視の暗号資産指数を算出開始",
-          "link": "https://www.neweconomy.jp/posts/594539",
-          "pub_date": "2026-07-24T14:40:06+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:31.772049+09:00",
-      "last_seen": "2026-07-30T10:16:50.242099+09:00"
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
     },
     "ARK Invest": {
       "article_count": 2,
@@ -968,10 +978,20 @@
       "last_seen": "2026-07-29T10:21:35.471907+09:00"
     },
     "ビットコイン": {
-      "article_count": 6,
-      "as_main_count": 2,
-      "as_related_count": 4,
+      "article_count": 8,
+      "as_main_count": 3,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "セイラー氏、ビットコインのコンセンサスルールは「憲法」 プロトコル変更に警鐘",
+          "link": "https://coinpost.jp/?p=728643",
+          "pub_date": "2026-07-30T14:17:55+09:00"
+        },
+        {
+          "title": "ビットコイン短期保有者の実現時価総額が62%減＝アナリスト分析",
+          "link": "https://coinpost.jp/?p=728755",
+          "pub_date": "2026-07-30T17:37:47+09:00"
+        },
         {
           "title": "BTCは6万5000ドルでもみ合い──日米英の政策決定前、7万ドル台に約50億ドルの建玉【価格分析】",
           "link": "https://www.nadanews.com/361229/",
@@ -986,20 +1006,10 @@
           "title": "ビットコイン長期保有者、保有1630万BTCで含み益30％まで圧縮＝アナリスト",
           "link": "https://coinpost.jp/?p=727327",
           "pub_date": "2026-07-27T07:49:37+09:00"
-        },
-        {
-          "title": "マトリックス法によるテクニカル分析（2026/7/24）梅雨明け！次はサマーラリー？【楽天ウォレット】",
-          "link": "https://www.nadanews.com/361019/",
-          "pub_date": "2026-07-24T18:25:13+09:00"
-        },
-        {
-          "title": "イーサリアムは底値圏へ近づいたのか──CryptoQuantが示す「5つの底打ちシグナル」を読み解く【エックスウィン】",
-          "link": "https://www.nadanews.com/361080/",
-          "pub_date": "2026-07-25T06:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T17:30:36.197802+09:00",
-      "last_seen": "2026-07-28T10:20:09.624466+09:00"
+      "last_seen": "2026-07-31T10:32:07.058350+09:00"
     },
     "BTC": {
       "article_count": 1,
@@ -1097,10 +1107,20 @@
       "last_seen": "2026-07-25T10:24:19.875540+09:00"
     },
     "FRB": {
-      "article_count": 7,
-      "as_main_count": 1,
-      "as_related_count": 6,
+      "article_count": 9,
+      "as_main_count": 2,
+      "as_related_count": 7,
       "recent_articles": [
+        {
+          "title": "ビットコイン・イーサリアム、買いも売りも決め手欠く展開＝クリプトクアント分析",
+          "link": "https://coinpost.jp/?p=728872",
+          "pub_date": "2026-07-31T09:45:26+09:00"
+        },
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        },
         {
           "title": "コインベース、FRBのフィンテック向け「決済口座」新設案に意見書 利息付与など3点の改善要望",
           "link": "https://coinpost.jp/?p=728341",
@@ -1115,20 +1135,10 @@
           "title": "ビットコイン、米攻撃停止で反発 今週はFOMCとビッグテック決算【楽天ウォレットDaily Report】",
           "link": "https://www.nadanews.com/361247/",
           "pub_date": "2026-07-27T13:06:34+09:00"
-        },
-        {
-          "title": "米国のイラン空爆一時停止でETHに9000万ドル規模のショートスクイーズ──RSIは移動平均線を上抜け【価格分析】",
-          "link": "https://www.nadanews.com/361210/",
-          "pub_date": "2026-07-27T14:27:01+09:00"
-        },
-        {
-          "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
-          "link": "https://coinpost.jp/?p=726998",
-          "pub_date": "2026-07-26T09:25:27+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:19.875540+09:00",
-      "last_seen": "2026-07-30T10:15:49.978236+09:00"
+      "last_seen": "2026-07-31T10:29:44.892887+09:00"
     },
     "CryptoQuant": {
       "article_count": 5,
@@ -1165,10 +1175,20 @@
       "last_seen": "2026-07-29T10:23:24.894138+09:00"
     },
     "イーサリアム": {
-      "article_count": 6,
+      "article_count": 8,
       "as_main_count": 1,
-      "as_related_count": 5,
+      "as_related_count": 7,
       "recent_articles": [
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        },
+        {
+          "title": "クオンタムソリューションズ、イーサリアム1000ETHを売却 累計売却上限数量増加も発表",
+          "link": "https://coinpost.jp/?p=728856",
+          "pub_date": "2026-07-31T07:30:49+09:00"
+        },
         {
           "title": "金裏付けトークン「テザーゴールド（XAUT）」、シャリア準拠認証を取得。イスラム金融での活用拡大を後押し",
           "link": "https://www.neweconomy.jp/posts/595893",
@@ -1183,26 +1203,21 @@
           "title": "リキッドステーキングのリド、アップグレードを開始 ETHのバリデータ数を約3分の1削減へ",
           "link": "https://coinpost.jp/?p=728025",
           "pub_date": "2026-07-28T12:45:02+09:00"
-        },
-        {
-          "title": "イーサリアムのレイヤー2総預かり資産50億ドルに縮小",
-          "link": "https://coinpost.jp/?p=728299",
-          "pub_date": "2026-07-29T10:15:20+09:00"
-        },
-        {
-          "title": "【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？",
-          "link": "https://www.nadanews.com/361295/",
-          "pub_date": "2026-07-28T07:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:29.635286+09:00",
-      "last_seen": "2026-07-30T10:17:05.271823+09:00"
+      "last_seen": "2026-07-31T10:31:54.963227+09:00"
     },
     "エックスウィン": {
-      "article_count": 8,
-      "as_main_count": 6,
+      "article_count": 9,
+      "as_main_count": 7,
       "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
+          "link": "https://www.nadanews.com/361856/",
+          "pub_date": "2026-07-31T06:06:19+09:00"
+        },
         {
           "title": "FRBは市場に何を伝えたのか：ビットコイン投資家が見落としてはいけないポイント【エックスウィン】",
           "link": "https://www.nadanews.com/361665/",
@@ -1222,15 +1237,10 @@
           "title": "長期保有者はなぜビットコインを蓄積しているのか──過去最大級のLTH増加を読み解く【エックスウィン】",
           "link": "https://www.nadanews.com/361190/",
           "pub_date": "2026-07-27T06:39:06+09:00"
-        },
-        {
-          "title": "ウォール街はなぜビットコインETFを買うのか──機関投資家マネーが市場を変えた理由【エックスウィン】",
-          "link": "https://www.nadanews.com/361152/",
-          "pub_date": "2026-07-26T06:29:55+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:29.635286+09:00",
-      "last_seen": "2026-07-30T10:14:29.687123+09:00"
+      "last_seen": "2026-07-31T10:29:06.595905+09:00"
     },
     "CertiK": {
       "article_count": 1,
@@ -1247,10 +1257,15 @@
       "last_seen": "2026-07-25T10:24:42.134257+09:00"
     },
     "あたらしい経済": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 0,
-      "as_related_count": 3,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
         {
           "title": "【7/28話題】米サークルがIBMのブロックチェーン特許群取得、ストラテジーが5週連続BTC追加購入なし、KB国民銀行がKinexysで企業向け国際決済など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595552",
@@ -1268,7 +1283,7 @@
         }
       ],
       "first_seen": "2026-07-25T10:24:58.753545+09:00",
-      "last_seen": "2026-07-29T10:24:02.114958+09:00"
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
     },
     "Apple": {
       "article_count": 4,
@@ -1362,10 +1377,15 @@
       "last_seen": "2026-07-29T10:24:02.114958+09:00"
     },
     "SBI VCトレード": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 0,
-      "as_related_count": 4,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
         {
           "title": "【7/29話題】QUICKとJPX総研が暗号資産指数の運営開始、イオレがHYPE取得開始、ソラナのブロック当たり最大計算量引き上げなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595981",
@@ -1388,7 +1408,7 @@
         }
       ],
       "first_seen": "2026-07-25T10:24:58.753545+09:00",
-      "last_seen": "2026-07-30T10:16:29.510075+09:00"
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
     },
     "Bitcoin Security Consortium": {
       "article_count": 1,
@@ -1452,10 +1472,15 @@
       "last_seen": "2026-07-28T10:23:57.056442+09:00"
     },
     "Base": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 0,
-      "as_related_count": 4,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        },
         {
           "title": "イーサリアムのレイヤー2総預かり資産50億ドルに縮小",
           "link": "https://coinpost.jp/?p=728299",
@@ -1478,7 +1503,7 @@
         }
       ],
       "first_seen": "2026-07-25T10:24:58.753545+09:00",
-      "last_seen": "2026-07-29T10:22:15.025551+09:00"
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
     },
     "ユニスワップラボ": {
       "article_count": 1,
@@ -1640,10 +1665,15 @@
       "last_seen": "2026-07-26T10:27:17.392749+09:00"
     },
     "JPYC": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 1,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        },
         {
           "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
           "link": "https://www.nadanews.com/360960/",
@@ -1656,7 +1686,7 @@
         }
       ],
       "first_seen": "2026-07-26T10:26:55.251336+09:00",
-      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+      "last_seen": "2026-07-31T10:27:40.436505+09:00"
     },
     "SWIFT": {
       "article_count": 2,
@@ -1692,10 +1722,15 @@
       "last_seen": "2026-07-26T10:26:55.251336+09:00"
     },
     "Google": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 1,
-      "as_related_count": 3,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        },
         {
           "title": "ウォレットのシードフレーズ流出招くマルウェア「SparkKitty」、チェックポイント傘下が解説",
           "link": "https://www.neweconomy.jp/posts/595904",
@@ -1718,7 +1753,7 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:01.508813+09:00",
-      "last_seen": "2026-07-30T10:16:57.912901+09:00"
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
     },
     "Digital Asset": {
       "article_count": 1,
@@ -1749,10 +1784,15 @@
       "last_seen": "2026-07-26T10:27:01.508813+09:00"
     },
     "OKX": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
+          "link": "https://www.nadanews.com/361856/",
+          "pub_date": "2026-07-31T06:06:19+09:00"
+        },
         {
           "title": "韓国Google Play、少なくとも29の海外取引所アプリが新規インストール不可に＝Digital Asset",
           "link": "https://www.nadanews.com/361142/",
@@ -1760,7 +1800,7 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:01.508813+09:00",
-      "last_seen": "2026-07-26T10:27:01.508813+09:00"
+      "last_seen": "2026-07-31T10:29:06.595905+09:00"
     },
     "MEXC": {
       "article_count": 2,
@@ -1810,10 +1850,15 @@
       "last_seen": "2026-07-26T10:27:01.508813+09:00"
     },
     "民主党": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 1,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        },
         {
           "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
           "link": "https://www.nadanews.com/361679/",
@@ -1826,13 +1871,18 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:10.458149+09:00",
-      "last_seen": "2026-07-30T10:14:00.637997+09:00"
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
     },
     "共和党": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        },
         {
           "title": "CLARITY Actは新たな局面へ。民主党が求める「修正」とは何か【サンフランシスコ レポート】",
           "link": "https://www.nadanews.com/360892/",
@@ -1840,13 +1890,28 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:10.458149+09:00",
-      "last_seen": "2026-07-26T10:27:10.458149+09:00"
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
     },
     "CFTC": {
-      "article_count": 11,
-      "as_main_count": 2,
-      "as_related_count": 9,
+      "article_count": 14,
+      "as_main_count": 3,
+      "as_related_count": 11,
       "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        },
+        {
+          "title": "JPモルガン、クラリティー法案の停滞は仮想通貨市場に逆風と分析",
+          "link": "https://coinpost.jp/?p=728845",
+          "pub_date": "2026-07-31T08:00:30+09:00"
+        },
+        {
+          "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
+          "link": "https://www.nadanews.com/361864/",
+          "pub_date": "2026-07-31T06:45:00+09:00"
+        },
         {
           "title": "SECが仮想通貨規則案を検討、クラリティー法停滞の代替策か＝投資家",
           "link": "https://coinpost.jp/?p=728350",
@@ -1856,31 +1921,21 @@
           "title": "米国44州の司法長官「スポーツ関連予測市場の規制権限はCFTCにない」と主張",
           "link": "https://coinpost.jp/?p=728546",
           "pub_date": "2026-07-30T09:04:17+09:00"
-        },
-        {
-          "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
-          "link": "https://www.nadanews.com/361679/",
-          "pub_date": "2026-07-30T08:00:00+09:00"
-        },
-        {
-          "title": "ブラックロック、クラリティー法を支持",
-          "link": "https://coinpost.jp/?p=728137",
-          "pub_date": "2026-07-28T16:17:04+09:00"
-        },
-        {
-          "title": "BlackRockやFidelityらウォール街大手、クラリティ法案支持を表明",
-          "link": "https://www.nadanews.com/361538/",
-          "pub_date": "2026-07-29T06:30:24+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:10.458149+09:00",
-      "last_seen": "2026-07-30T10:16:03.279866+09:00"
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
     },
     "財務省": {
-      "article_count": 2,
-      "as_main_count": 1,
+      "article_count": 3,
+      "as_main_count": 2,
       "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "ベッセント米財務長官、クラリティ法案の採決を要求",
+          "link": "https://www.nadanews.com/361867/",
+          "pub_date": "2026-07-31T07:30:00+09:00"
+        },
         {
           "title": "ルミス米上院議員、クラリティー法案が北朝鮮ラザルス封じの鍵に",
           "link": "https://coinpost.jp/?p=728068",
@@ -1893,13 +1948,18 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:10.458149+09:00",
-      "last_seen": "2026-07-29T10:23:46.488940+09:00"
+      "last_seen": "2026-07-31T10:28:30.598381+09:00"
     },
     "日本経済新聞": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        },
         {
           "title": "高市政権「骨太の方針」に「オンチェーン金融の推進」明記──国家戦略への位置づけ鮮明に／CLARITY法案はいまどこまで進んでいるのか。最新調査から見えた本当の課題【日曜日に読みたい厳選10本】",
           "link": "https://www.nadanews.com/360960/",
@@ -1907,7 +1967,7 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:17.392749+09:00",
-      "last_seen": "2026-07-26T10:27:17.392749+09:00"
+      "last_seen": "2026-07-31T10:27:40.436505+09:00"
     },
     "THE BLOCK": {
       "article_count": 1,
@@ -1999,10 +2059,20 @@
       "last_seen": "2026-07-26T10:27:24.171321+09:00"
     },
     "Ethereum": {
-      "article_count": 4,
+      "article_count": 6,
       "as_main_count": 1,
-      "as_related_count": 3,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        },
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        },
         {
           "title": "ウィミックスのステーブルコイン「WEMIX$」、約522万枚が不正発行",
           "link": "https://www.neweconomy.jp/posts/595529",
@@ -2017,21 +2087,21 @@
           "title": "リップル、機関向けRLUSD管理基盤「Ripple Mint」提供開始",
           "link": "https://www.neweconomy.jp/posts/595059",
           "pub_date": "2026-07-27T15:34:12+09:00"
-        },
-        {
-          "title": "ドル高・原油100ドルでも、予測市場はFOMC前のETHが1,800ドル超でもみ合うと予想【価格分析】",
-          "link": "https://www.nadanews.com/361124/",
-          "pub_date": "2026-07-25T13:21:32+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:31.192786+09:00",
-      "last_seen": "2026-07-29T10:24:15.466472+09:00"
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
     },
     "Polymarket": {
-      "article_count": 9,
+      "article_count": 10,
       "as_main_count": 2,
-      "as_related_count": 7,
+      "as_related_count": 8,
       "recent_articles": [
+        {
+          "title": "JPモルガン、クラリティー法案の停滞は仮想通貨市場に逆風と分析",
+          "link": "https://coinpost.jp/?p=728845",
+          "pub_date": "2026-07-31T08:00:30+09:00"
+        },
         {
           "title": "米国44州の司法長官「スポーツ関連予測市場の規制権限はCFTCにない」と主張",
           "link": "https://coinpost.jp/?p=728546",
@@ -2051,15 +2121,10 @@
           "title": "米CFTC、予測市場における「テンプレート型」一括契約認証に注意喚起 審査困難と指摘",
           "link": "https://coinpost.jp/?p=727376",
           "pub_date": "2026-07-27T12:52:18+09:00"
-        },
-        {
-          "title": "トップアナリストと語るビットコイン相場展望｜WebX2026",
-          "link": "https://coinpost.jp/?p=727792",
-          "pub_date": "2026-07-27T15:58:37+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:31.192786+09:00",
-      "last_seen": "2026-07-30T10:15:04.230186+09:00"
+      "last_seen": "2026-07-31T10:30:27.857207+09:00"
     },
     "Robinhood Chain": {
       "article_count": 2,
@@ -2298,10 +2363,15 @@
       "last_seen": "2026-07-26T10:27:46.708258+09:00"
     },
     "マイクロストラテジー": {
-      "article_count": 3,
-      "as_main_count": 1,
+      "article_count": 4,
+      "as_main_count": 2,
       "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "セイラー氏、ビットコインのコンセンサスルールは「憲法」 プロトコル変更に警鐘",
+          "link": "https://coinpost.jp/?p=728643",
+          "pub_date": "2026-07-30T14:17:55+09:00"
+        },
         {
           "title": "ビットマインがイーサリアム追加取得、総保有量は578万ETH超で総供給量の4.8%に",
           "link": "https://www.neweconomy.jp/posts/595434",
@@ -2319,7 +2389,7 @@
         }
       ],
       "first_seen": "2026-07-26T10:27:46.708258+09:00",
-      "last_seen": "2026-07-29T10:25:02.549278+09:00"
+      "last_seen": "2026-07-31T10:32:07.058350+09:00"
     },
     "グレースケール": {
       "article_count": 1,
@@ -2515,10 +2585,20 @@
       "last_seen": "2026-07-28T10:23:18.339935+09:00"
     },
     "X": {
-      "article_count": 8,
+      "article_count": 10,
       "as_main_count": 0,
-      "as_related_count": 8,
+      "as_related_count": 10,
       "recent_articles": [
+        {
+          "title": "セイラー氏、ビットコインのコンセンサスルールは「憲法」 プロトコル変更に警鐘",
+          "link": "https://coinpost.jp/?p=728643",
+          "pub_date": "2026-07-30T14:17:55+09:00"
+        },
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        },
         {
           "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
           "link": "https://www.nadanews.com/361679/",
@@ -2533,20 +2613,10 @@
           "title": "ルミス米上院議員、クラリティー法案が北朝鮮ラザルス封じの鍵に",
           "link": "https://coinpost.jp/?p=728068",
           "pub_date": "2026-07-28T13:40:51+09:00"
-        },
-        {
-          "title": "ビットコイン需要、現物先物合算で12.7万BTC不足＝アナリスト",
-          "link": "https://coinpost.jp/?p=728167",
-          "pub_date": "2026-07-28T17:12:33+09:00"
-        },
-        {
-          "title": "インド当局、ジャックドーシー手がける「ビットチャット」のGitHub削除を要求",
-          "link": "https://www.neweconomy.jp/posts/595094",
-          "pub_date": "2026-07-27T15:58:49+09:00"
         }
       ],
       "first_seen": "2026-07-27T10:44:51.532121+09:00",
-      "last_seen": "2026-07-30T10:14:00.637997+09:00"
+      "last_seen": "2026-07-31T10:32:07.058350+09:00"
     },
     "Postmodern Studio": {
       "article_count": 1,
@@ -2582,10 +2652,15 @@
       "last_seen": "2026-07-29T10:24:28.558966+09:00"
     },
     "Crypto.com": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 3,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
         {
           "title": "【7/29話題】QUICKとJPX総研が暗号資産指数の運営開始、イオレがHYPE取得開始、ソラナのブロック当たり最大計算量引き上げなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595981",
@@ -2608,7 +2683,7 @@
         }
       ],
       "first_seen": "2026-07-27T10:44:57.737821+09:00",
-      "last_seen": "2026-07-30T10:16:29.510075+09:00"
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
     },
     "Wall Street Journal": {
       "article_count": 2,
@@ -2630,10 +2705,15 @@
       "last_seen": "2026-07-29T10:24:28.558966+09:00"
     },
     "Kalshi": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 1,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "JPモルガン、クラリティー法案の停滞は仮想通貨市場に逆風と分析",
+          "link": "https://coinpost.jp/?p=728845",
+          "pub_date": "2026-07-31T08:00:30+09:00"
+        },
         {
           "title": "米ミネソタ州裁、予測市場禁止法の執行を差し止め──Kalshiら営業継続へ",
           "link": "https://www.nadanews.com/361550/",
@@ -2651,7 +2731,7 @@
         }
       ],
       "first_seen": "2026-07-27T10:44:57.737821+09:00",
-      "last_seen": "2026-07-29T10:21:29.068964+09:00"
+      "last_seen": "2026-07-31T10:30:27.857207+09:00"
     },
     "Interactive Brokers": {
       "article_count": 2,
@@ -2851,10 +2931,15 @@
       "last_seen": "2026-07-29T10:24:15.466472+09:00"
     },
     "USDC": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 0,
-      "as_related_count": 3,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        },
         {
           "title": "サークル、約1000件のIBMブロックチェーン特許を取得",
           "link": "https://coinpost.jp/?p=727914",
@@ -2872,7 +2957,7 @@
         }
       ],
       "first_seen": "2026-07-27T10:45:20.280554+09:00",
-      "last_seen": "2026-07-28T10:22:31.896273+09:00"
+      "last_seen": "2026-07-31T10:27:40.436505+09:00"
     },
     "スベルバンク": {
       "article_count": 2,
@@ -3053,10 +3138,20 @@
       "last_seen": "2026-07-28T10:19:28.039573+09:00"
     },
     "IBM": {
-      "article_count": 4,
-      "as_main_count": 3,
+      "article_count": 6,
+      "as_main_count": 5,
       "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "IBMとシカゴ大学、論理量子ビット70個で優位性実証",
+          "link": "https://coinpost.jp/?p=728844",
+          "pub_date": "2026-07-31T07:05:28+09:00"
+        },
+        {
+          "title": "IBM、「信頼できる量子優位性」を実証したと発表",
+          "link": "https://www.nadanews.com/361871/",
+          "pub_date": "2026-07-31T08:00:00+09:00"
+        },
         {
           "title": "【7/28話題】米サークルがIBMのブロックチェーン特許群取得、ストラテジーが5週連続BTC追加購入なし、KB国民銀行がKinexysで企業向け国際決済など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595552",
@@ -3071,15 +3166,10 @@
           "title": "サークル、約1000件のIBMブロックチェーン特許を取得",
           "link": "https://coinpost.jp/?p=727914",
           "pub_date": "2026-07-28T05:35:35+09:00"
-        },
-        {
-          "title": "Circle、IBMから約1000件のブロックチェーン特許取得",
-          "link": "https://www.nadanews.com/361384/",
-          "pub_date": "2026-07-28T07:15:00+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:19:34.218757+09:00",
-      "last_seen": "2026-07-29T10:24:02.114958+09:00"
+      "last_seen": "2026-07-31T10:30:56.951168+09:00"
     },
     "Circle Payments Network": {
       "article_count": 1,
@@ -3124,10 +3214,20 @@
       "last_seen": "2026-07-28T10:19:34.218757+09:00"
     },
     "米上院": {
-      "article_count": 4,
-      "as_main_count": 4,
-      "as_related_count": 0,
+      "article_count": 6,
+      "as_main_count": 5,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "JPモルガン、クラリティー法案の停滞は仮想通貨市場に逆風と分析",
+          "link": "https://coinpost.jp/?p=728845",
+          "pub_date": "2026-07-31T08:00:30+09:00"
+        },
+        {
+          "title": "米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block",
+          "link": "https://www.nadanews.com/361855/",
+          "pub_date": "2026-07-31T06:15:00+09:00"
+        },
         {
           "title": "ルミス米上院議員、クラリティー法案が北朝鮮ラザルス封じの鍵に",
           "link": "https://coinpost.jp/?p=728068",
@@ -3142,15 +3242,10 @@
           "title": "米上院に量子技術法案提出、仮想通貨のセキュリティにも影響か",
           "link": "https://coinpost.jp/?p=728249",
           "pub_date": "2026-07-29T08:30:20+09:00"
-        },
-        {
-          "title": "【墨汁うまい氏寄稿】トランプ大統領が暗号資産規制のクラリティ法成立へ動く、米上院との非公開協議で何が変わるのか？",
-          "link": "https://www.nadanews.com/361295/",
-          "pub_date": "2026-07-28T07:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:19:40.833624+09:00",
-      "last_seen": "2026-07-29T10:23:46.488940+09:00"
+      "last_seen": "2026-07-31T10:30:27.857207+09:00"
     },
     "Securitize Capital": {
       "article_count": 2,
@@ -3228,10 +3323,15 @@
       "last_seen": "2026-07-28T10:19:47.490386+09:00"
     },
     "NYSE": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
+          "link": "https://www.nadanews.com/361856/",
+          "pub_date": "2026-07-31T06:06:19+09:00"
+        },
         {
           "title": "Securitize、SEC登録投資顧問業者に──機関投資家向け事業を強化",
           "link": "https://www.nadanews.com/361381/",
@@ -3239,7 +3339,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:19:47.490386+09:00",
-      "last_seen": "2026-07-28T10:19:47.490386+09:00"
+      "last_seen": "2026-07-31T10:29:06.595905+09:00"
     },
     "FTX": {
       "article_count": 2,
@@ -3275,10 +3375,15 @@
       "last_seen": "2026-07-28T10:19:54.640344+09:00"
     },
     "Uniswap Labs": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        },
         {
           "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
           "link": "https://www.nadanews.com/361050/",
@@ -3286,7 +3391,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:20:01.969479+09:00",
-      "last_seen": "2026-07-28T10:20:01.969479+09:00"
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
     },
     "Superstate": {
       "article_count": 1,
@@ -3331,10 +3436,20 @@
       "last_seen": "2026-07-28T10:20:01.969479+09:00"
     },
     "The Block": {
-      "article_count": 3,
+      "article_count": 5,
       "as_main_count": 0,
-      "as_related_count": 3,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        },
+        {
+          "title": "米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block",
+          "link": "https://www.nadanews.com/361855/",
+          "pub_date": "2026-07-31T06:15:00+09:00"
+        },
         {
           "title": "イーサリアムのレイヤー2総預かり資産50億ドルに縮小",
           "link": "https://coinpost.jp/?p=728299",
@@ -3352,13 +3467,18 @@
         }
       ],
       "first_seen": "2026-07-28T10:20:01.969479+09:00",
-      "last_seen": "2026-07-29T10:22:15.025551+09:00"
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
     },
     "Citi": {
-      "article_count": 1,
-      "as_main_count": 0,
+      "article_count": 2,
+      "as_main_count": 1,
       "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "JPMorganやCiti参加、BIS実証でトークン化資金による国際決済",
+          "link": "https://www.nadanews.com/361866/",
+          "pub_date": "2026-07-31T07:15:00+09:00"
+        },
         {
           "title": "Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】",
           "link": "https://www.nadanews.com/361050/",
@@ -3366,13 +3486,18 @@
         }
       ],
       "first_seen": "2026-07-28T10:20:01.969479+09:00",
-      "last_seen": "2026-07-28T10:20:01.969479+09:00"
+      "last_seen": "2026-07-31T10:28:40.417981+09:00"
     },
     "CoinDesk": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "JPMorgan、クラリティ法案成立遅れは暗号資産市場の逆風に＝CoinDesk",
+          "link": "https://www.nadanews.com/361864/",
+          "pub_date": "2026-07-31T06:45:00+09:00"
+        },
         {
           "title": "イーサシステムズ、金融機関のパブリックブロックチェーン活用へプライバシー技術が不可欠と指摘＝報道",
           "link": "https://www.neweconomy.jp/posts/595868",
@@ -3385,7 +3510,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:20:01.969479+09:00",
-      "last_seen": "2026-07-30T10:17:25.935069+09:00"
+      "last_seen": "2026-07-31T10:28:47.109173+09:00"
     },
     "ニューヨーク証券取引所": {
       "article_count": 1,
@@ -3746,10 +3871,15 @@
       "last_seen": "2026-07-28T10:24:30.968764+09:00"
     },
     "Meta": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        },
         {
           "title": "米クラリティ法案の成立期待低下が市場全体のセンチメント冷やす、今週は決算多数とFOMCでボラティリティ拡大に警戒（仮想通貨市場レポート 7/27 号）",
           "link": "https://www.neweconomy.jp/features/sbivct/595037",
@@ -3762,7 +3892,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:20:25.579460+09:00",
-      "last_seen": "2026-07-28T10:24:30.968764+09:00"
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
     },
     "Amazon": {
       "article_count": 2,
@@ -3935,10 +4065,20 @@
       "last_seen": "2026-07-28T10:21:29.822549+09:00"
     },
     "CoinPost": {
-      "article_count": 1,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "ANAP、「BITCOIN JAPAN 2026」を11月に開催へ",
+          "link": "https://coinpost.jp/?p=728743",
+          "pub_date": "2026-07-30T18:57:10+09:00"
+        },
+        {
+          "title": "韓国、仮想通貨課税を2027年に実施へ",
+          "link": "https://coinpost.jp/?p=728809",
+          "pub_date": "2026-07-31T05:00:47+09:00"
+        },
         {
           "title": "米スポーツ用品大手ファナティクス、BGCから予測市場向け取引所と清算機関を取得へ",
           "link": "https://coinpost.jp/?p=727918",
@@ -3946,7 +4086,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:21:29.822549+09:00",
-      "last_seen": "2026-07-28T10:21:29.822549+09:00"
+      "last_seen": "2026-07-31T10:31:39.920672+09:00"
     },
     "ファナティクス・ベッティング・アンド・ゲーミング": {
       "article_count": 1,
@@ -4061,10 +4201,15 @@
       "last_seen": "2026-07-28T10:21:54.184483+09:00"
     },
     "WebX": {
-      "article_count": 2,
-      "as_main_count": 1,
+      "article_count": 3,
+      "as_main_count": 2,
       "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        },
         {
           "title": "トップアナリストと語るビットコイン相場展望｜WebX2026",
           "link": "https://coinpost.jp/?p=727792",
@@ -4077,7 +4222,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:21:54.184483+09:00",
-      "last_seen": "2026-07-28T10:23:01.885861+09:00"
+      "last_seen": "2026-07-31T10:31:54.963227+09:00"
     },
     "クリプト・イン・アメリカ": {
       "article_count": 1,
@@ -4108,10 +4253,15 @@
       "last_seen": "2026-07-28T10:22:01.897597+09:00"
     },
     "米上院民主党": {
-      "article_count": 1,
-      "as_main_count": 0,
+      "article_count": 2,
+      "as_main_count": 1,
       "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "米上院議員が汚職阻止法案提出、トランプ大統領の仮想通貨収益に矛先",
+          "link": "https://coinpost.jp/?p=728846",
+          "pub_date": "2026-07-31T08:40:32+09:00"
+        },
         {
           "title": "米上院共和党、クラリティー法案の本会議入り急ぐ＝報道",
           "link": "https://coinpost.jp/?p=727916",
@@ -4119,7 +4269,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:22:01.897597+09:00",
-      "last_seen": "2026-07-28T10:22:01.897597+09:00"
+      "last_seen": "2026-07-31T10:30:06.968478+09:00"
     },
     "サークル・インターネット・グループ": {
       "article_count": 1,
@@ -4164,10 +4314,15 @@
       "last_seen": "2026-07-28T10:22:31.896273+09:00"
     },
     "ストラテジー": {
-      "article_count": 1,
-      "as_main_count": 1,
+      "article_count": 2,
+      "as_main_count": 2,
       "as_related_count": 0,
       "recent_articles": [
+        {
+          "title": "ストラテジー決算、第2四半期に1.3兆円純損失を計上",
+          "link": "https://coinpost.jp/?p=728843",
+          "pub_date": "2026-07-31T06:40:21+09:00"
+        },
         {
           "title": "ストラテジー、ビットコイン新規購入を再度見送り 新たに883億円調達",
           "link": "https://coinpost.jp/?p=727900",
@@ -4175,7 +4330,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:22:38.697070+09:00",
-      "last_seen": "2026-07-28T10:22:38.697070+09:00"
+      "last_seen": "2026-07-31T10:31:08.050146+09:00"
     },
     "マネックス証券株式会社": {
       "article_count": 1,
@@ -4239,10 +4394,15 @@
       "last_seen": "2026-07-28T10:23:01.885861+09:00"
     },
     "OpenAI": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 0,
-      "as_related_count": 3,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        },
         {
           "title": "Nyxとコノエインテリジェンスが業務提携、「Mythos対策」本格始動",
           "link": "https://www.neweconomy.jp/posts/595879",
@@ -4260,13 +4420,23 @@
         }
       ],
       "first_seen": "2026-07-28T10:23:01.885861+09:00",
-      "last_seen": "2026-07-30T10:17:19.450501+09:00"
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
     },
     "Anthropic": {
-      "article_count": 2,
-      "as_main_count": 1,
-      "as_related_count": 1,
+      "article_count": 4,
+      "as_main_count": 2,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        },
+        {
+          "title": "日立、アンソロピックのAIで重要インフラのセキュリティ検証を加速",
+          "link": "https://www.neweconomy.jp/posts/596308",
+          "pub_date": "2026-07-30T16:42:50+09:00"
+        },
         {
           "title": "GMOインターネットGがアンソロピックと戦略提携、「Claude Enterprise」をグループ全体で活用へ",
           "link": "https://www.neweconomy.jp/posts/595884",
@@ -4279,7 +4449,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:23:01.885861+09:00",
-      "last_seen": "2026-07-30T10:16:43.159541+09:00"
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
     },
     "カルシ": {
       "article_count": 3,
@@ -4667,10 +4837,20 @@
       "last_seen": "2026-07-28T10:24:11.167023+09:00"
     },
     "PIXTA": {
-      "article_count": 2,
+      "article_count": 4,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "日立、アンソロピックのAIで重要インフラのセキュリティ検証を加速",
+          "link": "https://www.neweconomy.jp/posts/596308",
+          "pub_date": "2026-07-30T16:42:50+09:00"
+        },
+        {
+          "title": "ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ",
+          "link": "https://www.neweconomy.jp/posts/596343",
+          "pub_date": "2026-07-30T17:36:04+09:00"
+        },
         {
           "title": "クラーケン親会社ペイワード、企業向けウォレット基盤提供「マジックラボ」のWaaS事業買収へ",
           "link": "https://www.neweconomy.jp/posts/595441",
@@ -4683,7 +4863,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:24:11.167023+09:00",
-      "last_seen": "2026-07-29T10:24:55.359048+09:00"
+      "last_seen": "2026-07-31T10:33:25.960543+09:00"
     },
     "鎌倉インターナショナル株式会社": {
       "article_count": 1,
@@ -5055,10 +5235,20 @@
       "last_seen": "2026-07-28T10:24:55.392903+09:00"
     },
     "日立製作所": {
-      "article_count": 1,
-      "as_main_count": 0,
+      "article_count": 3,
+      "as_main_count": 2,
       "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "日立、アンソロピックのAIで重要インフラのセキュリティ検証を加速",
+          "link": "https://www.neweconomy.jp/posts/596308",
+          "pub_date": "2026-07-30T16:42:50+09:00"
+        },
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
         {
           "title": "【総額300万円相当プレゼント】OKJが「夏のHBARクイズキャンペーン」開催！",
           "link": "https://www.neweconomy.jp/posts/595009",
@@ -5066,7 +5256,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:24:55.392903+09:00",
-      "last_seen": "2026-07-28T10:24:55.392903+09:00"
+      "last_seen": "2026-07-31T10:33:25.960543+09:00"
     },
     "Phantom": {
       "article_count": 1,
@@ -5693,10 +5883,20 @@
       "last_seen": "2026-07-29T10:24:08.571172+09:00"
     },
     "Ethereum Foundation": {
-      "article_count": 3,
-      "as_main_count": 0,
-      "as_related_count": 3,
+      "article_count": 5,
+      "as_main_count": 1,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        },
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
         {
           "title": "イーサシステムズ、金融機関のパブリックブロックチェーン活用へプライバシー技術が不可欠と指摘＝報道",
           "link": "https://www.neweconomy.jp/posts/595868",
@@ -5714,13 +5914,18 @@
         }
       ],
       "first_seen": "2026-07-29T10:22:15.025551+09:00",
-      "last_seen": "2026-07-30T10:17:25.935069+09:00"
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
     },
     "Arbitrum": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        },
         {
           "title": "イーサリアムのレイヤー2総預かり資産50億ドルに縮小",
           "link": "https://coinpost.jp/?p=728299",
@@ -5728,7 +5933,7 @@
         }
       ],
       "first_seen": "2026-07-29T10:22:15.025551+09:00",
-      "last_seen": "2026-07-29T10:22:15.025551+09:00"
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
     },
     "ZKsync": {
       "article_count": 1,
@@ -6144,10 +6349,15 @@
       "last_seen": "2026-07-29T10:23:39.335182+09:00"
     },
     "Gate": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
+          "link": "https://www.nadanews.com/361856/",
+          "pub_date": "2026-07-31T06:06:19+09:00"
+        },
         {
           "title": "GateとBackpackが語る、日本市場に賭ける理由とは｜WebX2026",
           "link": "https://coinpost.jp/?p=728108",
@@ -6155,13 +6365,28 @@
         }
       ],
       "first_seen": "2026-07-29T10:23:39.335182+09:00",
-      "last_seen": "2026-07-29T10:23:39.335182+09:00"
+      "last_seen": "2026-07-31T10:29:06.595905+09:00"
     },
     "SBIグループ": {
-      "article_count": 1,
+      "article_count": 4,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
+        {
+          "title": "ANAP、「BITCOIN JAPAN 2026」を11月に開催へ",
+          "link": "https://coinpost.jp/?p=728743",
+          "pub_date": "2026-07-30T18:57:10+09:00"
+        },
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        },
         {
           "title": "GateとBackpackが語る、日本市場に賭ける理由とは｜WebX2026",
           "link": "https://coinpost.jp/?p=728108",
@@ -6169,7 +6394,7 @@
         }
       ],
       "first_seen": "2026-07-29T10:23:39.335182+09:00",
-      "last_seen": "2026-07-29T10:23:39.335182+09:00"
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
     },
     "CoinPost株式会社": {
       "article_count": 1,
@@ -6233,10 +6458,15 @@
       "last_seen": "2026-07-29T10:23:53.705525+09:00"
     },
     "BitMine": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        },
         {
           "title": "【7/28話題】米サークルがIBMのブロックチェーン特許群取得、ストラテジーが5週連続BTC追加購入なし、KB国民銀行がKinexysで企業向け国際決済など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/595552",
@@ -6244,7 +6474,7 @@
         }
       ],
       "first_seen": "2026-07-29T10:24:02.114958+09:00",
-      "last_seen": "2026-07-29T10:24:02.114958+09:00"
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
     },
     "KB国民銀行": {
       "article_count": 2,
@@ -6775,10 +7005,25 @@
       "last_seen": "2026-07-29T10:24:48.574883+09:00"
     },
     "Avalanche": {
-      "article_count": 1,
-      "as_main_count": 0,
-      "as_related_count": 1,
+      "article_count": 4,
+      "as_main_count": 1,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
+        {
+          "title": "Progmatら4社、不動産STのステーブルコイン決済を実証",
+          "link": "https://coinpost.jp/?p=728776",
+          "pub_date": "2026-07-31T09:25:42+09:00"
+        },
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        },
         {
           "title": "韓国KB国民銀行、JPモルガン「Kinexys」活用の企業向け国際決済を8月開始へ",
           "link": "https://www.neweconomy.jp/posts/595446",
@@ -6786,7 +7031,7 @@
         }
       ],
       "first_seen": "2026-07-29T10:24:48.574883+09:00",
-      "last_seen": "2026-07-29T10:24:48.574883+09:00"
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
     },
     "NHN KCP": {
       "article_count": 1,
@@ -6957,10 +7202,15 @@
       "last_seen": "2026-07-29T10:25:02.549278+09:00"
     },
     "CoinGecko": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "クオンタム、1000ETHを約3.1億円で売却──累計売却上限を4375ETHに拡大",
+          "link": "https://www.nadanews.com/361792/",
+          "pub_date": "2026-07-30T21:16:56+09:00"
+        },
         {
           "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
           "link": "https://www.nadanews.com/361682/",
@@ -6968,7 +7218,7 @@
         }
       ],
       "first_seen": "2026-07-30T10:13:53.907436+09:00",
-      "last_seen": "2026-07-30T10:13:53.907436+09:00"
+      "last_seen": "2026-07-31T10:29:17.784175+09:00"
     },
     "SpaceX": {
       "article_count": 1,
@@ -6985,10 +7235,15 @@
       "last_seen": "2026-07-30T10:13:53.907436+09:00"
     },
     "上院銀行委員会": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        },
         {
           "title": "米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道",
           "link": "https://www.nadanews.com/361679/",
@@ -6996,7 +7251,7 @@
         }
       ],
       "first_seen": "2026-07-30T10:14:00.637997+09:00",
-      "last_seen": "2026-07-30T10:14:00.637997+09:00"
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
     },
     "全米連邦検事補協会": {
       "article_count": 1,
@@ -7027,10 +7282,20 @@
       "last_seen": "2026-07-30T10:14:07.299708+09:00"
     },
     "ホワイトハウス": {
-      "article_count": 1,
-      "as_main_count": 0,
-      "as_related_count": 1,
+      "article_count": 3,
+      "as_main_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        },
+        {
+          "title": "米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block",
+          "link": "https://www.nadanews.com/361855/",
+          "pub_date": "2026-07-31T06:15:00+09:00"
+        },
         {
           "title": "米検察団体、クラリティ法案の変更を提案＝報道",
           "link": "https://www.nadanews.com/361676/",
@@ -7038,7 +7303,7 @@
         }
       ],
       "first_seen": "2026-07-30T10:14:07.299708+09:00",
-      "last_seen": "2026-07-30T10:14:07.299708+09:00"
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
     },
     "Bitstamp": {
       "article_count": 1,
@@ -7342,10 +7607,15 @@
       "last_seen": "2026-07-30T10:15:13.431789+09:00"
     },
     "FSB": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
         {
           "title": "ロシアFSB、テレグラム創業者ドゥロフ氏を国際手配 テロ支援容疑",
           "link": "https://coinpost.jp/?p=728472",
@@ -7353,7 +7623,7 @@
         }
       ],
       "first_seen": "2026-07-30T10:15:20.275110+09:00",
-      "last_seen": "2026-07-30T10:15:20.275110+09:00"
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
     },
     "テレグラム": {
       "article_count": 1,
@@ -7538,10 +7808,15 @@
       "last_seen": "2026-07-30T10:15:43.018985+09:00"
     },
     "LayerZero": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+          "link": "https://www.neweconomy.jp/posts/596272",
+          "pub_date": "2026-07-30T16:19:35+09:00"
+        },
         {
           "title": "2026年上半期の仮想通貨ハッキング被害約11億ドル、件数は史上最多＝Blockaidレポート",
           "link": "https://coinpost.jp/?p=728372",
@@ -7549,7 +7824,7 @@
         }
       ],
       "first_seen": "2026-07-30T10:15:43.018985+09:00",
-      "last_seen": "2026-07-30T10:15:43.018985+09:00"
+      "last_seen": "2026-07-31T10:33:34.016836+09:00"
     },
     "イオレ": {
       "article_count": 2,
@@ -8104,10 +8379,15 @@
       "last_seen": "2026-07-30T10:16:36.091013+09:00"
     },
     "GMOインターネットグループ": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        },
         {
           "title": "GMOインターネットGがアンソロピックと戦略提携、「Claude Enterprise」をグループ全体で活用へ",
           "link": "https://www.neweconomy.jp/posts/595884",
@@ -8115,7 +8395,7 @@
         }
       ],
       "first_seen": "2026-07-30T10:16:43.159541+09:00",
-      "last_seen": "2026-07-30T10:16:43.159541+09:00"
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
     },
     "Takumi byGMO": {
       "article_count": 1,
@@ -8466,6 +8746,1975 @@
       ],
       "first_seen": "2026-07-30T10:17:19.450501+09:00",
       "last_seen": "2026-07-30T10:17:19.450501+09:00"
+    },
+    "3iQ": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "デジタル資産運用会社3iQ、ブータン新都市のビットコイン運用を受託",
+          "link": "https://coinpost.jp/?p=728842",
+          "pub_date": "2026-07-31T06:10:23+09:00"
+        },
+        {
+          "title": "ブータン特区のビットコイン準備金、コインチェックG子会社が運用受託",
+          "link": "https://www.nadanews.com/361895/",
+          "pub_date": "2026-07-31T09:57:18+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:17.620528+09:00",
+      "last_seen": "2026-07-31T10:31:15.531660+09:00"
+    },
+    "ゲレプ・マインドフルネス・シティ": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ブータン特区のビットコイン準備金、コインチェックG子会社が運用受託",
+          "link": "https://www.nadanews.com/361895/",
+          "pub_date": "2026-07-31T09:57:18+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:17.620528+09:00",
+      "last_seen": "2026-07-31T10:27:17.620528+09:00"
+    },
+    "コインチェック・グループ": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ブータン特区のビットコイン準備金、コインチェックG子会社が運用受託",
+          "link": "https://www.nadanews.com/361895/",
+          "pub_date": "2026-07-31T09:57:18+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:17.620528+09:00",
+      "last_seen": "2026-07-31T10:27:17.620528+09:00"
+    },
+    "アーカム": {
+      "article_count": 2,
+      "as_main_count": 0,
+      "as_related_count": 2,
+      "recent_articles": [
+        {
+          "title": "デジタル資産運用会社3iQ、ブータン新都市のビットコイン運用を受託",
+          "link": "https://coinpost.jp/?p=728842",
+          "pub_date": "2026-07-31T06:10:23+09:00"
+        },
+        {
+          "title": "ブータン特区のビットコイン準備金、コインチェックG子会社が運用受託",
+          "link": "https://www.nadanews.com/361895/",
+          "pub_date": "2026-07-31T09:57:18+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:17.620528+09:00",
+      "last_seen": "2026-07-31T10:31:15.531660+09:00"
+    },
+    "ケネディクス": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "Progmatら4社、不動産STのステーブルコイン決済を実証",
+          "link": "https://coinpost.jp/?p=728776",
+          "pub_date": "2026-07-31T09:25:42+09:00"
+        },
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:40.436505+09:00",
+      "last_seen": "2026-07-31T10:29:54.252260+09:00"
+    },
+    "KDX STパートナーズ": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Progmatら4社、不動産STのステーブルコイン決済を実証",
+          "link": "https://coinpost.jp/?p=728776",
+          "pub_date": "2026-07-31T09:25:42+09:00"
+        },
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:40.436505+09:00",
+      "last_seen": "2026-07-31T10:29:54.252260+09:00"
+    },
+    "Progmat": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "Progmatら4社、不動産STのステーブルコイン決済を実証",
+          "link": "https://coinpost.jp/?p=728776",
+          "pub_date": "2026-07-31T09:25:42+09:00"
+        },
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:40.436505+09:00",
+      "last_seen": "2026-07-31T10:29:54.252260+09:00"
+    },
+    "Datachain": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "Progmatら4社、不動産STのステーブルコイン決済を実証",
+          "link": "https://coinpost.jp/?p=728776",
+          "pub_date": "2026-07-31T09:25:42+09:00"
+        },
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:40.436505+09:00",
+      "last_seen": "2026-07-31T10:29:54.252260+09:00"
+    },
+    "三井住友フィナンシャルグループ": {
+      "article_count": 2,
+      "as_main_count": 0,
+      "as_related_count": 2,
+      "recent_articles": [
+        {
+          "title": "Progmatら4社、不動産STのステーブルコイン決済を実証",
+          "link": "https://coinpost.jp/?p=728776",
+          "pub_date": "2026-07-31T09:25:42+09:00"
+        },
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:40.436505+09:00",
+      "last_seen": "2026-07-31T10:29:54.252260+09:00"
+    },
+    "JPYSC": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "不動産ST、「発行・販売」の先へ──ケネディクス、Progmatら、ステーブルコイン決済と担保融資を構想",
+          "link": "https://www.nadanews.com/361877/",
+          "pub_date": "2026-07-31T09:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:27:40.436505+09:00",
+      "last_seen": "2026-07-31T10:27:40.436505+09:00"
+    },
+    "シカゴ大学": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "IBMとシカゴ大学、論理量子ビット70個で優位性実証",
+          "link": "https://coinpost.jp/?p=728844",
+          "pub_date": "2026-07-31T07:05:28+09:00"
+        },
+        {
+          "title": "IBM、「信頼できる量子優位性」を実証したと発表",
+          "link": "https://www.nadanews.com/361871/",
+          "pub_date": "2026-07-31T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:28:00.302967+09:00",
+      "last_seen": "2026-07-31T10:30:56.951168+09:00"
+    },
+    "Bitcoin": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "IBM、「信頼できる量子優位性」を実証したと発表",
+          "link": "https://www.nadanews.com/361871/",
+          "pub_date": "2026-07-31T08:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:28:00.302967+09:00",
+      "last_seen": "2026-07-31T10:28:00.302967+09:00"
+    },
+    "警察友愛会": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ベッセント米財務長官、クラリティ法案の採決を要求",
+          "link": "https://www.nadanews.com/361867/",
+          "pub_date": "2026-07-31T07:30:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:28:30.598381+09:00",
+      "last_seen": "2026-07-31T10:28:30.598381+09:00"
+    },
+    "FOP": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ベッセント米財務長官、クラリティ法案の採決を要求",
+          "link": "https://www.nadanews.com/361867/",
+          "pub_date": "2026-07-31T07:30:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:28:30.598381+09:00",
+      "last_seen": "2026-07-31T10:28:30.598381+09:00"
+    },
+    "国際決済銀行": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "JPMorganやCiti参加、BIS実証でトークン化資金による国際決済",
+          "link": "https://www.nadanews.com/361866/",
+          "pub_date": "2026-07-31T07:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:28:40.417981+09:00",
+      "last_seen": "2026-07-31T10:28:40.417981+09:00"
+    },
+    "国際金融協会": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "JPMorganやCiti参加、BIS実証でトークン化資金による国際決済",
+          "link": "https://www.nadanews.com/361866/",
+          "pub_date": "2026-07-31T07:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:28:40.417981+09:00",
+      "last_seen": "2026-07-31T10:28:40.417981+09:00"
+    },
+    "Project Agorá": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "JPMorganやCiti参加、BIS実証でトークン化資金による国際決済",
+          "link": "https://www.nadanews.com/361866/",
+          "pub_date": "2026-07-31T07:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:28:40.417981+09:00",
+      "last_seen": "2026-07-31T10:28:40.417981+09:00"
+    },
+    "World Liberty Financial": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block",
+          "link": "https://www.nadanews.com/361855/",
+          "pub_date": "2026-07-31T06:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:28:54.632885+09:00",
+      "last_seen": "2026-07-31T10:28:54.632885+09:00"
+    },
+    "米司法省": {
+      "article_count": 2,
+      "as_main_count": 0,
+      "as_related_count": 2,
+      "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        },
+        {
+          "title": "米上院議員、クラリティ法案巡る新たな倫理規定案をホワイトハウスに提出＝The Block",
+          "link": "https://www.nadanews.com/361855/",
+          "pub_date": "2026-07-31T06:15:00+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:28:54.632885+09:00",
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
+    },
+    "Bitget": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
+          "link": "https://www.nadanews.com/361856/",
+          "pub_date": "2026-07-31T06:06:19+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:06.595905+09:00",
+      "last_seen": "2026-07-31T10:29:06.595905+09:00"
+    },
+    "NASDAQ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "暗号資産取引所は「世界の金融取引所」へ──Open Interestが示す資本集中とTradFi市場への進出【エックスウィン】",
+          "link": "https://www.nadanews.com/361856/",
+          "pub_date": "2026-07-31T06:06:19+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:06.595905+09:00",
+      "last_seen": "2026-07-31T10:29:06.595905+09:00"
+    },
+    "クオンタムソリューションズ": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "クオンタムソリューションズ、イーサリアム1000ETHを売却 累計売却上限数量増加も発表",
+          "link": "https://coinpost.jp/?p=728856",
+          "pub_date": "2026-07-31T07:30:49+09:00"
+        },
+        {
+          "title": "クオンタム、1000ETHを約3.1億円で売却──累計売却上限を4375ETHに拡大",
+          "link": "https://www.nadanews.com/361792/",
+          "pub_date": "2026-07-30T21:16:56+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:17.784175+09:00",
+      "last_seen": "2026-07-31T10:30:34.573178+09:00"
+    },
+    "GPT Pals Studio Limited": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "クオンタム、1000ETHを約3.1億円で売却──累計売却上限を4375ETHに拡大",
+          "link": "https://www.nadanews.com/361792/",
+          "pub_date": "2026-07-30T21:16:56+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:17.784175+09:00",
+      "last_seen": "2026-07-31T10:29:17.784175+09:00"
+    },
+    "コインカイト": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "コインカイト、Mk3のシード生成に脆弱性 資金移行を呼びかけ",
+          "link": "https://coinpost.jp/?p=728920",
+          "pub_date": "2026-07-31T10:16:55+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:27.163480+09:00",
+      "last_seen": "2026-07-31T10:29:27.163480+09:00"
+    },
+    "COLDCARD": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "コインカイト、Mk3のシード生成に脆弱性 資金移行を呼びかけ",
+          "link": "https://coinpost.jp/?p=728920",
+          "pub_date": "2026-07-31T10:16:55+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:27.163480+09:00",
+      "last_seen": "2026-07-31T10:29:27.163480+09:00"
+    },
+    "Animoca Brands": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "Perplexity AI": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "TD Ameritrade": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "Shinlabs": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "Solana Foundation": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "Avalanche Foundation": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "Sui Foundation": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "MakerDAO": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "Hashed": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "Hugging Face": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "Mistral AI": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "三井住友銀行": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "日本製鉄": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026",
+          "link": "https://coinpost.jp/?p=728892",
+          "pub_date": "2026-07-31T09:57:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:36.547862+09:00",
+      "last_seen": "2026-07-31T10:29:36.547862+09:00"
+    },
+    "クリプトクアント": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ビットコイン・イーサリアム、買いも売りも決め手欠く展開＝クリプトクアント分析",
+          "link": "https://coinpost.jp/?p=728872",
+          "pub_date": "2026-07-31T09:45:26+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:29:44.892887+09:00",
+      "last_seen": "2026-07-31T10:29:44.892887+09:00"
+    },
+    "反汚職局": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "米上院議員が汚職阻止法案提出、トランプ大統領の仮想通貨収益に矛先",
+          "link": "https://coinpost.jp/?p=728846",
+          "pub_date": "2026-07-31T08:40:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:30:06.968478+09:00",
+      "last_seen": "2026-07-31T10:30:06.968478+09:00"
+    },
+    "連邦選挙委員会": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米上院議員が汚職阻止法案提出、トランプ大統領の仮想通貨収益に矛先",
+          "link": "https://coinpost.jp/?p=728846",
+          "pub_date": "2026-07-31T08:40:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:30:06.968478+09:00",
+      "last_seen": "2026-07-31T10:30:06.968478+09:00"
+    },
+    "政府倫理局": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米上院議員が汚職阻止法案提出、トランプ大統領の仮想通貨収益に矛先",
+          "link": "https://coinpost.jp/?p=728846",
+          "pub_date": "2026-07-31T08:40:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:30:06.968478+09:00",
+      "last_seen": "2026-07-31T10:30:06.968478+09:00"
+    },
+    "特別検察官室": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米上院議員が汚職阻止法案提出、トランプ大統領の仮想通貨収益に矛先",
+          "link": "https://coinpost.jp/?p=728846",
+          "pub_date": "2026-07-31T08:40:32+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:30:06.968478+09:00",
+      "last_seen": "2026-07-31T10:30:06.968478+09:00"
+    },
+    "米下院": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "JPモルガン、クラリティー法案の停滞は仮想通貨市場に逆風と分析",
+          "link": "https://coinpost.jp/?p=728845",
+          "pub_date": "2026-07-31T08:00:30+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:30:27.857207+09:00",
+      "last_seen": "2026-07-31T10:30:27.857207+09:00"
+    },
+    "ゲレフ・マインドフルネス・シティ": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "デジタル資産運用会社3iQ、ブータン新都市のビットコイン運用を受託",
+          "link": "https://coinpost.jp/?p=728842",
+          "pub_date": "2026-07-31T06:10:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:15.531660+09:00",
+      "last_seen": "2026-07-31T10:31:15.531660+09:00"
+    },
+    "ザ・ブロック": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:22.626211+09:00",
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
+    },
+    "コインデスク": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:22.626211+09:00",
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
+    },
+    "ワールド・リバティー・ファイナンシャル": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案 休会まで7日",
+          "link": "https://coinpost.jp/?p=728823",
+          "pub_date": "2026-07-31T05:42:39+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:22.626211+09:00",
+      "last_seen": "2026-07-31T10:31:22.626211+09:00"
+    },
+    "韓国政府": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "韓国、仮想通貨課税を2027年に実施へ",
+          "link": "https://coinpost.jp/?p=728809",
+          "pub_date": "2026-07-31T05:00:47+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:32.950181+09:00",
+      "last_seen": "2026-07-31T10:31:32.950181+09:00"
+    },
+    "財政経済部": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "韓国、仮想通貨課税を2027年に実施へ",
+          "link": "https://coinpost.jp/?p=728809",
+          "pub_date": "2026-07-31T05:00:47+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:32.950181+09:00",
+      "last_seen": "2026-07-31T10:31:32.950181+09:00"
+    },
+    "国会財政経済企画委員会": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "韓国、仮想通貨課税を2027年に実施へ",
+          "link": "https://coinpost.jp/?p=728809",
+          "pub_date": "2026-07-31T05:00:47+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:32.950181+09:00",
+      "last_seen": "2026-07-31T10:31:32.950181+09:00"
+    },
+    "国民の力": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "韓国、仮想通貨課税を2027年に実施へ",
+          "link": "https://coinpost.jp/?p=728809",
+          "pub_date": "2026-07-31T05:00:47+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:32.950181+09:00",
+      "last_seen": "2026-07-31T10:31:32.950181+09:00"
+    },
+    "ANAPホールディングス": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ANAP、「BITCOIN JAPAN 2026」を11月に開催へ",
+          "link": "https://coinpost.jp/?p=728743",
+          "pub_date": "2026-07-30T18:57:10+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:39.920672+09:00",
+      "last_seen": "2026-07-31T10:31:39.920672+09:00"
+    },
+    "Diamond Hands": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ANAP、「BITCOIN JAPAN 2026」を11月に開催へ",
+          "link": "https://coinpost.jp/?p=728743",
+          "pub_date": "2026-07-30T18:57:10+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:39.920672+09:00",
+      "last_seen": "2026-07-31T10:31:39.920672+09:00"
+    },
+    "SBIイベントクリエイト": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ANAP、「BITCOIN JAPAN 2026」を11月に開催へ",
+          "link": "https://coinpost.jp/?p=728743",
+          "pub_date": "2026-07-30T18:57:10+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:39.920672+09:00",
+      "last_seen": "2026-07-31T10:31:39.920672+09:00"
+    },
+    "CryptoQuant.com": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ビットコイン短期保有者の実現時価総額が62%減＝アナリスト分析",
+          "link": "https://coinpost.jp/?p=728755",
+          "pub_date": "2026-07-30T17:37:47+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:46.644177+09:00",
+      "last_seen": "2026-07-31T10:31:46.644177+09:00"
+    },
+    "Active Defense Innovation Fund": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:54.963227+09:00",
+      "last_seen": "2026-07-31T10:31:54.963227+09:00"
+    },
+    "vTaiwan": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:54.963227+09:00",
+      "last_seen": "2026-07-31T10:31:54.963227+09:00"
+    },
+    "Uber": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:54.963227+09:00",
+      "last_seen": "2026-07-31T10:31:54.963227+09:00"
+    },
+    "GLOCOM": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:54.963227+09:00",
+      "last_seen": "2026-07-31T10:31:54.963227+09:00"
+    },
+    "Sakana AI": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:54.963227+09:00",
+      "last_seen": "2026-07-31T10:31:54.963227+09:00"
+    },
+    "g0v": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
+          "link": "https://coinpost.jp/?p=728721",
+          "pub_date": "2026-07-30T16:53:42+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:31:54.963227+09:00",
+      "last_seen": "2026-07-31T10:31:54.963227+09:00"
+    },
+    "Telegram": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ",
+          "link": "https://www.neweconomy.jp/posts/596343",
+          "pub_date": "2026-07-30T17:36:04+09:00"
+        },
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:37.542496+09:00"
+    },
+    "セロ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "ムーンペイ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "SWIAT": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        },
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "1インチ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "エミレーツ航空": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "ゲートUS": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "ビットゴー": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "ビットセーフ": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+          "link": "https://www.neweconomy.jp/posts/596323",
+          "pub_date": "2026-07-30T17:01:58+09:00"
+        },
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:33:01.662248+09:00"
+    },
+    "カントン": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "FATF": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "アンソロピック": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "富士通": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【7/30話題】日立がデジタルアセット取引のAML実証実施、テレグラムのドゥロフがテロ支援容疑で訴追、アバランチがHeliconをテストネットで有効化など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/596562",
+          "pub_date": "2026-07-30T21:51:44+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:14.978902+09:00",
+      "last_seen": "2026-07-31T10:32:14.978902+09:00"
+    },
+    "アブダビグローバルマーケット": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "バイナンス、金・銀連動オプションを提供開始",
+          "link": "https://www.neweconomy.jp/posts/596349",
+          "pub_date": "2026-07-30T17:42:56+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:25.181225+09:00",
+      "last_seen": "2026-07-31T10:32:25.181225+09:00"
+    },
+    "金融サービス規制庁": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "バイナンス、金・銀連動オプションを提供開始",
+          "link": "https://www.neweconomy.jp/posts/596349",
+          "pub_date": "2026-07-30T17:42:56+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:25.181225+09:00",
+      "last_seen": "2026-07-31T10:32:25.181225+09:00"
+    },
+    "ネスト・エクスチェンジ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "バイナンス、金・銀連動オプションを提供開始",
+          "link": "https://www.neweconomy.jp/posts/596349",
+          "pub_date": "2026-07-30T17:42:56+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:25.181225+09:00",
+      "last_seen": "2026-07-31T10:32:25.181225+09:00"
+    },
+    "ネスト・クリアリング・アンド・カストディ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "バイナンス、金・銀連動オプションを提供開始",
+          "link": "https://www.neweconomy.jp/posts/596349",
+          "pub_date": "2026-07-30T17:42:56+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:25.181225+09:00",
+      "last_seen": "2026-07-31T10:32:25.181225+09:00"
+    },
+    "ロシア連邦保安庁": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ",
+          "link": "https://www.neweconomy.jp/posts/596343",
+          "pub_date": "2026-07-30T17:36:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:37.542496+09:00",
+      "last_seen": "2026-07-31T10:32:37.542496+09:00"
+    },
+    "ウクライナ情報機関": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ",
+          "link": "https://www.neweconomy.jp/posts/596343",
+          "pub_date": "2026-07-30T17:36:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:37.542496+09:00",
+      "last_seen": "2026-07-31T10:32:37.542496+09:00"
+    },
+    "インターポール": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ",
+          "link": "https://www.neweconomy.jp/posts/596343",
+          "pub_date": "2026-07-30T17:36:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:37.542496+09:00",
+      "last_seen": "2026-07-31T10:32:37.542496+09:00"
+    },
+    "ダイヴィンチク": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ",
+          "link": "https://www.neweconomy.jp/posts/596343",
+          "pub_date": "2026-07-30T17:36:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:37.542496+09:00",
+      "last_seen": "2026-07-31T10:32:37.542496+09:00"
+    },
+    "ロシア連邦金融監視局": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ",
+          "link": "https://www.neweconomy.jp/posts/596343",
+          "pub_date": "2026-07-30T17:36:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:37.542496+09:00",
+      "last_seen": "2026-07-31T10:32:37.542496+09:00"
+    },
+    "ロシア連邦通信監督庁": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ",
+          "link": "https://www.neweconomy.jp/posts/596343",
+          "pub_date": "2026-07-30T17:36:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:37.542496+09:00",
+      "last_seen": "2026-07-31T10:32:37.542496+09:00"
+    },
+    "ロシア司法・法律情報通信": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ロシアFSB、Telegram創業者ドゥロフをテロ支援容疑で訴追、国際指名手配へ",
+          "link": "https://www.neweconomy.jp/posts/596343",
+          "pub_date": "2026-07-30T17:36:04+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:37.542496+09:00",
+      "last_seen": "2026-07-31T10:32:37.542496+09:00"
+    },
+    "Silviculture Society": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:47.391546+09:00",
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
+    },
+    "SEAL 911": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:47.391546+09:00",
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
+    },
+    "Ethlabs": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:47.391546+09:00",
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
+    },
+    "Ethereum Institutional": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:47.391546+09:00",
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
+    },
+    "EthSystems": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:47.391546+09:00",
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
+    },
+    "SharpLink": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:47.391546+09:00",
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
+    },
+    "ConsenSys": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "イーサリアム財団、セキュリティ研究者のパスカル・カヴェルサッチョを理事に任命",
+          "link": "https://www.neweconomy.jp/posts/596335",
+          "pub_date": "2026-07-30T17:26:48+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:32:47.391546+09:00",
+      "last_seen": "2026-07-31T10:32:47.391546+09:00"
+    },
+    "カントンネットワーク": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+          "link": "https://www.neweconomy.jp/posts/596323",
+          "pub_date": "2026-07-30T17:01:58+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:01.662248+09:00",
+      "last_seen": "2026-07-31T10:33:01.662248+09:00"
+    },
+    "カントン財団": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+          "link": "https://www.neweconomy.jp/posts/596323",
+          "pub_date": "2026-07-30T17:01:58+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:01.662248+09:00",
+      "last_seen": "2026-07-31T10:33:01.662248+09:00"
+    },
+    "クオントスタンプ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+          "link": "https://www.neweconomy.jp/posts/596323",
+          "pub_date": "2026-07-30T17:01:58+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:01.662248+09:00",
+      "last_seen": "2026-07-31T10:33:01.662248+09:00"
+    },
+    "パラジウム・ラボ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+          "link": "https://www.neweconomy.jp/posts/596323",
+          "pub_date": "2026-07-30T17:01:58+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:01.662248+09:00",
+      "last_seen": "2026-07-31T10:33:01.662248+09:00"
+    },
+    "ネザーマインド": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+          "link": "https://www.neweconomy.jp/posts/596323",
+          "pub_date": "2026-07-30T17:01:58+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:01.662248+09:00",
+      "last_seen": "2026-07-31T10:33:01.662248+09:00"
+    },
+    "DSRV": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+          "link": "https://www.neweconomy.jp/posts/596323",
+          "pub_date": "2026-07-30T17:01:58+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:01.662248+09:00",
+      "last_seen": "2026-07-31T10:33:01.662248+09:00"
+    },
+    "フィノア・コンセンサス・サービス": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
+          "link": "https://www.neweconomy.jp/posts/596323",
+          "pub_date": "2026-07-30T17:01:58+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:01.662248+09:00",
+      "last_seen": "2026-07-31T10:33:01.662248+09:00"
+    },
+    "Celo Core": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:13.988356+09:00",
+      "last_seen": "2026-07-31T10:33:13.988356+09:00"
+    },
+    "Valora": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:13.988356+09:00",
+      "last_seen": "2026-07-31T10:33:13.988356+09:00"
+    },
+    "Opera": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:13.988356+09:00",
+      "last_seen": "2026-07-31T10:33:13.988356+09:00"
+    },
+    "Morpho": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:13.988356+09:00",
+      "last_seen": "2026-07-31T10:33:13.988356+09:00"
+    },
+    "Squid": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:13.988356+09:00",
+      "last_seen": "2026-07-31T10:33:13.988356+09:00"
+    },
+    "Anchorage Digital Bank": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:13.988356+09:00",
+      "last_seen": "2026-07-31T10:33:13.988356+09:00"
+    },
+    "OP Labs": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
+          "link": "https://www.neweconomy.jp/posts/596314",
+          "pub_date": "2026-07-30T16:50:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:13.988356+09:00",
+      "last_seen": "2026-07-31T10:33:13.988356+09:00"
+    },
+    "Project Glasswing": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "日立、アンソロピックのAIで重要インフラのセキュリティ検証を加速",
+          "link": "https://www.neweconomy.jp/posts/596308",
+          "pub_date": "2026-07-30T16:42:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:25.960543+09:00",
+      "last_seen": "2026-07-31T10:33:25.960543+09:00"
+    },
+    "Cyber CoE": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "日立、アンソロピックのAIで重要インフラのセキュリティ検証を加速",
+          "link": "https://www.neweconomy.jp/posts/596308",
+          "pub_date": "2026-07-30T16:42:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:25.960543+09:00",
+      "last_seen": "2026-07-31T10:33:25.960543+09:00"
+    },
+    "HMAX by Hitachi": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "日立、アンソロピックのAIで重要インフラのセキュリティ検証を加速",
+          "link": "https://www.neweconomy.jp/posts/596308",
+          "pub_date": "2026-07-30T16:42:50+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:25.960543+09:00",
+      "last_seen": "2026-07-31T10:33:25.960543+09:00"
+    },
+    "金融活動作業部会": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+          "link": "https://www.neweconomy.jp/posts/596272",
+          "pub_date": "2026-07-30T16:19:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:34.016836+09:00",
+      "last_seen": "2026-07-31T10:33:34.016836+09:00"
+    },
+    "ドリフトプロトコル": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+          "link": "https://www.neweconomy.jp/posts/596272",
+          "pub_date": "2026-07-30T16:19:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:34.016836+09:00",
+      "last_seen": "2026-07-31T10:33:34.016836+09:00"
+    },
+    "ケルプDAO": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+          "link": "https://www.neweconomy.jp/posts/596272",
+          "pub_date": "2026-07-30T16:19:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:34.016836+09:00",
+      "last_seen": "2026-07-31T10:33:34.016836+09:00"
+    },
+    "THORChain": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+          "link": "https://www.neweconomy.jp/posts/596272",
+          "pub_date": "2026-07-30T16:19:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:34.016836+09:00",
+      "last_seen": "2026-07-31T10:33:34.016836+09:00"
+    },
+    "SafeMoon": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+          "link": "https://www.neweconomy.jp/posts/596272",
+          "pub_date": "2026-07-30T16:19:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:34.016836+09:00",
+      "last_seen": "2026-07-31T10:33:34.016836+09:00"
+    },
+    "Forsage": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
+          "link": "https://www.neweconomy.jp/posts/596272",
+          "pub_date": "2026-07-30T16:19:35+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:34.016836+09:00",
+      "last_seen": "2026-07-31T10:33:34.016836+09:00"
+    },
+    "RL1": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "ドイツ連邦金融監督庁": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "ABNアムロ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "セカバンク": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "チャータード・インベストメント": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "クレディ・ミュチュエル・アリアンス・フェデラル": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "デカバンク": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "DZバンク": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "LBBW": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "ナティクシスCIB": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "SCベンチャーズ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "セチュリオン": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "KfW": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "L-Bank": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "ナットウエスト": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
+          "link": "https://www.neweconomy.jp/posts/596266",
+          "pub_date": "2026-07-30T16:09:23+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:44.136239+09:00",
+      "last_seen": "2026-07-31T10:33:44.136239+09:00"
+    },
+    "MoonPay": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:53.723657+09:00",
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
+    },
+    "Aave": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:53.723657+09:00",
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
+    },
+    "Hyperliquid": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:53.723657+09:00",
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
+    },
+    "Tempo": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:53.723657+09:00",
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
+    },
+    "Polygon": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
+          "link": "https://www.neweconomy.jp/posts/596247",
+          "pub_date": "2026-07-30T15:52:45+09:00"
+        }
+      ],
+      "first_seen": "2026-07-31T10:33:53.723657+09:00",
+      "last_seen": "2026-07-31T10:33:53.723657+09:00"
     }
   }
 }
