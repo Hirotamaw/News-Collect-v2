@@ -1,6 +1,224 @@
 {
   "articles": [
     {
+      "title": "Robinhoodは、なぜブロックチェーンまで作るのか 【サンフランシスコ レポート】",
+      "link": "https://www.nadanews.com/363885/",
+      "pub_date": "2026-08-16T09:00:00+09:00",
+      "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。私が住むサンフランシスコでは、金融とテクノロジーの境界が急速になくなっています。 これま ... The post Robinhoodは、なぜブロックチェーンまで作るのか 【サンフランシスコ レポート】 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "米サンフランシスコでは金融とテクノロジーの融合が加速しており、暗号資産と伝統金融の境界が急速に薄れつつあります。その象徴として、Robinhoodが欧州でトークン化資産取引を開始したほか、Arbitrum基盤の独自L2「Robinhood Chain」を展開し、自ら金融取引の基幹インフラとなる動きを見せています。また、JPMorganやCitigroup、BNY Mellon、DTCC、NASDAQなども預金や証券のトークン化、オンチェーン決済基盤の構築を推進しています。規制環境の整備が進む中、米国では金融機関がブロックチェーンを自ら活用する「伝統金融のオンチェーン化」が本格化しています。今後は「暗号資産対銀行」という対立ではなく、株式やETF、RWAなどを含めた次世代の金融インフラを誰が握るのかという主導権争いが重要になると分析されています。",
+      "summary_error": false,
+      "category": "分析・レポート",
+      "all_entities": [
+        "エックスウィン",
+        "Robinhood",
+        "Arbitrum",
+        "JPMorgan",
+        "Citigroup",
+        "BNY Mellon",
+        "DTCC",
+        "NASDAQ",
+        "SEC",
+        "CFTC",
+        "OCC",
+        "FRB",
+        "FDIC",
+        "Ethereum"
+      ],
+      "main_entities": [
+        "エックスウィン"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-16T09:32:38.081884+09:00"
+    },
+    {
+      "title": "【速報】メタプラネット、ビットコイン評価損1842億円を計上──中間決算／「出金できない」──年利最大400％をうたうBitradeXめぐり不安広がる【日曜日に読みたい厳選10本】",
+      "link": "https://www.nadanews.com/364093/",
+      "pub_date": "2026-08-16T08:00:00+09:00",
+      "description": "メタプラネットが8月13日に発表した2026年12月期中間決算（2026年1月1日～6月30日）では、営業外損益に1842億9700万円のビットコイン評価損を計 ... The post 【速報】メタプラネット、ビットコイン評価損1842億円を計上──中間決算／「出金できない」──年利最大400％をうたうBitradeXめぐり不安広がる【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "メタプラネットは2026年12月期中間決算において、営業外損益に1842億9700万円のビットコイン評価損を計上し、経常損益および親会社株主に帰属する中間純利益が大幅な赤字へ転落した。また、AIを活用した暗号資産運用サービスBitradeXでは出金不能を訴える利用者の声が相次ぎ不安が広がっている。このほか、bitFlyerによるビットコインのハードフォーク計画への対応発表、米上院でのクラリティ法案の審議手続きの進展、熊本地震被災地支援サイトでのJPYC寄付募集などが報じられた。さらに、米国債不足に伴うステーブルコイン需要の増加に関する研究、ビットコインと金の相関回復、JPモルガンやゴールドマン・サックスなど約40社によるトークン化証券の実取引成功、デジタルガレージによるステーブルコイン決済基盤の商用展開開始といった注目のトピックがまとめられている。",
+      "summary_error": false,
+      "category": "ビジネス",
+      "all_entities": [
+        "Metaplanet",
+        "BitradeX",
+        "bitFlyer",
+        "JPYC",
+        "NBER",
+        "エックスウィン",
+        "JPMorgan Chase",
+        "Goldman Sachs",
+        "Bloomberg",
+        "デジタルガレージ",
+        "JCB"
+      ],
+      "main_entities": [
+        "Metaplanet",
+        "BitradeX"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-16T09:32:44.337038+09:00"
+    },
+    {
+      "title": "セルフカストディウォレットは「保管」から「金融OS」へ──世界で進む次世代ウォレット競争【エックスウィン】",
+      "link": "https://www.nadanews.com/364197/",
+      "pub_date": "2026-08-16T06:00:00+09:00",
+      "description": "毎週土曜日の早朝に開催している「JPYC × エックスウィン 早朝スペース」に、Bitget Walletがゲストとして登壇した。今回のスペースでは、セルフカス ... The post セルフカストディウォレットは「保管」から「金融OS」へ──世界で進む次世代ウォレット競争【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "暗号資産のセルフカストディウォレットは、単なる資産の「保管」ツールから、取引、DeFi、送金、決済などを網羅する「金融OS」へと急速に進化しています。世界市場ではMetaMask、Trust Wallet、Phantom、Bitget Wallet、OKX Walletなどが、マルチチェーン対応やアカウント抽象化、ソーシャルログイン等によるUX改善を進め、初心者でも使いやすい統合型インターフェースを競い合っています。さらにステーブルコインの普及に伴い、現実世界の決済や金融インフラとの融合が加速しています。日本国内でも、一般向け決済を見据えるHashPort Wallet、企業の内部統制に特化したJPYC Gateway、マイナンバーカードと連携するマイナウォレットなど、独自の社会実装が進んでおり、保管を超えた金融サービスの入口としての役割が拡大しています。",
+      "summary_error": false,
+      "category": "分析・レポート",
+      "all_entities": [
+        "JPYC",
+        "エックスウィン",
+        "Bitget Wallet",
+        "Ethereum",
+        "MetaMask",
+        "Trust Wallet",
+        "Phantom",
+        "OKX Wallet",
+        "Safe",
+        "Ledger",
+        "Trezor",
+        "Solana",
+        "Bitcoin",
+        "Coinbase",
+        "Base",
+        "Google",
+        "Apple",
+        "HashPort",
+        "HashPort Wallet",
+        "JPYC Gateway",
+        "マイナウォレット"
+      ],
+      "main_entities": [
+        "エックスウィン"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-16T09:32:50.288493+09:00"
+    },
+    {
+      "title": "XRP下落のエバーノース、ナスダック上場に向け株式算定条件を変更",
+      "link": "https://www.nadanews.com/364154/",
+      "pub_date": "2026-08-15T17:32:38+09:00",
+      "description": "エックス・アール・ピー（XRP）を保有・運用するEvernorth Holdings（エバーノース）は8月13日、米Nasdaq（ナスダック）上場に向けた企業結 ... The post XRP下落のエバーノース、ナスダック上場に向け株式算定条件を変更 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "暗号資産XRPを財務資産として保有・運用するデジタル資産トレジャリー企業のEvernorth Holdings（エバーノース）は8月13日、米ナスダック市場への上場に向けた企業結合において、私募に参加する投資家へ発行する株式数の算定方法を変更したと発表しました。従来は契約時に定めたXRP価格の2.36ドルを基準に発行株式数を算出する方式をとっていましたが、今後は取引完了時点におけるXRPの出来高加重平均価格（VWAP）を反映する方式へと見直されます。エバーノースは特別買収目的会社（SPAC）であるArmada Acquisition Corp. II（アルマダ・アクイジション・コープII）との企業結合を通じた上場を目指しており、今回の株式算定条件の変更は市場環境やXRPの価格変動に対応するためのものとみられます。",
+      "summary_error": false,
+      "category": "ビジネス",
+      "all_entities": [
+        "Evernorth Holdings",
+        "Nasdaq",
+        "Armada Acquisition Corp. II"
+      ],
+      "main_entities": [
+        "Evernorth Holdings"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-16T09:32:55.792207+09:00"
+    },
+    {
+      "title": "JPモルガン、BTC・ETH ETFの保有拡大──XRP関連商品への投資も再開",
+      "link": "https://www.nadanews.com/364145/",
+      "pub_date": "2026-08-15T14:04:47+09:00",
+      "description": "・JPモルガンは第2四半期、BlackRock（ブラックロック）のビットコイン（BTC）上場投資信託（ETF）保有株数を約25％増やし、イーサリアム（ETH）E ... The post JPモルガン、BTC・ETH ETFの保有拡大──XRP関連商品への投資も再開 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "米SECへの提出書類「Form 13F」により、JPモルガンが第2四半期にブラックロックの現物ビットコインETF「IBIT」の保有株数を約25％増やし、現物イーサリアムETF「ETHA」のポジションを4倍超に拡大したことが明らかになった。また、グレースケールやビットワイズが提供するXRP関連商品のポジションを新たに報告した一方、マイニング株の保有は縮小している。13Fはロングポジションのみを示すため顧客取引などを反映している可能性もあるが、暗号資産へのエクスポージャー拡大を示している。さらに、イスラエル最大手銀行のバンク・レウミがギャラクシー・デジタルと提携し、2027年初頭から顧客向けにビットコイン、イーサリアム、ソラナの売買・保有サービスを提供すると発表した。伝統的金融機関と暗号資産市場の統合が進展している。",
+      "summary_error": false,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "JPMorgan",
+        "BlackRock",
+        "グレースケール",
+        "ビットワイズ",
+        "バンク・レウミ",
+        "ギャラクシー・デジタル",
+        "米国証券取引委員会",
+        "PEPPER"
+      ],
+      "main_entities": [
+        "JPMorgan"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-16T09:33:01.791992+09:00"
+    },
+    {
+      "title": "SharpLink、Lidoを通じて2億ドル相当のETHをステーキングへ──ETHオプションは週末の節目として1,880ドルを示唆【価格分析】",
+      "link": "https://www.nadanews.com/364139/",
+      "pub_date": "2026-08-15T13:08:58+09:00",
+      "description": "・SharpLink（シャープリンク）は、Lido（リド）を通じて2億ドル相当のイーサリアム（ETH）を運用し、wstETHを受け取る計画だ。カストディはAnc ... The post SharpLink、Lidoを通じて2億ドル相当のETHをステーキングへ──ETHオプションは週末の節目として1,880ドルを示唆【価格分析】 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "上場企業として世界2位のETH保有量を誇るSharpLinkは、Lidoを通じて2億ドル相当のETHをステーキングし、wstETHとして運用する計画を発表した。カストディはAnchorage Digitalが担い、保有するETHトレジャリーの約12％からリキッドステーキングによる利回り獲得を目指す。一方、米国の現物ETH ETFではCPI発表を挟んで資金フローがまちまちとなり、最大保有企業のBitmine Immersion Technologiesも買い増しペースを減速させている。ETH価格は1,880ドル付近のレンジ内で推移しており、満期を迎えるオプション市場ではプットの建玉が厚く、マックスペイン価格の1,880ドルが週末の節目として意識されている。",
+      "summary_error": false,
+      "category": "マーケット",
+      "all_entities": [
+        "SharpLink",
+        "Lido",
+        "Anchorage Digital",
+        "Bitmine Immersion Technologies",
+        "Farside Investors"
+      ],
+      "main_entities": [
+        "SharpLink",
+        "Lido"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-16T09:33:07.828039+09:00"
+    },
+    {
+      "title": "メタプラネット、MSCI世界株指数から除外の可能性",
+      "link": "https://www.nadanews.com/364118/",
+      "pub_date": "2026-08-15T12:22:28+09:00",
+      "description": "世界的な株価指数を算出するMSCIは8月、「非事業会社」を主要な株価指数の対象外とする新たな基準案を公表した。 2026年5月時点のデータを基に世界株指数「MS ... The post メタプラネット、MSCI世界株指数から除外の可能性 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "株価指数大手のMSCIは、本業よりも資産保有や投資の性格が強い「非事業会社」を主要株価指数の対象外とする新たな基準案を公表しました。2026年5月時点のデータを基に世界株指数「MSCI ACWI IMI」へ新基準を適用した試算によると、ビットコインを大量保有するメタプラネットやStrategy、英Yellow Cakeの3社が除外対象となりました。現時点で除外が確定したわけではありませんが、MSCIの指数は世界中の機関投資家やETFの運用指標として広く採用されているため、実際に除外された場合は指数連動ファンドなどによる株式売却が発生し、株価の下押し要因となる懸念があります。MSCIは過去にデジタル資産トレジャリー企業を除外する案を見送った経緯がありますが、今回は非事業会社全体を対象としたより広範な見直しの一環として検討を進めています。",
+      "summary_error": false,
+      "category": "マーケット",
+      "all_entities": [
+        "MSCI",
+        "Strategy",
+        "Metaplanet",
+        "Yellow Cake"
+      ],
+      "main_entities": [
+        "Metaplanet",
+        "MSCI"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-16T09:33:14.090830+09:00"
+    },
+    {
+      "title": "トランプ家の暗号資産会社、米国の銀行免許取得を規制当局が承認",
+      "link": "https://www.nadanews.com/364123/",
+      "pub_date": "2026-08-15T11:24:49+09:00",
+      "description": "米通貨監督庁（OCC）は8月14日、トランプ米大統領の家族が関与する暗号資産（仮想通貨）事業World Liberty Financial（ワールド・リバティ・ ... The post トランプ家の暗号資産会社、米国の銀行免許取得を規制当局が承認 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "米通貨監督庁（OCC）は8月14日、トランプ米大統領の家族が関与する暗号資産プロジェクトWorld Liberty Financialによる信託銀行「World Liberty Trust Company」の設立を予備的・条件付きで承認した。最終承認が得られれば、現在はBitGoに委ねられている米ドル建てステーブルコイン「USD1」の発行や準備資産の管理、機関投資家向けカストディ業務を自社グループ内で一体的に運営可能となる。一般的な預金や融資は行わず、デジタル資産とステーブルコイン管理に特化した信託銀行となる見込みだ。営業開始には最低2000万ドルのTier1資本維持や開業前審査のクリアが必要である。審査過程ではトランプ家の関与による利益相反や規制上の優遇が懸念されたが、OCCはキャリア職員が通常の手続きに沿って審査したと説明している。",
+      "summary_error": false,
+      "category": "規制・法律",
+      "all_entities": [
+        "米通貨監督庁",
+        "World Liberty Financial",
+        "BitGo",
+        "World Liberty Trust Company"
+      ],
+      "main_entities": [
+        "World Liberty Financial",
+        "米通貨監督庁"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-16T09:33:19.918825+09:00"
+    },
+    {
       "title": "好材料でも上がれないビットコイン── 問われる「現物需要」の持続力【BitTrade Market Weekly】",
       "link": "https://www.nadanews.com/364053/",
       "pub_date": "2026-08-15T09:00:00+09:00",
@@ -13625,8 +13843,8 @@
       "fetched_at": "2026-07-24T16:16:29.328335+09:00"
     }
   ],
-  "last_updated": "2026-08-15T09:33:25.311789+09:00",
-  "total_count": 554,
+  "last_updated": "2026-08-16T09:33:23.919571+09:00",
+  "total_count": 562,
   "sources": [
     "NADA NEWS",
     "CoinPost",
