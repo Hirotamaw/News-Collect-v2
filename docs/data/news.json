@@ -1,6 +1,412 @@
 {
   "articles": [
     {
+      "title": "週刊仮想通貨ニュース（8/21）｜相場上昇・米政府のBTC購入検討・米SECの新規則提案のまとめ",
+      "link": "https://coinpost.jp/?p=732315",
+      "pub_date": "2026-08-23T09:25:32+09:00",
+      "description": "今週は、仮想通貨相場の上昇、米政府によるビットコイン購入検討、米証券取引委員会（SEC）による仮想通貨資金調達の新規則の提案に関する記事が関心を集めた。",
+      "summary": "8月15日から8月21日までの暗号資産市場では、主要銘柄の大幅な相場上昇に加え、米政府によるビットコイン購入検討や米証券取引委員会（SEC）による資金調達の新規則提案といった動向が関心を集めました。週間騰落率では、ビットコインが約16.2%上昇して74,839ドルを記録したほか、イーサリアムが約24.1%上昇、XRPが約25.4%上昇、ソラナが約15.8%上昇と全面高の展開を見せました。また、ブラックロックのデジタル資産調査チームによるビットコインの分散効果に関する分析リポートの発表や、ギャラクシー・リサーチによる15年間休眠していた8.54BTCの移動報告、アナリストによる短期保有者の年初来最大規模となる利確行動の指摘など、複数の調査レポートや市場データが注目を集める一週間となりました。",
+      "summary_error": false,
+      "category": "マーケット",
+      "all_entities": [
+        "米証券取引委員会",
+        "ビットコイン",
+        "イーサリアム",
+        "XRP",
+        "Solana",
+        "BlackRock",
+        "ギャラクシー・リサーチ"
+      ],
+      "main_entities": [
+        "米証券取引委員会",
+        "ビットコイン"
+      ],
+      "manually_edited": false,
+      "source_name": "CoinPost",
+      "source_color": "#1d4ed8",
+      "fetched_at": "2026-08-23T09:34:27.872505+09:00"
+    },
+    {
+      "title": "なぜアメリカは暗号資産を「禁止」ではなく「挑戦できるルール」へ変えようとしているのか【サンフランシスコ レポート】",
+      "link": "https://www.nadanews.com/365045/",
+      "pub_date": "2026-08-23T09:00:00+09:00",
+      "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。 サンフランシスコから、今回は8月18日にSECが正式に提案した「Regulation ... The post なぜアメリカは暗号資産を「禁止」ではなく「挑戦できるルール」へ変えようとしているのか【サンフランシスコ レポート】 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "米SECが提案した「Regulation Crypto Assets」は、暗号資産プロジェクトが通常の証券登録とは異なる枠組みで段階的に資金調達できる制度を示した。これには情報開示責任を伴うStartup Exemptionや、分散化が進んだネットワークを投資契約から切り離すSafe Harborが含まれる。米国の政策は暗号資産を単に禁止するのではなく、イノベーションを国内に保持しながらルールを整える方向へシフトしている。背景には中国との覇権争いや国家競争があり、CFTCによるDeFiの合法的統合模索や、議会で審議されるCLARITY Actの動きとも連動している。アメリカは資本や人材の流出を防ぎ、次の金融インフラを握る国家戦略として、挑戦を促しつつ投資家を保護する新たな規制設計を進めている。",
+      "summary_error": false,
+      "category": "分析・レポート",
+      "all_entities": [
+        "エックスウィン",
+        "SEC",
+        "Google",
+        "Apple",
+        "Meta",
+        "NVIDIA",
+        "CFTC",
+        "Hyperliquid",
+        "FRB"
+      ],
+      "main_entities": [
+        "エックスウィン"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:33:23.295477+09:00"
+    },
+    {
+      "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
+      "link": "https://www.nadanews.com/364892/",
+      "pub_date": "2026-08-23T08:00:00+09:00",
+      "description": "ローソンとネットスターズは8月17日、東京・大崎のローソンゲートシティ大崎アトリウム店で、ネットスターズの店舗向けステーブルコイン決済サービス「Stableco ... The post MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "本記事では注目の暗号資産関連ニュースが紹介されている。ローソンとネットスターズは、店舗向けステーブルコイン決済サービス「Stablecoin Pay」と既存POSレジを連携させる実証実験を実施し、MetaMask保有のUSDC、USDT、JPYCによる約5秒での決済速度や操作性を検証した。また、Bitcoin JapanのCEOがビットコイン保有戦略や事業の狙いを明かした独占インタビューや、UPBONDとJapanTicketによるアパホテル宿泊者向けJPYC決済実証実験、AZ-COM丸和ホールディングスによるJPYC導入と資本業務提携の背景が取り上げられている。さらに米商品先物取引委員会の委員長が、クラリティ法案の停滞時に既存権限を用いて独自の暗号資産市場規則を整備する方針を示した動向についても触れられている。",
+      "summary_error": false,
+      "category": "ビジネス",
+      "all_entities": [
+        "ローソン",
+        "ネットスターズ",
+        "MetaMask",
+        "NADA NEWS",
+        "Bitcoin Japan",
+        "UPBOND",
+        "JapanTicket",
+        "アパホテル",
+        "AZ-COM丸和ホールディングス",
+        "JPYC株式会社",
+        "米商品先物取引委員会"
+      ],
+      "main_entities": [
+        "ローソン",
+        "MetaMask",
+        "Bitcoin Japan"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:33:29.630230+09:00"
+    },
+    {
+      "title": "Ki Young Ju「BTCの弱気相場はほぼ終わった」は本当か──オンチェーンとETFから検証【エックスウィン】",
+      "link": "https://www.nadanews.com/365131/",
+      "pub_date": "2026-08-23T06:00:00+09:00",
+      "description": "Bitcoin市場に、大きな変化が起きている。 CryptoQuant創業者兼CEOのKi Young Ju氏は8月21日、Bitcoinについて「弱気相場でこ ... The post Ki Young Ju「BTCの弱気相場はほぼ終わった」は本当か──オンチェーンとETFから検証【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "CryptoQuantのKi Young Ju氏が「BTCの弱気相場はほぼ終了した」と発言したことを受け、オンチェーンデータやETF動向から市場動向が検証された。ビットコインは約6万ドルの底値圏から7万9400ドル台まで急騰し、短期保有者等の重要コストベースを奪回した。この急騰の背景には、約30億ドル規模のショートスクイーズに加え、5営業日で約19億ドルに達した米国Spot Bitcoin ETFへの純流入や現物需要の改善、米財務省の流動性支援に伴う長期金利低下などの複数要因が存在する。ただし、過去の急反発時と同様に一時的な反発に留まるリスクも残る。今後は7万5000～7万6000ドル水準を維持し、8万ドル以上のレジスタンスを突破できるかが本格的なトレンド転換の鍵となるため、底打ちが確定したわけではなく有力な仮説段階にあると評価されている。",
+      "summary_error": false,
+      "category": "分析・レポート",
+      "all_entities": [
+        "CryptoQuant",
+        "米財務省",
+        "FRB",
+        "Coinbase",
+        "エックスウィン"
+      ],
+      "main_entities": [
+        "CryptoQuant",
+        "エックスウィン"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:33:35.667832+09:00"
+    },
+    {
+      "title": "【独占インタビュー】ドライヤーで予測市場を操作か──脆弱性を悪用前に発見するには、元DHS政策顧問が対策を提言",
+      "link": "https://www.nadanews.com/365111/",
+      "pub_date": "2026-08-22T21:22:31+09:00",
+      "description": "2026年4月初旬、予測市場「Polymarket（ポリマーケット）」では、パリの1日の最高気温を対象とする「ラダー型」契約が活発に取引されていた。多くの予測市 ... The post 【独占インタビュー】ドライヤーで予測市場を操作か──脆弱性を悪用前に発見するには、元DHS政策顧問が対策を提言 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "予測市場Polymarketにおいて、パリの気温を対象とする契約で、観測所の温度センサーにドライヤー等で熱を加える手口により不正に約3万5000ドルの利益が得られた疑いが浮上した。フランス当局が捜査を開始し、国家賭博局はアクセス遮断を命じるなどの影響が出ている。元米国土安全保障省政策顧問のマシュー・ワイン氏はインタビューで、予測市場におけるオラクル依存や契約設計の脆弱性を指摘した。ワイン氏は、悪意ある利用者に悪用される前に欠陥を発見するため、独立した研究者を審査した上で報酬を支払うバグ報奨金制度の導入を提唱している。同制度は、市場ルールの不備や現実世界の設備への依存といった弱点を事前に洗い出す外部のレッドチームとして機能し、プラットフォームの安全性と信頼性を多層的に高める有効な手段になると述べている。",
+      "summary_error": false,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "Polymarket",
+        "Weather Underground",
+        "メテオ・フランス",
+        "Discord",
+        "ロワシー航空輸送憲兵隊",
+        "フランス警察",
+        "パリ検察",
+        "サイバー犯罪対策局",
+        "国家賭博局",
+        "米国土安全保障省",
+        "連邦議会",
+        "Lituus Foundation",
+        "Predictive Labs",
+        "NADA NEWS"
+      ],
+      "main_entities": [
+        "Polymarket",
+        "米国土安全保障省"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:33:45.538562+09:00"
+    },
+    {
+      "title": "サンドボックスで149億SAND不正発行か──上限の約5倍",
+      "link": "https://www.nadanews.com/365093/",
+      "pub_date": "2026-08-22T19:44:54+09:00",
+      "description": "ブロックチェーンセキュリティ企業PeckShield（ペックシールド）は8月22日、メタバースプロジェクトThe Sandbox（ザ・サンドボックス）が攻撃を受 ... The post サンドボックスで149億SAND不正発行か──上限の約5倍 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "ブロックチェーンセキュリティ企業PeckShieldは8月22日、メタバースプロジェクトThe Sandboxが攻撃を受け、設計上の最大供給量である30億枚の約5倍に相当する約149億SANDが2つのアドレスへ異常発行された可能性があると報告した。オンチェーンデータでもNull Addressから大量発行された履歴が確認されている。これを受け、The Sandboxはクロスチェーンブリッジに脆弱性があったことを認め、BaseとBNB Smart Chainに関連するクロスチェーン機能を一時停止したと発表した。異常発行されたトークンが実際に流通可能かや市場への影響は不明だが、韓国取引所のUpbitが注意喚起を行い、Bithumbが入出金を停止するなど対応に追われている。",
+      "summary_error": false,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "PeckShield",
+        "The Sandbox",
+        "Base",
+        "BNB Smart Chain",
+        "Upbit",
+        "Bithumb"
+      ],
+      "main_entities": [
+        "The Sandbox"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:33:51.444162+09:00"
+    },
+    {
+      "title": "米国の州発行ステーブルコインもChainlinkへ──LayerZeroから移行相次ぐ",
+      "link": "https://www.nadanews.com/365024/",
+      "pub_date": "2026-08-22T14:59:27+09:00",
+      "description": "米ワイオミング州のWyoming Stable Token Commission（ワイオミング・ステーブルトークン委員会）は8月18日、州発行のステーブルコイン ... The post 米国の州発行ステーブルコインもChainlinkへ──LayerZeroから移行相次ぐ first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "米ワイオミング州のステーブルトークン委員会は、公的機関発行のステーブルコイン「FRNT」のクロスチェーン基盤を、LayerZeroからChainlinkのCCIPへ完全移行したと発表しました。複数年契約を締結し、CCIPをFRNTの唯一の基盤として採用、従来のLayerZero実装は廃止されます。FRNTは米ドルや短期米国債を裏付け資産とし、イーサリアムやソラナなど8つのブロックチェーンに展開されています。今回の移行は、セキュリティレビューによりLayerZeroの情報開示や運用上のセキュリティに懸念が確認されたことを受けて実施されました。背景には2024年4月に発生したKelpDAOのブリッジ攻撃による約2億9200万ドルの不正流出事件があり、被害拡大の原因を巡ってLayerZeroとKelpDAOの主張が対立していました。",
+      "summary_error": false,
+      "category": "Stablecoin",
+      "all_entities": [
+        "Wyoming Stable Token Commission",
+        "LayerZero Labs",
+        "Chainlink",
+        "KelpDAO",
+        "Arbitrum",
+        "Avalanche",
+        "Base",
+        "Ethereum",
+        "Hedera",
+        "Optimism",
+        "Polygon",
+        "Solana",
+        "CoinDesk"
+      ],
+      "main_entities": [
+        "Wyoming Stable Token Commission",
+        "Chainlink",
+        "LayerZero Labs"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:33:57.918474+09:00"
+    },
+    {
+      "title": "Zcashが40％超の急騰──Grayscale、米国初の現物ETF上場へ",
+      "link": "https://www.nadanews.com/365077/",
+      "pub_date": "2026-08-22T14:37:42+09:00",
+      "description": "米暗号資産（仮想通貨）運用会社Grayscale（グレースケール）は8月21日、暗号資産ジーキャッシュ（ZEC）の現物ETF（上場投資信託）実現に向け、米証券取 ... The post Zcashが40％超の急騰──Grayscale、米国初の現物ETF上場へ first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "米暗号資産運用会社のグレースケールは8月21日、ジーキャッシュ（ZEC）の現物ETF実現に向け、米証券取引委員会（SEC）に登録届出書の5回目となる修正版を提出しました。これが実現すれば、米国初となるZECを直接保有するETFとなります。ZECは、ゼロ知識証明技術を活用して取引情報を非公開にできるプライバシー機能を特徴とする暗号資産です。グレースケールは現在運用している投資商品「グレースケール・ジーキャッシュ・トラスト」をETFへ転換し、NYSE Arcaへの上場を目指しています。このETF転換への期待感からZEC価格は急騰し、24時間で44.8％上昇して一時848.65ドルを記録しました。ETFが実現すれば、投資家は現物を直接保有・管理することなく、米国の証券市場を通じて手軽にZECへ投資できるようになります。",
+      "summary_error": false,
+      "category": "暗号資産ETF",
+      "all_entities": [
+        "Grayscale",
+        "SEC",
+        "NYSE Arca",
+        "CoinMarketCap",
+        "Shutterstock"
+      ],
+      "main_entities": [
+        "Grayscale"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:34:03.788305+09:00"
+    },
+    {
+      "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC",
+      "link": "https://www.nadanews.com/365079/",
+      "pub_date": "2026-08-22T13:38:32+09:00",
+      "description": "物流大手のAZ-COM丸和ホールディングスが、協力会社への支払いに円建てステーブルコイン「JPYC」を導入する。 導入を決めた理由や背景については、「アマゾン配 ... The post 【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "物流大手のAZ-COM丸和ホールディングスは、協力会社への支払いに円建てステーブルコイン「JPYC」を導入する。同社は創業者の和佐見勝氏のキャッシュフローへの強い執念から、協力会社の事務を肩代わりしてでも「月末締め翌月20日払い」という業界内で迅速な支払いを維持してきた。人手不足が深刻な運送業界では支払いの速さが人材確保に直結するが、銀行振込手数料の負担が週払いや当日払いへの移行を阻んでいた。この課題を解決するため、同社はJPYCへ10億円を出資し、現金に代わる決済手段としての導入を決断した。社内には反対意見もあったが、和佐見氏はキャッシュフロー改善と手数料削減の重要性を説いたという。年内にも首都圏から小規模に導入が始まる見通しで、将来的には外国人ドライバーの海外送金手数料の削減も見据えている。",
+      "summary_error": false,
+      "category": "Stablecoin",
+      "all_entities": [
+        "AZ-COM丸和ホールディングス",
+        "JPYC",
+        "Amazon",
+        "丸和運輸機関"
+      ],
+      "main_entities": [
+        "AZ-COM丸和ホールディングス",
+        "JPYC"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:34:09.904548+09:00"
+    },
+    {
+      "title": "ザ・サンドボックス、5億SAND不正発行発生か 韓国大手2社が対応",
+      "link": "https://coinpost.jp/?p=732613",
+      "pub_date": "2026-08-22T13:25:41+09:00",
+      "description": "メタバース企業ザ・サンドボックスでBase上の仮想通貨SANDに不正発行疑惑が発生し、5億トークン超が不正発行された。韓国大手取引所も警戒を強めており、供給希薄化への影響が懸念される。",
+      "summary": "メタバース関連企業ザ・サンドボックスが、イーサリアムのレイヤー2ネットワーク「Base」上で暗号資産SANDの不正発行被害に遭った疑いが浮上しました。攻撃者はBase上のスマートコントラクトの不具合を悪用して発行権限を不正に取得したとみられ、すでに発行上限の約17%に相当する5億SAND以上が不正発行されたと報じられています。これを受け、韓国大手暗号資産取引所のアップビットは価格変動への警戒を促す注意喚起を発表し、ビッサムは予防措置としてSANDの入出金を一時停止するなど、ユーザー資産保護のための対応を行いました。ザ・サンドボックスはアニモカブランズの子会社ですが、近年は需要低下に伴う人員削減や事業再編を進めている最中でした。",
+      "summary_error": false,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "ザ・サンドボックス",
+        "Base",
+        "Wu Blockchain",
+        "Crypto Briefing",
+        "Animoca Brands",
+        "Upbit",
+        "Bithumb"
+      ],
+      "main_entities": [
+        "ザ・サンドボックス",
+        "Upbit",
+        "Bithumb"
+      ],
+      "manually_edited": false,
+      "source_name": "CoinPost",
+      "source_color": "#1d4ed8",
+      "fetched_at": "2026-08-23T09:34:34.136429+09:00"
+    },
+    {
+      "title": "ソラナカンパニー、SOLのインフレ抑制・手数料変更案に反対を表明",
+      "link": "https://coinpost.jp/?p=732598",
+      "pub_date": "2026-08-22T13:05:42+09:00",
+      "description": "仮想通貨ソラナ財務企業ソラナカンパニーが、SOLインフレ抑制や変動手数料の2提案に反対を表明。一方で新ガバナンス制度「ソラナ憲法」は支持している。",
+      "summary": "米ナスダック上場のソラナトレジャリー企業であるソラナカンパニーは、ソラナネットワークにおけるインフレ抑制案（SGP-0002）および手数料変更案への反対を表明しました。一方で、ガバナンス制の枠組みである「ソラナ憲法」には賛成しています。同社は、発行量削減などの長期的な目標自体には理解を示しつつも、機関投資家による採用が進む重要な局面においてルールの継続性が不可欠であるとし、反対の理由は「タイミング」にあると説明しました。インフレ抑制策によりステーキング利回りが低下すると、企業の財務予測や監査に影響を与え、機関投資家の参入意欲を損なう恐れがあると懸念しています。実際に同社の第2四半期収益の大部分がステーキングによるものであり、持続的な資金流入を確認した上で将来的に再議論すべきだと提言しています。",
+      "summary_error": false,
+      "category": "Blockchain",
+      "all_entities": [
+        "Solana",
+        "ソラナカンパニー",
+        "ナスダック"
+      ],
+      "main_entities": [
+        "ソラナカンパニー",
+        "Solana"
+      ],
+      "manually_edited": false,
+      "source_name": "CoinPost",
+      "source_color": "#1d4ed8",
+      "fetched_at": "2026-08-23T09:34:40.182930+09:00"
+    },
+    {
+      "title": "HyperliquidのHYPE、過去最高値更新──80ドル突破",
+      "link": "https://www.nadanews.com/365052/",
+      "pub_date": "2026-08-22T12:29:05+09:00",
+      "description": "分散型取引所Hyperliquid（ハイパーリキッド）の基軸トークンHYPEが8月22日、初めて80ドルを突破し、過去最高値を更新した。 CoinMarketC ... The post HyperliquidのHYPE、過去最高値更新──80ドル突破 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "分散型取引所Hyperliquidの基軸トークンであるHYPEが、8月22日に初めて80ドルを突破し過去最高値を更新した。CoinMarketCapのデータによると、HYPEは21日に最高値を更新した後も上昇基調を維持し、22日には81.43ドルに達した。この価格高騰の背景には、ドナルド・トランプ米大統領が19日に、米商品先物取引委員会（CFTC）のマイク・セリグ委員長がHyperliquidの米国導入に向けて取り組んでいると明らかにしたことがある。トランプ大統領は、セリグ委員長が完全にコンプライアンスを満たした合法な形でHyperliquidを米国へ導入できるよう取り組んでいるとの認識を示しており、この発言を受けてHYPEは20日時点で約20％上昇し、その後も勢いを維持して80ドル台へと到達した。",
+      "summary_error": false,
+      "category": "マーケット",
+      "all_entities": [
+        "Hyperliquid",
+        "CoinMarketCap",
+        "商品先物取引委員会"
+      ],
+      "main_entities": [
+        "Hyperliquid"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:34:15.435433+09:00"
+    },
+    {
+      "title": "ビットコイン金融のバウンスビット、BBトークン不正流出でL1廃止",
+      "link": "https://coinpost.jp/?p=732576",
+      "pub_date": "2026-08-22T11:12:55+09:00",
+      "description": "CeDeFiのバウンスビットが、独自チェーンの脆弱性をハッキングされ、仮想通貨BBが約2.86億枚不正送金されたと発表。L1チェーンを廃止し、BNBチェーン上でBBを再発行する。",
+      "summary": "ビットコインを中心とする金融プロトコル「バウンスビット」は、独自トークン「BB」の不正流出を受けてL1チェーン「バウンスビット・チェーン」を永久廃止すると発表しました。8月19日から20日にかけて、チェーンの組み込みプロトコルの欠陥を突いた攻撃により、9つのアカウントから約2億8,650万BB（約5億円相当）が不正流出しました。調査の結果、チェーンの基盤である開発中止済みのEvmosスタックの脆弱性が悪用されたことが判明しました。これを受け、同プロトコルは活動が集約されつつあったBNBチェーンへ移行を決定し、BBトークンをBEP-20規格で再発行します。不正流出前のスナップショットに基づき被害アカウントの残高は復元され、ユーザーによる個別の補償請求手続きは不要とされています。",
+      "summary_error": false,
+      "category": "障害・攻撃",
+      "all_entities": [
+        "バウンスビット",
+        "Evmos",
+        "BNBチェーン"
+      ],
+      "main_entities": [
+        "バウンスビット"
+      ],
+      "manually_edited": false,
+      "source_name": "CoinPost",
+      "source_color": "#1d4ed8",
+      "fetched_at": "2026-08-23T09:34:46.407904+09:00"
+    },
+    {
+      "title": "ビットコイン7.9万ドル突破、イラン制裁観測で逃避買い オプション市場は9万ドルを意識｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=732566",
+      "pub_date": "2026-08-22T10:35:13+09:00",
+      "description": "仮想通貨ビットコインは8月22日も続騰し、一時7万9,000ドルを突破した。円建てでも過去24時間で約100万円幅の上昇となっており、8万ドルの大台を目前に控える展開となっている。",
+      "summary": "ビットコイン（BTC）は一時7万9,000ドルを突破し、8万ドルの大台を目前に控える展開となった。背景には、トランプ米大統領によるイランへの大規模な経済制裁発表の意向を受けた地政学リスクの高まりがあり、国家や既存金融システムから距離を置ける逃避資産としてビットコインに資金が流入したとみられる。また、米国の規制・政策面の前進も相場を支えている。相場はデリバティブ市場が先導しつつも、今回は制裁回避などを意識した現物買いも旺盛である点が特徴的だ。オプション市場ではプット・コール・レシオが低下し強気姿勢が強まっており、9万ドルを権利行使価格とするコールの建玉も増加している。ただし短期間の急騰により、デリバティブ市場では現値付近を清算ラインとする建玉が増えており、連鎖的な清算によるボラティリティの拡大には警戒が必要である。",
+      "summary_error": false,
+      "category": "分析・レポート",
+      "all_entities": [
+        "CoinPost",
+        "BTC Status Alert",
+        "DECOCHART",
+        "ハイパーリキッド"
+      ],
+      "main_entities": [
+        "CoinPost"
+      ],
+      "manually_edited": false,
+      "source_name": "CoinPost",
+      "source_color": "#1d4ed8",
+      "fetched_at": "2026-08-23T09:34:52.527398+09:00"
+    },
+    {
+      "title": "リップル、XRPレジャーで機関投資家向け融資ファンド始動 XRPは前週比46%超上昇",
+      "link": "https://coinpost.jp/?p=732565",
+      "pub_date": "2026-08-22T09:55:10+09:00",
+      "description": "リップルはクリアプール、シカダ・パートナーズとともに、ステーブルコインRLUSDを軸とした機関投資家融資ファンドの構築を進めている。実装の可否はバリデーター承認にかかっており、XRP相場にも影響し得る。",
+      "summary": "リップル社、融資基盤運営のクリアプール、与信管理を手がけるシカダ・パートナーズが、XRPレジャー上で機関投資家向け融資商品の構築を進めていることが海外メディアの報道で明らかになりました。このファンドはリップル社発行の米ドル連動型ステーブルコイン「RLUSD」を活用し、フィンテックや決済企業への運転資金融資を行う設計です。クリアプールがインフラ構築と運営を担い、シカダ・パートナーズが与信管理などを担当します。本枠組みの実現には提案段階の貸付プロトコル「XLS-66」などの実装が必要で、XRPレジャーのバリデーターによる80%の承認が求められますが、報道時点での承認率は約40%にとどまっています。融資はRLUSD建てで実行され、XRPは手数料等で利用されます。この報道やビットコインの上昇を背景に、XRPは前週比46%超の大幅な上昇を記録しました。",
+      "summary_error": false,
+      "category": "DeFi",
+      "all_entities": [
+        "Ripple",
+        "クリアプール",
+        "シカダ・パートナーズ",
+        "XRPレジャー",
+        "コインデスク",
+        "SCTC社",
+        "SBI VCトレード",
+        "CoinPost"
+      ],
+      "main_entities": [
+        "Ripple",
+        "XRPレジャー"
+      ],
+      "manually_edited": false,
+      "source_name": "CoinPost",
+      "source_color": "#1d4ed8",
+      "fetched_at": "2026-08-23T09:34:58.861894+09:00"
+    },
+    {
+      "title": "「様子見」から「追随」へ── 現物需要を伴った急騰が試すビットコイン市場の次の局面【BitTrade Market Weekly】",
+      "link": "https://www.nadanews.com/365031/",
+      "pub_date": "2026-08-22T09:48:09+09:00",
+      "description": "今週の市場は、「様子見が続いていた市場に買い需要が戻り、投資家心理が急速に強気方向へ傾いた一週間」だった。 ビットコインは週前半、62,000ドル前後（約1,0 ... The post 「様子見」から「追随」へ── 現物需要を伴った急騰が試すビットコイン市場の次の局面【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース） .",
+      "summary": "ビットコイン市場は、長期間のレンジ相場を上抜けて急騰し、一時79,000ドルに達するなど投資家心理が強気へと急速に傾いた。今回の上昇は先物主導だった過去の局面と異なり、米国現物ETFへの資金流入や現物需要の回復、ショート清算が重なったことで「買い手が増えた市場」へ構造変化した点が特徴である。マクロ環境が全面的にリスクオンではない中、BTC固有の需給改善が価格を押し上げた。ただし、短期的な急騰に伴うFOMOや利益確定売りの増加には注意が必要である。今後の焦点は、70,000ドル台を維持しながらETF流入が継続するか、Coinbaseをはじめとする現物市場の買い需要が残るか、先物主導の過熱を避けて現物主導の上昇を維持できるかという点であり、市場は上昇の持続性を検証する局面に入っている。",
+      "summary_error": false,
+      "category": "分析・レポート",
+      "all_entities": [
+        "BitTrade",
+        "Coinbase",
+        "FRB",
+        "米財務省"
+      ],
+      "main_entities": [
+        "BitTrade"
+      ],
+      "manually_edited": false,
+      "source_name": "NADA NEWS",
+      "source_color": "#0f6e56",
+      "fetched_at": "2026-08-23T09:34:21.493084+09:00"
+    },
+    {
       "title": "【速報】イーサリアム、40万円台を回復──ビットコイン上昇率上回る",
       "link": "https://www.nadanews.com/365033/",
       "pub_date": "2026-08-22T08:43:06+09:00",
@@ -18627,8 +19033,8 @@
       "fetched_at": "2026-07-24T16:16:29.328335+09:00"
     }
   ],
-  "last_updated": "2026-08-22T09:34:43.244146+09:00",
-  "total_count": 753,
+  "last_updated": "2026-08-23T09:35:02.862391+09:00",
+  "total_count": 769,
   "sources": [
     "NADA NEWS",
     "CoinPost",
