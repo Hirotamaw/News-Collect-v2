@@ -1,10 +1,15 @@
 {
   "entities": {
     "楽天ウォレット": {
-      "article_count": 11,
-      "as_main_count": 11,
+      "article_count": 12,
+      "as_main_count": 12,
       "as_related_count": 0,
       "recent_articles": [
+        {
+          "title": "マトリックス法によるテクニカル分析（2026/9/4）上昇トレンド転換へ「産みの苦しみ」【楽天ウォレット】",
+          "link": "https://www.nadanews.com/366978/",
+          "pub_date": "2026-09-04T17:25:00+09:00"
+        },
         {
           "title": "マトリックス法によるテクニカル分析（2026/8/28）上昇継続か、一旦調整か、今は五分五分【楽天ウォレット】",
           "link": "https://www.nadanews.com/366004/",
@@ -24,15 +29,10 @@
           "title": "ビットコイン底堅い 雇用統計で利上げ観測後退、Clarity法案は延長戦【楽天ウォレットDaily Report】",
           "link": "https://www.nadanews.com/363308/",
           "pub_date": "2026-08-10T13:09:56+09:00"
-        },
-        {
-          "title": "ビットコイン、イランの米艦排除でリスクオフ 今晩は雇用統計【楽天ウォレットDaily Report】",
-          "link": "https://www.nadanews.com/362904/",
-          "pub_date": "2026-08-07T14:17:35+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.237265+09:00",
-      "last_seen": "2026-08-29T13:32:37.636423+09:00"
+      "last_seen": "2026-09-05T10:41:43.605934+09:00"
     },
     "楽天": {
       "article_count": 2,
@@ -54,38 +54,38 @@
       "last_seen": "2026-08-18T09:32:25.374759+09:00"
     },
     "Coinbase": {
-      "article_count": 87,
-      "as_main_count": 23,
-      "as_related_count": 64,
+      "article_count": 91,
+      "as_main_count": 24,
+      "as_related_count": 67,
       "recent_articles": [
+        {
+          "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+          "link": "https://www.neweconomy.jp/posts/605306",
+          "pub_date": "2026-09-04T17:28:17+09:00"
+        },
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
+        {
+          "title": "ビットコインは「強気の冷却」局面へ──8万ドル回復の裏で現物需要が失速、上昇はショートカバー主導【エックスウィン】",
+          "link": "https://www.nadanews.com/366989/",
+          "pub_date": "2026-09-05T06:00:00+09:00"
+        },
+        {
+          "title": "「恐怖」から「買い直し」へ── マクロショックで揺れたビットコイン投資家の心理【BitTrade Market Weekly】",
+          "link": "https://www.nadanews.com/367002/",
+          "pub_date": "2026-09-05T09:00:00+09:00"
+        },
         {
           "title": "米コインベース、カナダで暗号資産の無期限先物など提供開始",
           "link": "https://www.neweconomy.jp/posts/604995",
           "pub_date": "2026-09-03T18:48:08+09:00"
-        },
-        {
-          "title": "コインベース、米国株式の無期限先物提供を申請 広がる需要受け",
-          "link": "https://coinpost.jp/?p=735493",
-          "pub_date": "2026-09-04T07:45:49+09:00"
-        },
-        {
-          "title": "Coinbase、米国で株式パーペチュアルの提供目指す",
-          "link": "https://www.nadanews.com/366842/",
-          "pub_date": "2026-09-04T08:30:00+09:00"
-        },
-        {
-          "title": "コインベース、カナダで規制準拠の仮想通貨先物取引を提供開始",
-          "link": "https://coinpost.jp/?p=735168",
-          "pub_date": "2026-09-03T10:10:20+09:00"
-        },
-        {
-          "title": "ニュージャージー州、予測市場について米最高裁に判断を求める",
-          "link": "https://www.nadanews.com/366622/",
-          "pub_date": "2026-09-03T07:30:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-09-04T10:43:15.477991+09:00"
+      "last_seen": "2026-09-05T10:43:31.322347+09:00"
     },
     "Strategy": {
       "article_count": 28,
@@ -122,10 +122,20 @@
       "last_seen": "2026-09-03T10:48:56.503980+09:00"
     },
     "BlackRock": {
-      "article_count": 59,
+      "article_count": 61,
       "as_main_count": 26,
-      "as_related_count": 33,
+      "as_related_count": 35,
       "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        },
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
         {
           "title": "米SEC、24時間取引に向けたラウンドテーブルの議題と登壇者を発表",
           "link": "https://www.neweconomy.jp/posts/604932",
@@ -140,26 +150,21 @@
           "title": "エセナが金融アプリ「Ethena Pay」β版を提供開始、アバランチを独占精算基盤に採用",
           "link": "https://www.neweconomy.jp/posts/604616",
           "pub_date": "2026-09-02T17:05:51+09:00"
-        },
-        {
-          "title": "イーサリアム財務企業の時価総額94億ドル増──ETHがビットコインを2カ月連続で上回る、9月の注視点3つ",
-          "link": "https://www.nadanews.com/366486/",
-          "pub_date": "2026-09-02T08:00:00+09:00"
-        },
-        {
-          "title": "ビットコインETF「30億ドルの買い」は誰だったのか──9日間の資金流入が突然止まった理由【エックスウィン】",
-          "link": "https://www.nadanews.com/366250/",
-          "pub_date": "2026-09-01T06:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-09-04T10:43:48.634384+09:00"
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
     },
     "Fidelity": {
-      "article_count": 16,
+      "article_count": 17,
       "as_main_count": 4,
-      "as_related_count": 12,
+      "as_related_count": 13,
       "recent_articles": [
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
         {
           "title": "イーサリアム財務企業の時価総額94億ドル増──ETHがビットコインを2カ月連続で上回る、9月の注視点3つ",
           "link": "https://www.nadanews.com/366486/",
@@ -179,21 +184,21 @@
           "title": "米ビットコイン現物ETF、4月以来最高の資金流入── 「Coldcard」との関連は？",
           "link": "https://www.nadanews.com/363270/",
           "pub_date": "2026-08-10T08:30:00+09:00"
-        },
-        {
-          "title": "ビットコイン現物ETFに6.26億ドル流入──資金はどこから来たのか【エックスウィン】",
-          "link": "https://www.nadanews.com/362841/",
-          "pub_date": "2026-08-07T06:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-09-02T10:40:43.280288+09:00"
+      "last_seen": "2026-09-05T10:41:37.677307+09:00"
     },
     "Ripple": {
-      "article_count": 33,
+      "article_count": 34,
       "as_main_count": 17,
-      "as_related_count": 16,
+      "as_related_count": 17,
       "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "リップルとセトルミント、APAC金融機関向けにカストディ・トークン化の統合ソリューション提供",
           "link": "https://www.neweconomy.jp/posts/605001",
@@ -213,21 +218,21 @@
           "title": "仮想通貨投資商品に3営業日で2640億円超流入、マイナーのAI収益比率が大幅増加の見通し＝レポート",
           "link": "https://coinpost.jp/?p=734148",
           "pub_date": "2026-08-29T07:30:00+09:00"
-        },
-        {
-          "title": "リップル・プライムがデルタワン事業を開始、米上場株などに対応",
-          "link": "https://coinpost.jp/?p=733854",
-          "pub_date": "2026-08-28T09:15:31+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:05.509758+09:00",
-      "last_seen": "2026-09-04T10:43:09.176114+09:00"
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
     },
     "Visa": {
-      "article_count": 22,
+      "article_count": 23,
       "as_main_count": 4,
-      "as_related_count": 18,
+      "as_related_count": 19,
       "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        },
         {
           "title": "エセナが金融アプリ「Ethena Pay」β版を提供開始、アバランチを独占精算基盤に採用",
           "link": "https://www.neweconomy.jp/posts/604616",
@@ -247,15 +252,10 @@
           "title": "【8/31話題】金融庁が信託型ステーブルコインの法定調書「提出不要」要望、トリコがETH、イオレがHYPE追加取得、クロノスのネットワーク停止など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/603845",
           "pub_date": "2026-08-31T21:28:23+09:00"
-        },
-        {
-          "title": "アップビット運営元ドゥナムとVisaが提携、ステーブルコイン決済・送金で協業",
-          "link": "https://www.neweconomy.jp/posts/603507",
-          "pub_date": "2026-08-28T20:42:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:06.153632+09:00",
-      "last_seen": "2026-09-03T10:49:25.708846+09:00"
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
     },
     "Mastercard": {
       "article_count": 12,
@@ -428,10 +428,15 @@
       "last_seen": "2026-09-04T10:40:08.668415+09:00"
     },
     "Circle": {
-      "article_count": 35,
+      "article_count": 36,
       "as_main_count": 13,
-      "as_related_count": 22,
+      "as_related_count": 23,
       "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "【9/28開催】AI時代、企業のお金はどう動くのか──ステーブルコインが変える決済・送金・財務",
           "link": "https://www.nadanews.com/365269/",
@@ -451,21 +456,21 @@
           "title": "Aviciのカード残高から約50万ドル流出、Triaも被害 全額補償を約束",
           "link": "https://coinpost.jp/?p=734151",
           "pub_date": "2026-08-29T13:10:06+09:00"
-        },
-        {
-          "title": "ハイパーリキッド、USDC運用益でHYPE買い戻し開始",
-          "link": "https://coinpost.jp/?p=733520",
-          "pub_date": "2026-08-27T07:55:21+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:10.024598+09:00",
-      "last_seen": "2026-09-02T10:40:30.964191+09:00"
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
     },
     "Binance": {
-      "article_count": 54,
-      "as_main_count": 19,
+      "article_count": 55,
+      "as_main_count": 20,
       "as_related_count": 35,
       "recent_articles": [
+        {
+          "title": "バイナンス、MiCAライセンス未取得でもEU事業継続＝報道",
+          "link": "https://coinpost.jp/?p=735695",
+          "pub_date": "2026-09-05T10:15:05+09:00"
+        },
         {
           "title": "セキュリタイズとSocios[.]com、プロスポーツチームの少数持分トークン化で提携",
           "link": "https://www.neweconomy.jp/posts/604909",
@@ -485,15 +490,10 @@
           "title": "警察白書掲載の匿名通貨モネロが44％急騰",
           "link": "https://www.nadanews.com/366422/",
           "pub_date": "2026-09-02T10:30:00+09:00"
-        },
-        {
-          "title": "9月利上げ観測はビットコインにどう影響するか──ウォーシュ氏のタカ派発言が財務省の流動性支援期待を打ち消す【価格分析】",
-          "link": "https://www.nadanews.com/366295/",
-          "pub_date": "2026-09-01T10:16:36+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:13.718679+09:00",
-      "last_seen": "2026-09-04T10:44:01.014292+09:00"
+      "last_seen": "2026-09-05T10:41:50.758352+09:00"
     },
     "Tether": {
       "article_count": 22,
@@ -530,10 +530,20 @@
       "last_seen": "2026-09-04T10:43:35.434577+09:00"
     },
     "Robinhood": {
-      "article_count": 25,
-      "as_main_count": 6,
+      "article_count": 27,
+      "as_main_count": 8,
       "as_related_count": 19,
       "recent_articles": [
+        {
+          "title": "ロビンフッドチェーン、4日夜約14分のブロック生成障害が発生",
+          "link": "https://coinpost.jp/?p=735698",
+          "pub_date": "2026-09-05T06:40:13+09:00"
+        },
+        {
+          "title": "ロビンフッド、AMCの株式トークン停止要求を拒否",
+          "link": "https://coinpost.jp/?p=735697",
+          "pub_date": "2026-09-05T07:15:11+09:00"
+        },
         {
           "title": "ロビンフッド・チェーン、日次DEX取引高15億ドル突破、ミームコイン需要で収益も急増",
           "link": "https://www.neweconomy.jp/posts/604918",
@@ -548,20 +558,10 @@
           "title": "米コインベース、カナダで暗号資産の無期限先物など提供開始",
           "link": "https://www.neweconomy.jp/posts/604995",
           "pub_date": "2026-09-03T18:48:08+09:00"
-        },
-        {
-          "title": "【9/3話題】三菱UFJアセットらがProgmatと国内初の「トークン化投信」設定、ロビンフッドチェーンがDEX取引高15億ドル突破など（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/605021",
-          "pub_date": "2026-09-03T22:15:36+09:00"
-        },
-        {
-          "title": "ニュージャージー州、予測市場について米最高裁に判断を求める",
-          "link": "https://www.nadanews.com/366622/",
-          "pub_date": "2026-09-03T07:30:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:23.529514+09:00",
-      "last_seen": "2026-09-04T10:43:54.809732+09:00"
+      "last_seen": "2026-09-05T10:42:22.794413+09:00"
     },
     "SEC": {
       "article_count": 89,
@@ -666,10 +666,20 @@
       "last_seen": "2026-09-04T10:43:09.176114+09:00"
     },
     "Kraken": {
-      "article_count": 30,
-      "as_main_count": 5,
-      "as_related_count": 25,
+      "article_count": 32,
+      "as_main_count": 6,
+      "as_related_count": 26,
       "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
+        {
+          "title": "クラーケン親会社ペイワードとソーファイが提携、仮想通貨市場と銀行サービスを接続へ",
+          "link": "https://coinpost.jp/?p=735532",
+          "pub_date": "2026-09-04T10:55:23+09:00"
+        },
         {
           "title": "ステラ、クロスチェーン版USDT「USDT0」導入、180Bドル超のUSDT流動性に接続",
           "link": "https://www.neweconomy.jp/posts/604950",
@@ -684,26 +694,21 @@
           "title": "ラザルス関連ウォレット、ハイパーリキッド経由で3000万ドル超を移動",
           "link": "https://coinpost.jp/?p=734904",
           "pub_date": "2026-09-02T14:50:36+09:00"
-        },
-        {
-          "title": "アルパカ、インドネシア証券取引所と海外証券への相互アクセス検討",
-          "link": "https://www.neweconomy.jp/posts/604479",
-          "pub_date": "2026-09-02T10:26:31+09:00"
-        },
-        {
-          "title": "クラーケン親会社、ロンドン証券取引所と英国株トークン化で提携",
-          "link": "https://coinpost.jp/?p=734791",
-          "pub_date": "2026-09-02T05:00:43+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:31.154591+09:00",
-      "last_seen": "2026-09-04T10:43:35.434577+09:00"
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
     },
     "Bybit": {
-      "article_count": 17,
+      "article_count": 18,
       "as_main_count": 4,
-      "as_related_count": 13,
+      "as_related_count": 14,
       "recent_articles": [
+        {
+          "title": "BTCBOX、日本円入金と暗号資産4銘柄の出庫を9/7再開へ",
+          "link": "https://www.neweconomy.jp/posts/605267",
+          "pub_date": "2026-09-04T17:10:09+09:00"
+        },
         {
           "title": "【8/31話題】金融庁が信託型ステーブルコインの法定調書「提出不要」要望、トリコがETH、イオレがHYPE追加取得、クロノスのネットワーク停止など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/603845",
@@ -723,21 +728,21 @@
           "title": "Sui共同創業者発案の「Havenex」公表、金融機関向けの規制対応取引インフラ構築へ",
           "link": "https://www.neweconomy.jp/posts/603287",
           "pub_date": "2026-08-28T17:36:46+09:00"
-        },
-        {
-          "title": "2025年1月からの仮想通貨ハッキング被害総額5800億円規模に＝コインゲッコー報告",
-          "link": "https://coinpost.jp/?p=733866",
-          "pub_date": "2026-08-28T10:25:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:31.154591+09:00",
-      "last_seen": "2026-09-01T11:21:17.575930+09:00"
+      "last_seen": "2026-09-05T10:43:51.102306+09:00"
     },
     "Solana": {
-      "article_count": 79,
-      "as_main_count": 25,
+      "article_count": 80,
+      "as_main_count": 26,
       "as_related_count": 54,
       "recent_articles": [
+        {
+          "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+          "link": "https://www.neweconomy.jp/posts/605287",
+          "pub_date": "2026-09-04T17:15:34+09:00"
+        },
         {
           "title": "ステラ、クロスチェーン版USDT「USDT0」導入、180Bドル超のUSDT流動性に接続",
           "link": "https://www.neweconomy.jp/posts/604950",
@@ -757,15 +762,10 @@
           "title": "ビットコイン、監査性・所有分布などで高評価 主要3銘柄の分散性調査",
           "link": "https://coinpost.jp/?p=734974",
           "pub_date": "2026-09-02T14:15:56+09:00"
-        },
-        {
-          "title": "コインベース、カナダで規制準拠の仮想通貨先物取引を提供開始",
-          "link": "https://coinpost.jp/?p=735168",
-          "pub_date": "2026-09-03T10:10:20+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:31.772049+09:00",
-      "last_seen": "2026-09-04T10:43:35.434577+09:00"
+      "last_seen": "2026-09-05T10:43:44.578461+09:00"
     },
     "ARK Invest": {
       "article_count": 6,
@@ -802,10 +802,15 @@
       "last_seen": "2026-09-03T10:48:16.110032+09:00"
     },
     "bitbank": {
-      "article_count": 18,
-      "as_main_count": 13,
+      "article_count": 19,
+      "as_main_count": 14,
       "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        },
         {
           "title": "ビットポイント、暗号資産の「つみたて」10月終了へ、VCTRADE統合に伴い",
           "link": "https://www.neweconomy.jp/posts/604965",
@@ -825,15 +830,10 @@
           "title": "BTCは底打ち局面入りか 半減期サイクルと需給が示すトレンド転換【bitbank月次レポート】",
           "link": "https://www.nadanews.com/365949/",
           "pub_date": "2026-08-28T10:35:36+09:00"
-        },
-        {
-          "title": "BTC月次分析｜BTCは12カ月移動平均線を回復、長期トレンド反転を示唆【bitbankチャート分析】",
-          "link": "https://www.nadanews.com/365765/",
-          "pub_date": "2026-08-27T10:53:21+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:33.007405+09:00",
-      "last_seen": "2026-09-04T10:43:22.089493+09:00"
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
     },
     "BitMEX": {
       "article_count": 12,
@@ -980,10 +980,20 @@
       "last_seen": "2026-08-19T09:33:31.963535+09:00"
     },
     "米証券取引委員会": {
-      "article_count": 53,
-      "as_main_count": 21,
-      "as_related_count": 32,
+      "article_count": 55,
+      "as_main_count": 22,
+      "as_related_count": 33,
       "recent_articles": [
+        {
+          "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+          "link": "https://www.neweconomy.jp/posts/605306",
+          "pub_date": "2026-09-04T17:28:17+09:00"
+        },
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "【9/3話題】三菱UFJアセットらがProgmatと国内初の「トークン化投信」設定、ロビンフッドチェーンがDEX取引高15億ドル突破など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/605021",
@@ -998,20 +1008,10 @@
           "title": "コインベース、米国株式の無期限先物提供を申請 広がる需要受け",
           "link": "https://coinpost.jp/?p=735493",
           "pub_date": "2026-09-04T07:45:49+09:00"
-        },
-        {
-          "title": "SEC委員長、クラリティ法案「成立を期待」＝Fox Business",
-          "link": "https://www.nadanews.com/366838/",
-          "pub_date": "2026-09-04T07:00:00+09:00"
-        },
-        {
-          "title": "予測市場含む新種ETFめぐり一律規制に反対、米仮想通貨団体がSECに提言",
-          "link": "https://coinpost.jp/?p=735148",
-          "pub_date": "2026-09-03T08:20:48+09:00"
         }
       ],
       "first_seen": "2026-07-24T17:30:27.168552+09:00",
-      "last_seen": "2026-09-04T10:43:02.829818+09:00"
+      "last_seen": "2026-09-05T10:43:31.322347+09:00"
     },
     "Dinari": {
       "article_count": 1,
@@ -1071,10 +1071,15 @@
       "last_seen": "2026-09-03T10:48:42.873244+09:00"
     },
     "Securitize": {
-      "article_count": 8,
+      "article_count": 9,
       "as_main_count": 1,
-      "as_related_count": 7,
+      "as_related_count": 8,
       "recent_articles": [
+        {
+          "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+          "link": "https://www.neweconomy.jp/posts/605287",
+          "pub_date": "2026-09-04T17:15:34+09:00"
+        },
         {
           "title": "エセナが金融アプリ「Ethena Pay」β版を提供開始、アバランチを独占精算基盤に採用",
           "link": "https://www.neweconomy.jp/posts/604616",
@@ -1094,15 +1099,10 @@
           "title": "BlackRock、トークン化MMF2商品を提供開始",
           "link": "https://www.nadanews.com/362293/",
           "pub_date": "2026-08-04T06:30:00+09:00"
-        },
-        {
-          "title": "イーサリアム・インスティテューショナル、初回資金調達完了。100超の支援者が参画",
-          "link": "https://www.neweconomy.jp/posts/596783",
-          "pub_date": "2026-07-31T16:27:21+09:00"
         }
       ],
       "first_seen": "2026-07-24T17:30:27.168552+09:00",
-      "last_seen": "2026-09-03T10:49:25.708846+09:00"
+      "last_seen": "2026-09-05T10:43:44.578461+09:00"
     },
     "コンヴァノ": {
       "article_count": 7,
@@ -1158,10 +1158,15 @@
       "last_seen": "2026-07-29T10:21:35.471907+09:00"
     },
     "ビットコイン": {
-      "article_count": 97,
+      "article_count": 98,
       "as_main_count": 36,
-      "as_related_count": 61,
+      "as_related_count": 62,
       "recent_articles": [
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
         {
           "title": "コーネル大学調査、ビットコイン認知9割でも理解1割強",
           "link": "https://coinpost.jp/?p=735341",
@@ -1181,15 +1186,10 @@
           "title": "ビットコイン、史上初の「ハッシュレート弱気相場」に＝Twenty One Capital CEO",
           "link": "https://www.nadanews.com/366840/",
           "pub_date": "2026-09-04T07:30:00+09:00"
-        },
-        {
-          "title": "ビットコイン8月25%高も取引数は半年ぶり低水準──強気か弱気か【価格分析】",
-          "link": "https://www.nadanews.com/366806/",
-          "pub_date": "2026-09-04T09:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T17:30:36.197802+09:00",
-      "last_seen": "2026-09-04T10:42:49.237202+09:00"
+      "last_seen": "2026-09-05T10:41:37.677307+09:00"
     },
     "BTC": {
       "article_count": 1,
@@ -1206,10 +1206,25 @@
       "last_seen": "2026-07-24T17:30:36.197802+09:00"
     },
     "金融庁": {
-      "article_count": 55,
-      "as_main_count": 25,
-      "as_related_count": 30,
+      "article_count": 58,
+      "as_main_count": 27,
+      "as_related_count": 31,
       "recent_articles": [
+        {
+          "title": "金融庁、暗号資産・ステーブルコイン政策の戦略的対応などで「目標達成」と報告",
+          "link": "https://coinpost.jp/?p=735726",
+          "pub_date": "2026-09-05T09:55:40+09:00"
+        },
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
+          "link": "https://www.nadanews.com/366888/",
+          "pub_date": "2026-09-05T07:00:00+09:00"
+        },
+        {
+          "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
+          "link": "https://www.nadanews.com/367021/",
+          "pub_date": "2026-09-05T10:00:00+09:00"
+        },
         {
           "title": "11/20開催「NIKKEI・NADAデジタルアセットカンファレンス2026」──第一弾のスピーカー発表",
           "link": "https://www.nadanews.com/366784/",
@@ -1219,31 +1234,21 @@
           "title": "スマートレンディング、開業直後に閉鎖",
           "link": "https://www.nadanews.com/366861/",
           "pub_date": "2026-09-04T09:30:00+09:00"
-        },
-        {
-          "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換業",
-          "link": "https://www.neweconomy.jp/posts/604218",
-          "pub_date": "2026-09-01T19:03:54+09:00"
-        },
-        {
-          "title": "【9/1話題】金融庁が暗号資産レンディング「IZAKA-YA」に警告、メルカリでソラナ（SOL）取扱開始、BIP-110で分岐の少数派チェーン再始動など（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/604445",
-          "pub_date": "2026-09-01T23:38:40+09:00"
-        },
-        {
-          "title": "金融庁、仮想通貨関連サービス「IZAKA-YA」運営会社に警告書 無登録で交換業",
-          "link": "https://coinpost.jp/?p=734772",
-          "pub_date": "2026-09-01T18:55:08+09:00"
         }
       ],
       "first_seen": "2026-07-24T17:30:54.717778+09:00",
-      "last_seen": "2026-09-04T10:39:34.950949+09:00"
+      "last_seen": "2026-09-05T10:41:56.986251+09:00"
     },
     "NADA NEWS": {
-      "article_count": 23,
-      "as_main_count": 8,
+      "article_count": 24,
+      "as_main_count": 9,
       "as_related_count": 15,
       "recent_articles": [
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
+          "link": "https://www.nadanews.com/366888/",
+          "pub_date": "2026-09-05T07:00:00+09:00"
+        },
         {
           "title": "【速報】金融庁、暗号資産レンディング「IZAKA-YA」運営会社に警告。無登録で交換業",
           "link": "https://www.neweconomy.jp/posts/604218",
@@ -1263,15 +1268,10 @@
           "title": "XRP保有の米エバーノース、S-4有効化でナスダック上場に前進",
           "link": "https://www.nadanews.com/366047/",
           "pub_date": "2026-08-28T19:33:02+09:00"
-        },
-        {
-          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.10】",
-          "link": "https://www.nadanews.com/365963/",
-          "pub_date": "2026-08-29T07:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:09.150546+09:00",
-      "last_seen": "2026-09-02T10:43:23.711705+09:00"
+      "last_seen": "2026-09-05T10:41:01.011844+09:00"
     },
     "Kakao": {
       "article_count": 1,
@@ -1288,10 +1288,15 @@
       "last_seen": "2026-07-25T10:24:09.150546+09:00"
     },
     "BitTrade": {
-      "article_count": 11,
-      "as_main_count": 7,
+      "article_count": 12,
+      "as_main_count": 8,
       "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "「恐怖」から「買い直し」へ── マクロショックで揺れたビットコイン投資家の心理【BitTrade Market Weekly】",
+          "link": "https://www.nadanews.com/367002/",
+          "pub_date": "2026-09-05T09:00:00+09:00"
+        },
         {
           "title": "【9/2話題】SBI VCトレードでステーキング報酬がJPYSCで受取可能に、リポが保有アルトコイン全売却、大手金融機関21社がステーブルコイン事業で新会社など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/604681",
@@ -1311,21 +1316,21 @@
           "title": "「先物上場が転換点」中国著名エコノミストが語るビットコイン資産化の本質",
           "link": "https://coinpost.jp/?p=732109",
           "pub_date": "2026-08-21T15:00:24+09:00"
-        },
-        {
-          "title": "【独自】BitTrade、出金トラブル「BitradeX」の混同で問い合わせ届く── 「一切関与ない」と強調",
-          "link": "https://www.nadanews.com/363986/",
-          "pub_date": "2026-08-14T14:52:36+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:19.875540+09:00",
-      "last_seen": "2026-09-03T10:48:42.873244+09:00"
+      "last_seen": "2026-09-05T10:40:45.037770+09:00"
     },
     "FRB": {
-      "article_count": 42,
+      "article_count": 43,
       "as_main_count": 4,
-      "as_related_count": 38,
+      "as_related_count": 39,
       "recent_articles": [
+        {
+          "title": "ビットコインが金と同様の値動きに、コインシェアーズ分析",
+          "link": "https://coinpost.jp/?p=735696",
+          "pub_date": "2026-09-05T09:10:08+09:00"
+        },
         {
           "title": "SECアトキンス委員長、CLARITY法案成立に期待。9/15の上院手続きを前に発言",
           "link": "https://www.neweconomy.jp/posts/604941",
@@ -1345,21 +1350,21 @@
           "title": "イーサリアム財務企業の時価総額94億ドル増──ETHがビットコインを2カ月連続で上回る、9月の注視点3つ",
           "link": "https://www.nadanews.com/366486/",
           "pub_date": "2026-09-02T08:00:00+09:00"
-        },
-        {
-          "title": "ビットコイン市場は米財務省のTGA活用報道やNVIDIA好決算で8万ドル回復も、FRB議長のインフレ警戒姿勢を受け下落（仮想通貨市場レポート 8/31 号）",
-          "link": "https://www.neweconomy.jp/features/sbivct/603786",
-          "pub_date": "2026-08-31T18:42:03+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:19.875540+09:00",
-      "last_seen": "2026-09-04T10:43:41.806318+09:00"
+      "last_seen": "2026-09-05T10:42:03.760389+09:00"
     },
     "CryptoQuant": {
-      "article_count": 39,
-      "as_main_count": 26,
+      "article_count": 40,
+      "as_main_count": 27,
       "as_related_count": 13,
       "recent_articles": [
+        {
+          "title": "ビットコインは「強気の冷却」局面へ──8万ドル回復の裏で現物需要が失速、上昇はショートカバー主導【エックスウィン】",
+          "link": "https://www.nadanews.com/366989/",
+          "pub_date": "2026-09-05T06:00:00+09:00"
+        },
         {
           "title": "ビットコインは「デジタルゴールド」になったのか──金との相関が6年ぶり高水準、40兆ドル債務が変える市場構造【エックスウィン】",
           "link": "https://www.nadanews.com/364513/",
@@ -1379,21 +1384,31 @@
           "title": "9月利上げ観測はビットコインにどう影響するか──ウォーシュ氏のタカ派発言が財務省の流動性支援期待を打ち消す【価格分析】",
           "link": "https://www.nadanews.com/366295/",
           "pub_date": "2026-09-01T10:16:36+09:00"
-        },
-        {
-          "title": "米国マネーが戻ってきた？ ビットコイン「Coinbaseプレミアム」が約100日ぶりにプラス圏へ【エックスウィン】",
-          "link": "https://www.nadanews.com/366139/",
-          "pub_date": "2026-08-30T06:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:29.635286+09:00",
-      "last_seen": "2026-09-04T10:40:36.102361+09:00"
+      "last_seen": "2026-09-05T10:41:08.374293+09:00"
     },
     "イーサリアム": {
-      "article_count": 59,
-      "as_main_count": 13,
-      "as_related_count": 46,
+      "article_count": 62,
+      "as_main_count": 14,
+      "as_related_count": 48,
       "recent_articles": [
+        {
+          "title": "国際決済銀行、XRP台帳を使ったデータ検証プロトタイプで論文公開",
+          "link": "https://coinpost.jp/?p=735563",
+          "pub_date": "2026-09-04T13:45:37+09:00"
+        },
+        {
+          "title": "ロビンフッドチェーン、4日夜約14分のブロック生成障害が発生",
+          "link": "https://coinpost.jp/?p=735698",
+          "pub_date": "2026-09-05T06:40:13+09:00"
+        },
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
         {
           "title": "スタンダードチャータード、UAEで仮想通貨現物取引を提供開始",
           "link": "https://coinpost.jp/?p=735482",
@@ -1403,25 +1418,10 @@
           "title": "ビットコイン8月25%高も取引数は半年ぶり低水準──強気か弱気か【価格分析】",
           "link": "https://www.nadanews.com/366806/",
           "pub_date": "2026-09-04T09:00:00+09:00"
-        },
-        {
-          "title": "リミックスポイント、保有中のアルトコイン4銘柄を全売却",
-          "link": "https://coinpost.jp/?p=734815",
-          "pub_date": "2026-09-02T13:47:15+09:00"
-        },
-        {
-          "title": "ビットコイン、監査性・所有分布などで高評価 主要3銘柄の分散性調査",
-          "link": "https://coinpost.jp/?p=734974",
-          "pub_date": "2026-09-02T14:15:56+09:00"
-        },
-        {
-          "title": "コインベース、カナダで規制準拠の仮想通貨先物取引を提供開始",
-          "link": "https://coinpost.jp/?p=735168",
-          "pub_date": "2026-09-03T10:10:20+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:29.635286+09:00",
-      "last_seen": "2026-09-04T10:42:15.585625+09:00"
+      "last_seen": "2026-09-05T10:42:55.703753+09:00"
     },
     "エックスウィン": {
       "article_count": 40,
@@ -1623,10 +1623,20 @@
       "last_seen": "2026-08-27T14:27:17.111465+09:00"
     },
     "YouTube": {
-      "article_count": 26,
+      "article_count": 28,
       "as_main_count": 0,
-      "as_related_count": 26,
+      "as_related_count": 28,
       "recent_articles": [
+        {
+          "title": "マトリックス法によるテクニカル分析（2026/9/4）上昇トレンド転換へ「産みの苦しみ」【楽天ウォレット】",
+          "link": "https://www.nadanews.com/366978/",
+          "pub_date": "2026-09-04T17:25:00+09:00"
+        },
+        {
+          "title": "ビットコインは「強気の冷却」局面へ──8万ドル回復の裏で現物需要が失速、上昇はショートカバー主導【エックスウィン】",
+          "link": "https://www.nadanews.com/366989/",
+          "pub_date": "2026-09-05T06:00:00+09:00"
+        },
         {
           "title": "ビットコインETF「30億ドルの買い」は誰だったのか──9日間の資金流入が突然止まった理由【エックスウィン】",
           "link": "https://www.nadanews.com/366250/",
@@ -1641,54 +1651,44 @@
           "title": "マトリックス法によるテクニカル分析（2026/8/28）上昇継続か、一旦調整か、今は五分五分【楽天ウォレット】",
           "link": "https://www.nadanews.com/366004/",
           "pub_date": "2026-08-28T18:51:44+09:00"
-        },
-        {
-          "title": "メタプラネットCEO「ビットコインは底を打った」──Bitcoin Asia基調講演",
-          "link": "https://www.nadanews.com/366026/",
-          "pub_date": "2026-08-28T20:39:01+09:00"
-        },
-        {
-          "title": "ビットコイン戻り高値、いよいよジャクソンホール本番へ【楽天ウォレットDaily Report】",
-          "link": "https://www.nadanews.com/365971/",
-          "pub_date": "2026-08-28T13:48:21+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:58.753545+09:00",
-      "last_seen": "2026-09-01T11:19:14.212733+09:00"
+      "last_seen": "2026-09-05T10:41:43.605934+09:00"
     },
     "SBI VCトレード": {
-      "article_count": 41,
-      "as_main_count": 9,
-      "as_related_count": 32,
+      "article_count": 45,
+      "as_main_count": 12,
+      "as_related_count": 33,
       "recent_articles": [
+        {
+          "title": "SBI VCトレード、「アプトス（APT）・イーサリアムクラシック（ETC）・オアシス（OAS）」取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605211",
+          "pub_date": "2026-09-04T14:38:47+09:00"
+        },
+        {
+          "title": "ビットポイント、BNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605219",
+          "pub_date": "2026-09-04T14:50:55+09:00"
+        },
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
+        {
+          "title": "SBI VCトレードとビットポイント、計9銘柄の取扱い廃止へ",
+          "link": "https://coinpost.jp/?p=735603",
+          "pub_date": "2026-09-04T13:15:26+09:00"
+        },
         {
           "title": "ビットポイント、暗号資産の「つみたて」10月終了へ、VCTRADE統合に伴い",
           "link": "https://www.neweconomy.jp/posts/604965",
           "pub_date": "2026-09-03T17:02:30+09:00"
-        },
-        {
-          "title": "【9/3話題】三菱UFJアセットらがProgmatと国内初の「トークン化投信」設定、ロビンフッドチェーンがDEX取引高15億ドル突破など（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/605021",
-          "pub_date": "2026-09-03T22:15:36+09:00"
-        },
-        {
-          "title": "SBI VCトレード、ステーキング報酬を円ステーブルコイン「JPYSC」で受取可能に",
-          "link": "https://www.neweconomy.jp/posts/604644",
-          "pub_date": "2026-09-02T17:23:55+09:00"
-        },
-        {
-          "title": "【9/2話題】SBI VCトレードでステーキング報酬がJPYSCで受取可能に、リポが保有アルトコイン全売却、大手金融機関21社がステーブルコイン事業で新会社など（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/604681",
-          "pub_date": "2026-09-02T22:37:41+09:00"
-        },
-        {
-          "title": "【9/1話題】金融庁が暗号資産レンディング「IZAKA-YA」に警告、メルカリでソラナ（SOL）取扱開始、BIP-110で分岐の少数派チェーン再始動など（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/604445",
-          "pub_date": "2026-09-01T23:38:40+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:58.753545+09:00",
-      "last_seen": "2026-09-04T10:43:22.089493+09:00"
+      "last_seen": "2026-09-05T10:44:21.128631+09:00"
     },
     "Bitcoin Security Consortium": {
       "article_count": 1,
@@ -1757,10 +1757,15 @@
       "last_seen": "2026-08-25T09:34:45.284238+09:00"
     },
     "Base": {
-      "article_count": 29,
+      "article_count": 30,
       "as_main_count": 2,
-      "as_related_count": 27,
+      "as_related_count": 28,
       "recent_articles": [
+        {
+          "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+          "link": "https://www.neweconomy.jp/posts/605287",
+          "pub_date": "2026-09-04T17:15:34+09:00"
+        },
         {
           "title": "Pump[.]funがHyperEVM対応、アプリからUSDCでトークン取引可能に",
           "link": "https://www.neweconomy.jp/posts/603490",
@@ -1780,15 +1785,10 @@
           "title": "Liskチェーン、10月末に閉鎖へ",
           "link": "https://www.nadanews.com/365757/",
           "pub_date": "2026-08-27T09:49:48+09:00"
-        },
-        {
-          "title": "JPモルガン、独自ステーブルコイン発行を検討＝WSJ",
-          "link": "https://www.nadanews.com/365785/",
-          "pub_date": "2026-08-27T13:06:31+09:00"
         }
       ],
       "first_seen": "2026-07-25T10:24:58.753545+09:00",
-      "last_seen": "2026-08-29T13:35:11.836678+09:00"
+      "last_seen": "2026-09-05T10:43:44.578461+09:00"
     },
     "ユニスワップラボ": {
       "article_count": 2,
@@ -1838,10 +1838,15 @@
       "last_seen": "2026-07-25T10:24:58.753545+09:00"
     },
     "レボリュート": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "【8/28話題】SBIがインドネシア投資大手アジャイブとデジタル資産で連携、CZがBTC時価総額が次の強気相場で金を上回る可能性言及など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/603533",
@@ -1854,7 +1859,7 @@
         }
       ],
       "first_seen": "2026-07-25T10:24:58.753545+09:00",
-      "last_seen": "2026-08-29T13:34:29.100829+09:00"
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
     },
     "ノタベネ": {
       "article_count": 1,
@@ -2407,10 +2412,15 @@
       "last_seen": "2026-09-04T10:43:41.806318+09:00"
     },
     "財務省": {
-      "article_count": 11,
+      "article_count": 12,
       "as_main_count": 3,
-      "as_related_count": 8,
+      "as_related_count": 9,
       "recent_articles": [
+        {
+          "title": "全米保安官協会が中立表明、クラリティー法案の上院採決に追い風か",
+          "link": "https://coinpost.jp/?p=735700",
+          "pub_date": "2026-09-05T05:50:24+09:00"
+        },
         {
           "title": "ビットコイン、8万1000ドル突破──FRB理事「据え置き」示唆とドル安を受けて",
           "link": "https://www.nadanews.com/366844/",
@@ -2430,15 +2440,10 @@
           "title": "株を買ったのに、なぜ受け取るのは2日後なのか──「T+2」で考えたオンチェーン金融【編集長コラム】",
           "link": "https://www.nadanews.com/366099/",
           "pub_date": "2026-08-30T10:00:00+09:00"
-        },
-        {
-          "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
-          "link": "https://www.nadanews.com/365558/",
-          "pub_date": "2026-08-26T08:30:00+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:10.458149+09:00",
-      "last_seen": "2026-09-04T10:40:08.668415+09:00"
+      "last_seen": "2026-09-05T10:42:35.953702+09:00"
     },
     "日本経済新聞": {
       "article_count": 10,
@@ -2550,10 +2555,15 @@
       "last_seen": "2026-07-26T10:27:24.171321+09:00"
     },
     "Bitwise": {
-      "article_count": 13,
+      "article_count": 14,
       "as_main_count": 7,
-      "as_related_count": 6,
+      "as_related_count": 7,
       "recent_articles": [
+        {
+          "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+          "link": "https://www.neweconomy.jp/posts/605287",
+          "pub_date": "2026-09-04T17:15:34+09:00"
+        },
         {
           "title": "【9/2話題】SBI VCトレードでステーキング報酬がJPYSCで受取可能に、リポが保有アルトコイン全売却、大手金融機関21社がステーブルコイン事業で新会社など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/604681",
@@ -2573,21 +2583,21 @@
           "title": "ハッシュキーエクスチェンジ、フランクリン・テンプルトンのトークン化MMF「grBENJI」提供開始",
           "link": "https://www.neweconomy.jp/posts/602645",
           "pub_date": "2026-08-27T12:20:27+09:00"
-        },
-        {
-          "title": "SOL現物ETF、6日連続の資金流入──累計は過去最高の12億ドル超に",
-          "link": "https://www.nadanews.com/365561/",
-          "pub_date": "2026-08-26T08:45:00+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:24.171321+09:00",
-      "last_seen": "2026-09-03T10:48:42.873244+09:00"
+      "last_seen": "2026-09-05T10:43:44.578461+09:00"
     },
     "Ethereum": {
-      "article_count": 56,
+      "article_count": 57,
       "as_main_count": 6,
-      "as_related_count": 50,
+      "as_related_count": 51,
       "recent_articles": [
+        {
+          "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+          "link": "https://www.neweconomy.jp/posts/605287",
+          "pub_date": "2026-09-04T17:15:34+09:00"
+        },
         {
           "title": "ロビンフッド・チェーン、日次DEX取引高15億ドル突破、ミームコイン需要で収益も急増",
           "link": "https://www.neweconomy.jp/posts/604918",
@@ -2607,15 +2617,10 @@
           "title": "ロビンフッドとFomo、ミームコインのクレカ購入に本人確認不要か NY州が調査",
           "link": "https://coinpost.jp/?p=734800",
           "pub_date": "2026-09-02T08:20:43+09:00"
-        },
-        {
-          "title": "Pump[.]funがHyperEVM対応、アプリからUSDCでトークン取引可能に",
-          "link": "https://www.neweconomy.jp/posts/603490",
-          "pub_date": "2026-08-28T20:22:03+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:31.192786+09:00",
-      "last_seen": "2026-09-04T10:43:54.809732+09:00"
+      "last_seen": "2026-09-05T10:43:44.578461+09:00"
     },
     "Polymarket": {
       "article_count": 51,
@@ -2686,10 +2691,15 @@
       "last_seen": "2026-09-04T10:43:54.809732+09:00"
     },
     "TradingView": {
-      "article_count": 20,
+      "article_count": 21,
       "as_main_count": 2,
-      "as_related_count": 18,
+      "as_related_count": 19,
       "recent_articles": [
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
         {
           "title": "イラン情勢の緊迫化に伴う原油価格の40日ぶり高値を受け、ビットコインの上昇が失速【価格分析】",
           "link": "https://www.nadanews.com/366578/",
@@ -2709,15 +2719,10 @@
           "title": "9月利上げ観測はビットコインにどう影響するか──ウォーシュ氏のタカ派発言が財務省の流動性支援期待を打ち消す【価格分析】",
           "link": "https://www.nadanews.com/366295/",
           "pub_date": "2026-09-01T10:16:36+09:00"
-        },
-        {
-          "title": "ソラナが8月に約50％上昇、ビットコインとイーサリアムを凌駕【価格分析】",
-          "link": "https://www.nadanews.com/366040/",
-          "pub_date": "2026-08-28T19:58:39+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:31.192786+09:00",
-      "last_seen": "2026-09-03T10:46:31.103872+09:00"
+      "last_seen": "2026-09-05T10:41:37.677307+09:00"
     },
     "FOMC": {
       "article_count": 9,
@@ -2848,10 +2853,15 @@
       "last_seen": "2026-07-26T10:27:31.192786+09:00"
     },
     "米連邦準備制度理事会": {
-      "article_count": 15,
+      "article_count": 16,
       "as_main_count": 4,
-      "as_related_count": 11,
+      "as_related_count": 12,
       "recent_articles": [
+        {
+          "title": "BTC（ビットコイン）はECB理事会と米CPIを控え方向感を探る展開か、中東緊迫化による原油高が重石【マネックス証券】",
+          "link": "https://www.nadanews.com/366982/",
+          "pub_date": "2026-09-04T18:30:00+09:00"
+        },
         {
           "title": "ビットコインは「デジタルゴールド」になったのか──金との相関が6年ぶり高水準、40兆ドル債務が変える市場構造【エックスウィン】",
           "link": "https://www.nadanews.com/364513/",
@@ -2871,15 +2881,10 @@
           "title": "トム・リー氏、ビットコイン「15万ドル」視野に 機関マネー流入を指摘",
           "link": "https://coinpost.jp/?p=734756",
           "pub_date": "2026-09-01T18:09:43+09:00"
-        },
-        {
-          "title": "ウォーシュ議長、利下げを封印 ビットコインに「高金利長期化」の試練【エックスウィン】",
-          "link": "https://www.nadanews.com/365962/",
-          "pub_date": "2026-08-29T06:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:38.845883+09:00",
-      "last_seen": "2026-09-04T10:40:36.102361+09:00"
+      "last_seen": "2026-09-05T10:41:20.094613+09:00"
     },
     "Coinglass": {
       "article_count": 5,
@@ -2950,10 +2955,15 @@
       "last_seen": "2026-09-01T11:19:14.212733+09:00"
     },
     "Metaplanet": {
-      "article_count": 30,
+      "article_count": 31,
       "as_main_count": 13,
-      "as_related_count": 17,
+      "as_related_count": 18,
       "recent_articles": [
+        {
+          "title": "ビットコイン8万ドル再突破／トランプ関連コイン損失7470億円【週末に読みたい厳選5本_相場編】",
+          "link": "https://www.nadanews.com/366913/",
+          "pub_date": "2026-09-05T08:00:00+09:00"
+        },
         {
           "title": "ビットコイン8万ドル台回復、日米仮想通貨関連株連れ高",
           "link": "https://coinpost.jp/?p=735526",
@@ -2973,15 +2983,10 @@
           "title": "ビットフィネックス証券、メタプラネット等株連動商品5種上場",
           "link": "https://coinpost.jp/?p=735064",
           "pub_date": "2026-09-02T17:30:00+09:00"
-        },
-        {
-          "title": "メタプラネット株連動のデジタル証券、海外の認可取引所に初上場",
-          "link": "https://www.nadanews.com/366569/",
-          "pub_date": "2026-09-02T15:07:33+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:46.708258+09:00",
-      "last_seen": "2026-09-04T10:41:01.974909+09:00"
+      "last_seen": "2026-09-05T10:40:50.525086+09:00"
     },
     "ギャラクシー・デジタル": {
       "article_count": 7,
@@ -3052,10 +3057,15 @@
       "last_seen": "2026-09-04T10:41:01.974909+09:00"
     },
     "グレースケール": {
-      "article_count": 18,
+      "article_count": 19,
       "as_main_count": 9,
-      "as_related_count": 9,
+      "as_related_count": 10,
       "recent_articles": [
+        {
+          "title": "ジーキャッシュが約10年ぶりの高値に、時価総額は一時10位突入",
+          "link": "https://coinpost.jp/?p=735699",
+          "pub_date": "2026-09-05T06:15:22+09:00"
+        },
         {
           "title": "暗号資産業界、新種ETFへの一律な規制を避けるようSECに要請",
           "link": "https://www.nadanews.com/366618/",
@@ -3075,15 +3085,10 @@
           "title": "【8/26話題】政府と日銀が次世代決済インフラ整備へ、ステーブルコインカード決済額は28年に年500億ドルへ、TORICOが2日連続ETH追加取得など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/602515",
           "pub_date": "2026-08-26T21:31:22+09:00"
-        },
-        {
-          "title": "グレースケール、米財務省国債買い戻しは『対症療法』 仮想通貨シフトを予想",
-          "link": "https://coinpost.jp/?p=733575",
-          "pub_date": "2026-08-27T10:15:25+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:46.708258+09:00",
-      "last_seen": "2026-09-03T10:46:05.396406+09:00"
+      "last_seen": "2026-09-05T10:42:29.142918+09:00"
     },
     "米国務省": {
       "article_count": 1,
@@ -3275,10 +3280,20 @@
       "last_seen": "2026-08-04T10:21:17.419559+09:00"
     },
     "X": {
-      "article_count": 74,
+      "article_count": 76,
       "as_main_count": 5,
-      "as_related_count": 69,
+      "as_related_count": 71,
       "recent_articles": [
+        {
+          "title": "ロビンフッド、AMCの株式トークン停止要求を拒否",
+          "link": "https://coinpost.jp/?p=735697",
+          "pub_date": "2026-09-05T07:15:11+09:00"
+        },
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
+          "link": "https://www.nadanews.com/366888/",
+          "pub_date": "2026-09-05T07:00:00+09:00"
+        },
         {
           "title": "SECアトキンス委員長、CLARITY法案成立に期待。9/15の上院手続きを前に発言",
           "link": "https://www.neweconomy.jp/posts/604941",
@@ -3293,20 +3308,10 @@
           "title": "米下院が9月会期短縮、クラリティー法案審議に時間切れの懸念",
           "link": "https://coinpost.jp/?p=735496",
           "pub_date": "2026-09-04T06:30:56+09:00"
-        },
-        {
-          "title": "コインベース、米国株式の無期限先物提供を申請 広がる需要受け",
-          "link": "https://coinpost.jp/?p=735493",
-          "pub_date": "2026-09-04T07:45:49+09:00"
-        },
-        {
-          "title": "Coinbase、米国で株式パーペチュアルの提供目指す",
-          "link": "https://www.nadanews.com/366842/",
-          "pub_date": "2026-09-04T08:30:00+09:00"
         }
       ],
       "first_seen": "2026-07-27T10:44:51.532121+09:00",
-      "last_seen": "2026-09-04T10:43:41.806318+09:00"
+      "last_seen": "2026-09-05T10:42:16.386118+09:00"
     },
     "Postmodern Studio": {
       "article_count": 1,
@@ -3830,10 +3835,15 @@
       "last_seen": "2026-08-03T10:29:08.140085+09:00"
     },
     "米連邦公開市場委員会": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 0,
-      "as_related_count": 3,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "BTC（ビットコイン）はECB理事会と米CPIを控え方向感を探る展開か、中東緊迫化による原油高が重石【マネックス証券】",
+          "link": "https://www.nadanews.com/366982/",
+          "pub_date": "2026-09-04T18:30:00+09:00"
+        },
         {
           "title": "ビットコインはボラティリティ高い展開、「地政学リスクの緩和による買い戻し」と「半導体企業の見通し悪化および長期金利上昇による下押し圧力」で（仮想通貨市場レポート 8/3 号）",
           "link": "https://www.neweconomy.jp/features/sbivct/597309",
@@ -3851,7 +3861,7 @@
         }
       ],
       "first_seen": "2026-07-27T10:45:47.393146+09:00",
-      "last_seen": "2026-08-04T10:21:17.419559+09:00"
+      "last_seen": "2026-09-05T10:41:20.094613+09:00"
     },
     "Fanatics": {
       "article_count": 1,
@@ -4101,10 +4111,15 @@
       "last_seen": "2026-07-28T10:19:47.490386+09:00"
     },
     "VanEck": {
-      "article_count": 6,
+      "article_count": 7,
       "as_main_count": 1,
-      "as_related_count": 5,
+      "as_related_count": 6,
       "recent_articles": [
+        {
+          "title": "豪ASIC、デジタル資産事業者にライセンス申請を改めて呼びかけ",
+          "link": "https://www.neweconomy.jp/posts/605261",
+          "pub_date": "2026-09-04T16:51:33+09:00"
+        },
         {
           "title": "ビットコインETF「30億ドルの買い」は誰だったのか──9日間の資金流入が突然止まった理由【エックスウィン】",
           "link": "https://www.nadanews.com/366250/",
@@ -4124,15 +4139,10 @@
           "title": "ハッシュデックス、米国初のビットコイン現物ETF閉鎖事例",
           "link": "https://coinpost.jp/?p=729843",
           "pub_date": "2026-08-05T06:40:50+09:00"
-        },
-        {
-          "title": "Hashdex、ビットコイン現物ETFを閉鎖へ",
-          "link": "https://www.nadanews.com/362520/",
-          "pub_date": "2026-08-05T08:30:00+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:19:47.490386+09:00",
-      "last_seen": "2026-09-01T11:19:14.212733+09:00"
+      "last_seen": "2026-09-05T10:44:01.811294+09:00"
     },
     "Apollo": {
       "article_count": 2,
@@ -4625,10 +4635,15 @@
       "last_seen": "2026-07-28T10:20:09.624466+09:00"
     },
     "ハイパーリキッド": {
-      "article_count": 19,
-      "as_main_count": 6,
+      "article_count": 20,
+      "as_main_count": 7,
       "as_related_count": 13,
       "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "ラザルス関連ウォレット、ハイパーリキッド経由で3000万ドル超を移動",
           "link": "https://coinpost.jp/?p=734904",
@@ -4648,15 +4663,10 @@
           "title": "【8/26話題】政府と日銀が次世代決済インフラ整備へ、ステーブルコインカード決済額は28年に年500億ドルへ、TORICOが2日連続ETH追加取得など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/602515",
           "pub_date": "2026-08-26T21:31:22+09:00"
-        },
-        {
-          "title": "ハイパーリキッド関連団体、米CFTCにエネルギー無期限先物解禁を要請",
-          "link": "https://coinpost.jp/?p=733522",
-          "pub_date": "2026-08-27T06:20:26+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:20:09.624466+09:00",
-      "last_seen": "2026-09-03T10:48:09.587633+09:00"
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
     },
     "マイクロソフト": {
       "article_count": 2,
@@ -4697,10 +4707,20 @@
       "last_seen": "2026-08-08T09:44:32.144694+09:00"
     },
     "アップル": {
-      "article_count": 6,
+      "article_count": 8,
       "as_main_count": 2,
-      "as_related_count": 4,
+      "as_related_count": 6,
       "recent_articles": [
+        {
+          "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+          "link": "https://www.neweconomy.jp/posts/605306",
+          "pub_date": "2026-09-04T17:28:17+09:00"
+        },
+        {
+          "title": "バイナンス、MiCAライセンス未取得でもEU事業継続＝報道",
+          "link": "https://coinpost.jp/?p=735695",
+          "pub_date": "2026-09-05T10:15:05+09:00"
+        },
         {
           "title": "コインベース、米国株式の無期限先物提供を申請 広がる需要受け",
           "link": "https://coinpost.jp/?p=735493",
@@ -4715,20 +4735,10 @@
           "title": "クラーケン運営元ペイワード、脆弱性対策にクロード導入",
           "link": "https://coinpost.jp/?p=731491",
           "pub_date": "2026-08-18T10:50:30+09:00"
-        },
-        {
-          "title": "macOS「画面共有」脆弱性が悪用され不正マイニング被害、アップルは緊急パッチ公開",
-          "link": "https://coinpost.jp/?p=731108",
-          "pub_date": "2026-08-17T09:38:21+09:00"
-        },
-        {
-          "title": "3名の原告がアップルを提訴、ビットコインウォレットアプリで合計3億円相当が盗難と主張",
-          "link": "https://coinpost.jp/?p=728260",
-          "pub_date": "2026-07-29T09:10:12+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:20:09.624466+09:00",
-      "last_seen": "2026-09-04T10:41:40.182907+09:00"
+      "last_seen": "2026-09-05T10:43:31.322347+09:00"
     },
     "アマゾン": {
       "article_count": 3,
@@ -4807,10 +4817,15 @@
       "last_seen": "2026-08-11T09:46:57.003175+09:00"
     },
     "ロイター": {
-      "article_count": 21,
+      "article_count": 22,
       "as_main_count": 1,
-      "as_related_count": 20,
+      "as_related_count": 21,
       "recent_articles": [
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
         {
           "title": "スタンダードチャータード、UAEで仮想通貨現物取引を提供開始",
           "link": "https://coinpost.jp/?p=735482",
@@ -4830,15 +4845,10 @@
           "title": "BIS総支配人、ステーブルコインは決済に不向きと発言＝報道",
           "link": "https://www.nadanews.com/366183/",
           "pub_date": "2026-08-31T07:45:00+09:00"
-        },
-        {
-          "title": "株を買ったのに、なぜ受け取るのは2日後なのか──「T+2」で考えたオンチェーン金融【編集長コラム】",
-          "link": "https://www.nadanews.com/366099/",
-          "pub_date": "2026-08-30T10:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:20:25.579460+09:00",
-      "last_seen": "2026-09-04T10:42:15.585625+09:00"
+      "last_seen": "2026-09-05T10:41:37.677307+09:00"
     },
     "全米警察友愛会": {
       "article_count": 2,
@@ -5020,10 +5030,15 @@
       "last_seen": "2026-08-26T09:33:43.029244+09:00"
     },
     "Amazon": {
-      "article_count": 6,
+      "article_count": 7,
       "as_main_count": 0,
-      "as_related_count": 6,
+      "as_related_count": 7,
       "recent_articles": [
+        {
+          "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
+          "link": "https://www.neweconomy.jp/posts/605198",
+          "pub_date": "2026-09-04T14:21:20+09:00"
+        },
         {
           "title": "Coinbase、米国で株式パーペチュアルの提供目指す",
           "link": "https://www.nadanews.com/366842/",
@@ -5043,15 +5058,10 @@
           "title": "ビットコイン反発も円建て横ばい、テック決算で半導体株反発【楽天ウォレットDaily Report】",
           "link": "https://www.nadanews.com/361956/",
           "pub_date": "2026-07-31T12:55:30+09:00"
-        },
-        {
-          "title": "米クラリティ法案の成立期待低下が市場全体のセンチメント冷やす、今週は決算多数とFOMCでボラティリティ拡大に警戒（仮想通貨市場レポート 7/27 号）",
-          "link": "https://www.neweconomy.jp/features/sbivct/595037",
-          "pub_date": "2026-07-27T16:02:36+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:20:25.579460+09:00",
-      "last_seen": "2026-09-04T10:40:01.905759+09:00"
+      "last_seen": "2026-09-05T10:44:27.717811+09:00"
     },
     "Adobe Stock": {
       "article_count": 19,
@@ -5183,10 +5193,15 @@
       "last_seen": "2026-07-28T10:21:29.822549+09:00"
     },
     "米商品先物取引委員会": {
-      "article_count": 25,
+      "article_count": 26,
       "as_main_count": 7,
-      "as_related_count": 18,
+      "as_related_count": 19,
       "recent_articles": [
+        {
+          "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+          "link": "https://www.neweconomy.jp/posts/605306",
+          "pub_date": "2026-09-04T17:28:17+09:00"
+        },
         {
           "title": "米コインベース、カナダで暗号資産の無期限先物など提供開始",
           "link": "https://www.neweconomy.jp/posts/604995",
@@ -5206,15 +5221,10 @@
           "title": "コインベース、カナダで規制準拠の仮想通貨先物取引を提供開始",
           "link": "https://coinpost.jp/?p=735168",
           "pub_date": "2026-09-03T10:10:20+09:00"
-        },
-        {
-          "title": "アルパカ、カルシと提携 株式・仮想通貨などの基盤に予測市場追加へ",
-          "link": "https://coinpost.jp/?p=734719",
-          "pub_date": "2026-09-01T17:31:22+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:21:29.822549+09:00",
-      "last_seen": "2026-09-04T10:43:15.477991+09:00"
+      "last_seen": "2026-09-05T10:43:31.322347+09:00"
     },
     "ウォーターストリート・ラブス": {
       "article_count": 1,
@@ -5245,10 +5255,15 @@
       "last_seen": "2026-07-28T10:21:29.822549+09:00"
     },
     "CoinPost": {
-      "article_count": 17,
+      "article_count": 18,
       "as_main_count": 1,
-      "as_related_count": 16,
+      "as_related_count": 17,
       "recent_articles": [
+        {
+          "title": "SBI VCトレードとビットポイント、計9銘柄の取扱い廃止へ",
+          "link": "https://coinpost.jp/?p=735603",
+          "pub_date": "2026-09-04T13:15:26+09:00"
+        },
         {
           "title": "オンド、個別株の無期限先物解禁を米当局に要請",
           "link": "https://coinpost.jp/?p=735149",
@@ -5268,15 +5283,10 @@
           "title": "米仮想通貨推進団体「Stand With Crypto」、中間選挙で下院現職32議員を新たに支持",
           "link": "https://coinpost.jp/?p=733024",
           "pub_date": "2026-08-25T14:30:20+09:00"
-        },
-        {
-          "title": "リップル、XRPレジャーで機関投資家向け融資ファンド始動 XRPは前週比46%超上昇",
-          "link": "https://coinpost.jp/?p=732565",
-          "pub_date": "2026-08-22T09:55:10+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:21:29.822549+09:00",
-      "last_seen": "2026-09-03T10:47:22.314549+09:00"
+      "last_seen": "2026-09-05T10:43:03.883142+09:00"
     },
     "ファナティクス・ベッティング・アンド・ゲーミング": {
       "article_count": 1,
@@ -5669,10 +5679,15 @@
       "last_seen": "2026-08-07T11:07:17.738744+09:00"
     },
     "OpenAI": {
-      "article_count": 6,
+      "article_count": 7,
       "as_main_count": 0,
-      "as_related_count": 6,
+      "as_related_count": 7,
       "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "AIは“お金”を使い始めるのか──エージェント時代の決済・ウォレット・金融インフラ【N.Avenue club 4期1回ラウンドテーブル・レポート】",
           "link": "https://www.nadanews.com/361320/",
@@ -5692,15 +5707,10 @@
           "title": "Nyxとコノエインテリジェンスが業務提携、「Mythos対策」本格始動",
           "link": "https://www.neweconomy.jp/posts/595879",
           "pub_date": "2026-07-29T16:11:04+09:00"
-        },
-        {
-          "title": "AI時代の「人間証明」──Worldの日本トップに元Uber社長の髙橋氏、ステーブルコインに期待も",
-          "link": "https://www.nadanews.com/361252/",
-          "pub_date": "2026-07-28T19:19:01+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:23:01.885861+09:00",
-      "last_seen": "2026-08-11T09:45:56.401026+09:00"
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
     },
     "Anthropic": {
       "article_count": 12,
@@ -6222,10 +6232,20 @@
       "last_seen": "2026-08-24T09:32:41.511482+09:00"
     },
     "PIXTA": {
-      "article_count": 31,
+      "article_count": 33,
       "as_main_count": 0,
-      "as_related_count": 31,
+      "as_related_count": 33,
       "recent_articles": [
+        {
+          "title": "SBI VCトレード、「アプトス（APT）・イーサリアムクラシック（ETC）・オアシス（OAS）」取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605211",
+          "pub_date": "2026-09-04T14:38:47+09:00"
+        },
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        },
         {
           "title": "リミックスポイント、保有アルトコイン全売却で約1.18億円の売却益",
           "link": "https://www.neweconomy.jp/posts/604570",
@@ -6240,20 +6260,10 @@
           "title": "フォゴ財団への侵害で4億FOGO流出、メインネット一時停止",
           "link": "https://www.neweconomy.jp/posts/604210",
           "pub_date": "2026-09-01T18:17:19+09:00"
-        },
-        {
-          "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ",
-          "link": "https://www.neweconomy.jp/posts/604450",
-          "pub_date": "2026-09-01T20:33:50+09:00"
-        },
-        {
-          "title": "バイナンス創業者CZ、「ビットコイン（BTC）時価総額が次の強気相場で金を上回る可能性」に言及",
-          "link": "https://www.neweconomy.jp/posts/603153",
-          "pub_date": "2026-08-28T13:44:39+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:24:11.167023+09:00",
-      "last_seen": "2026-09-03T10:49:45.651173+09:00"
+      "last_seen": "2026-09-05T10:44:21.128631+09:00"
     },
     "鎌倉インターナショナル株式会社": {
       "article_count": 1,
@@ -6327,10 +6337,15 @@
       "last_seen": "2026-08-25T09:35:39.210105+09:00"
     },
     "金融委員会": {
-      "article_count": 2,
-      "as_main_count": 0,
+      "article_count": 3,
+      "as_main_count": 1,
       "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "韓国、トークン化証券制度27年2月施行へ",
+          "link": "https://coinpost.jp/?p=735616",
+          "pub_date": "2026-09-04T14:15:11+09:00"
+        },
         {
           "title": "韓国、海外の未申告暗号資産事業者サイト遮断の審議基準を協議＝報道",
           "link": "https://www.neweconomy.jp/posts/597794",
@@ -6343,7 +6358,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:24:30.968764+09:00",
-      "last_seen": "2026-08-05T10:24:53.263179+09:00"
+      "last_seen": "2026-09-05T10:42:48.982872+09:00"
     },
     "Alphabet": {
       "article_count": 3,
@@ -6370,10 +6385,15 @@
       "last_seen": "2026-08-26T09:33:43.029244+09:00"
     },
     "CME": {
-      "article_count": 19,
+      "article_count": 20,
       "as_main_count": 2,
-      "as_related_count": 17,
+      "as_related_count": 18,
       "recent_articles": [
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
         {
           "title": "ビットコイン8万ドル突破、米FRB高官発言で利上げ観測後退",
           "link": "https://coinpost.jp/?p=735497",
@@ -6393,15 +6413,10 @@
           "title": "9月利上げ観測はビットコインにどう影響するか──ウォーシュ氏のタカ派発言が財務省の流動性支援期待を打ち消す【価格分析】",
           "link": "https://www.nadanews.com/366295/",
           "pub_date": "2026-09-01T10:16:36+09:00"
-        },
-        {
-          "title": "ビットコイン戻り高値、いよいよジャクソンホール本番へ【楽天ウォレットDaily Report】",
-          "link": "https://www.nadanews.com/365971/",
-          "pub_date": "2026-08-28T13:48:21+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:24:30.968764+09:00",
-      "last_seen": "2026-09-04T10:42:08.751705+09:00"
+      "last_seen": "2026-09-05T10:41:37.677307+09:00"
     },
     "ビットチャット": {
       "article_count": 1,
@@ -6789,10 +6804,15 @@
       "last_seen": "2026-07-31T10:33:25.960543+09:00"
     },
     "Phantom": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 2,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
+          "link": "https://www.nadanews.com/366888/",
+          "pub_date": "2026-09-05T07:00:00+09:00"
+        },
         {
           "title": "ウォレットのファントム、スイのサポートを9月24日終了へ",
           "link": "https://coinpost.jp/?p=732755",
@@ -6810,7 +6830,7 @@
         }
       ],
       "first_seen": "2026-07-28T10:25:04.154570+09:00",
-      "last_seen": "2026-08-25T09:34:09.497638+09:00"
+      "last_seen": "2026-09-05T10:41:01.011844+09:00"
     },
     "Monad": {
       "article_count": 7,
@@ -7060,10 +7080,15 @@
       "last_seen": "2026-08-18T09:33:24.026894+09:00"
     },
     "金融安定理事会": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 0,
-      "as_related_count": 4,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        },
         {
           "title": "スタンダードチャータード、UAEで仮想通貨現物取引を提供開始",
           "link": "https://coinpost.jp/?p=735482",
@@ -7086,7 +7111,7 @@
         }
       ],
       "first_seen": "2026-07-29T10:21:09.011466+09:00",
-      "last_seen": "2026-09-04T10:42:15.585625+09:00"
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
     },
     "Morgan Stanley Investment Management": {
       "article_count": 1,
@@ -7460,10 +7485,15 @@
       "last_seen": "2026-09-02T10:40:36.876994+09:00"
     },
     "SoFi": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        },
         {
           "title": "BlackRockやFidelityらウォール街大手、クラリティ法案支持を表明",
           "link": "https://www.nadanews.com/361538/",
@@ -7471,7 +7501,7 @@
         }
       ],
       "first_seen": "2026-07-29T10:21:48.422700+09:00",
-      "last_seen": "2026-07-29T10:21:48.422700+09:00"
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
     },
     "JPMorgan Chase": {
       "article_count": 7,
@@ -7742,10 +7772,15 @@
       "last_seen": "2026-08-29T13:32:10.096013+09:00"
     },
     "Arbitrum": {
-      "article_count": 13,
+      "article_count": 14,
       "as_main_count": 0,
-      "as_related_count": 13,
+      "as_related_count": 14,
       "recent_articles": [
+        {
+          "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+          "link": "https://www.neweconomy.jp/posts/605287",
+          "pub_date": "2026-09-04T17:15:34+09:00"
+        },
         {
           "title": "ロビンフッド・チェーン、日次DEX取引高15億ドル突破、ミームコイン需要で収益も急増",
           "link": "https://www.neweconomy.jp/posts/604918",
@@ -7765,15 +7800,10 @@
           "title": "マヤチェーンで約170万ドル流出、ネットワーク停止。複数の不具合が連鎖",
           "link": "https://www.neweconomy.jp/posts/601194",
           "pub_date": "2026-08-21T16:29:56+09:00"
-        },
-        {
-          "title": "ワイオミング州発行ステーブルトークン「FRNT」、クロスチェーン基盤をCCIPへ移行。LayerZeroから切り替え",
-          "link": "https://www.neweconomy.jp/posts/600941",
-          "pub_date": "2026-08-20T16:37:54+09:00"
         }
       ],
       "first_seen": "2026-07-29T10:22:15.025551+09:00",
-      "last_seen": "2026-09-04T10:43:54.809732+09:00"
+      "last_seen": "2026-09-05T10:43:44.578461+09:00"
     },
     "ZKsync": {
       "article_count": 1,
@@ -8013,10 +8043,15 @@
       "last_seen": "2026-07-29T10:22:44.468201+09:00"
     },
     "ブルームバーグ": {
-      "article_count": 15,
+      "article_count": 16,
       "as_main_count": 2,
-      "as_related_count": 13,
+      "as_related_count": 14,
       "recent_articles": [
+        {
+          "title": "バイナンス、MiCAライセンス未取得でもEU事業継続＝報道",
+          "link": "https://coinpost.jp/?p=735695",
+          "pub_date": "2026-09-05T10:15:05+09:00"
+        },
         {
           "title": "ストラテジーCEO、「ビットコイン売却は戦略的取引」と説明",
           "link": "https://coinpost.jp/?p=735130",
@@ -8036,15 +8071,10 @@
           "title": "ビットコインと現物ETFの交換が増加傾向に、ブラックロックの最低額引き下げなどが背景＝ブルームバーグ",
           "link": "https://coinpost.jp/?p=733534",
           "pub_date": "2026-08-27T08:20:05+09:00"
-        },
-        {
-          "title": "フランクリン・テンプルトン、トークン化資産を伝統的ファンドに組み入れへ",
-          "link": "https://www.neweconomy.jp/posts/601122",
-          "pub_date": "2026-08-21T13:04:49+09:00"
         }
       ],
       "first_seen": "2026-07-29T10:22:51.002428+09:00",
-      "last_seen": "2026-09-03T10:47:47.461079+09:00"
+      "last_seen": "2026-09-05T10:41:50.758352+09:00"
     },
     "Zcash": {
       "article_count": 7,
@@ -8303,10 +8333,15 @@
       "last_seen": "2026-07-31T10:29:06.595905+09:00"
     },
     "SBIグループ": {
-      "article_count": 18,
+      "article_count": 19,
       "as_main_count": 3,
-      "as_related_count": 15,
+      "as_related_count": 16,
       "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "XRPトレジャリー企業エバーノース、米SECの届出書効力発生でナスダック上場へ前進",
           "link": "https://coinpost.jp/?p=734005",
@@ -8326,15 +8361,10 @@
           "title": "【8/24話題】ナイト（NIGHT）がソニーGのS.BLOXに国内初上場、ファントムのSuiサポート終了へ、ソラナの目標スロット時間が350msに短縮など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/601560",
           "pub_date": "2026-08-24T20:58:19+09:00"
-        },
-        {
-          "title": "【8/21話題】米CFTC委員長の暗号資産等の規制ロードマップ、フランクリンテンプルトンがトークン化資産を伝統的ファンドに組入れなど（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/601316",
-          "pub_date": "2026-08-21T22:31:47+09:00"
         }
       ],
       "first_seen": "2026-07-29T10:23:39.335182+09:00",
-      "last_seen": "2026-08-28T16:22:47.744613+09:00"
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
     },
     "CoinPost株式会社": {
       "article_count": 1,
@@ -8594,10 +8624,15 @@
       "last_seen": "2026-07-29T10:24:02.114958+09:00"
     },
     "XRPL": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "国際決済銀行、XRP台帳を使ったデータ検証プロトタイプで論文公開",
+          "link": "https://coinpost.jp/?p=735563",
+          "pub_date": "2026-09-04T13:45:37+09:00"
+        },
         {
           "title": "リップル、ジロとリクイドに出資 資本市場のトークン化を加速",
           "link": "https://coinpost.jp/?p=729534",
@@ -8610,7 +8645,7 @@
         }
       ],
       "first_seen": "2026-07-29T10:24:02.114958+09:00",
-      "last_seen": "2026-08-04T10:18:43.611676+09:00"
+      "last_seen": "2026-09-05T10:42:55.703753+09:00"
     },
     "ぷらっとホーム": {
       "article_count": 1,
@@ -9167,10 +9202,15 @@
       "last_seen": "2026-07-29T10:24:48.574883+09:00"
     },
     "ペイワード": {
-      "article_count": 7,
-      "as_main_count": 4,
+      "article_count": 8,
+      "as_main_count": 5,
       "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "クラーケン親会社ペイワードとソーファイが提携、仮想通貨市場と銀行サービスを接続へ",
+          "link": "https://coinpost.jp/?p=735532",
+          "pub_date": "2026-09-04T10:55:23+09:00"
+        },
         {
           "title": "【9/3話題】三菱UFJアセットらがProgmatと国内初の「トークン化投信」設定、ロビンフッドチェーンがDEX取引高15億ドル突破など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/605021",
@@ -9190,15 +9230,10 @@
           "title": "【8/19話題】 スラッシュのSVLがコイントレードに上場、ローソンでステーブルコイン決済実証第3弾実施へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/600800",
           "pub_date": "2026-08-20T00:12:09+09:00"
-        },
-        {
-          "title": "ペイワード、アンソロピックの「Claude Mythos 5」をサイバー防御に導入",
-          "link": "https://www.neweconomy.jp/posts/600505",
-          "pub_date": "2026-08-18T18:25:54+09:00"
         }
       ],
       "first_seen": "2026-07-29T10:24:55.359048+09:00",
-      "last_seen": "2026-09-04T10:43:02.829818+09:00"
+      "last_seen": "2026-09-05T10:43:16.921301+09:00"
     },
     "マジックラボ": {
       "article_count": 1,
@@ -9367,10 +9402,15 @@
       "last_seen": "2026-07-29T10:25:02.549278+09:00"
     },
     "CoinGecko": {
-      "article_count": 6,
+      "article_count": 7,
       "as_main_count": 2,
-      "as_related_count": 4,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "ジーキャッシュが約10年ぶりの高値に、時価総額は一時10位突入",
+          "link": "https://coinpost.jp/?p=735699",
+          "pub_date": "2026-09-05T06:15:22+09:00"
+        },
         {
           "title": "トランプ関連コインで投資家損失7470億円に＝米市民団体調べ",
           "link": "https://www.nadanews.com/365992/",
@@ -9390,15 +9430,10 @@
           "title": "Upbit取引高が273％急増──韓国の暗号資産市場に資金回帰の兆し",
           "link": "https://www.nadanews.com/365167/",
           "pub_date": "2026-08-24T06:45:00+09:00"
-        },
-        {
-          "title": "クオンタム、1000ETHを約3.1億円で売却──累計売却上限を4375ETHに拡大",
-          "link": "https://www.nadanews.com/361792/",
-          "pub_date": "2026-07-30T21:16:56+09:00"
         }
       ],
       "first_seen": "2026-07-30T10:13:53.907436+09:00",
-      "last_seen": "2026-08-29T13:32:44.327104+09:00"
+      "last_seen": "2026-09-05T10:42:29.142918+09:00"
     },
     "SpaceX": {
       "article_count": 10,
@@ -9459,10 +9494,15 @@
       "last_seen": "2026-08-09T09:44:52.009620+09:00"
     },
     "全米連邦検事補協会": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "全米保安官協会が中立表明、クラリティー法案の上院採決に追い風か",
+          "link": "https://coinpost.jp/?p=735700",
+          "pub_date": "2026-09-05T05:50:24+09:00"
+        },
         {
           "title": "米検察団体、クラリティ法案の変更を提案＝報道",
           "link": "https://www.nadanews.com/361676/",
@@ -9470,13 +9510,18 @@
         }
       ],
       "first_seen": "2026-07-30T10:14:07.299708+09:00",
-      "last_seen": "2026-07-30T10:14:07.299708+09:00"
+      "last_seen": "2026-09-05T10:42:35.953702+09:00"
     },
     "全米地方検事協会": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "全米保安官協会が中立表明、クラリティー法案の上院採決に追い風か",
+          "link": "https://coinpost.jp/?p=735700",
+          "pub_date": "2026-09-05T05:50:24+09:00"
+        },
         {
           "title": "米検察団体、クラリティ法案の変更を提案＝報道",
           "link": "https://www.nadanews.com/361676/",
@@ -9484,13 +9529,18 @@
         }
       ],
       "first_seen": "2026-07-30T10:14:07.299708+09:00",
-      "last_seen": "2026-07-30T10:14:07.299708+09:00"
+      "last_seen": "2026-09-05T10:42:35.953702+09:00"
     },
     "ホワイトハウス": {
-      "article_count": 26,
+      "article_count": 27,
       "as_main_count": 7,
-      "as_related_count": 19,
+      "as_related_count": 20,
       "recent_articles": [
+        {
+          "title": "全米保安官協会が中立表明、クラリティー法案の上院採決に追い風か",
+          "link": "https://coinpost.jp/?p=735700",
+          "pub_date": "2026-09-05T05:50:24+09:00"
+        },
         {
           "title": "トランプ関連コインで投資家損失7470億円に＝米市民団体調べ",
           "link": "https://www.nadanews.com/365992/",
@@ -9510,15 +9560,10 @@
           "title": "ビットコイン大幅上昇、米財務省の長期国債買い戻し拡大表明、米国暗号資産規制の明確化期待、ショート清算等で（仮想通貨市場レポート 8/24 号）",
           "link": "https://www.neweconomy.jp/features/sbivct/601422",
           "pub_date": "2026-08-24T14:21:12+09:00"
-        },
-        {
-          "title": "【速報】ビットコイン、1200万円に回復／メタプラネット、米ナスダック上場企業を買収へ【週末に読みたい相場ニュース】",
-          "link": "https://www.nadanews.com/364891/",
-          "pub_date": "2026-08-22T08:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-30T10:14:07.299708+09:00",
-      "last_seen": "2026-08-29T13:32:44.327104+09:00"
+      "last_seen": "2026-09-05T10:42:35.953702+09:00"
     },
     "Bitstamp": {
       "article_count": 2,
@@ -9749,10 +9794,20 @@
       "last_seen": "2026-09-04T10:39:34.950949+09:00"
     },
     "bitFlyer": {
-      "article_count": 11,
-      "as_main_count": 2,
-      "as_related_count": 9,
+      "article_count": 13,
+      "as_main_count": 3,
+      "as_related_count": 10,
       "recent_articles": [
+        {
+          "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
+          "link": "https://www.neweconomy.jp/posts/605198",
+          "pub_date": "2026-09-04T14:21:20+09:00"
+        },
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "TORICOがイーサリアム追加取得、総取得数2945ETH超に",
           "link": "https://www.neweconomy.jp/posts/603769",
@@ -9767,26 +9822,21 @@
           "title": "ビットバンクとコインチェック、ビットコイン分岐計画めぐり対応に違い",
           "link": "https://www.nadanews.com/364637/",
           "pub_date": "2026-08-19T17:35:04+09:00"
-        },
-        {
-          "title": "ビットフライヤー、ビットコインの「ECX」ハードフォークへの対応方針公表",
-          "link": "https://www.neweconomy.jp/posts/600149",
-          "pub_date": "2026-08-17T16:36:57+09:00"
-        },
-        {
-          "title": "【8/17話題】 セーフパルが不正アクセス被害、SBI VCトレードがBTC/JPYレバレッジ取引の標準スプレッド3333円になど（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/600248",
-          "pub_date": "2026-08-17T20:59:11+09:00"
         }
       ],
       "first_seen": "2026-07-30T10:14:49.754867+09:00",
-      "last_seen": "2026-09-01T11:21:51.585150+09:00"
+      "last_seen": "2026-09-05T10:44:27.717811+09:00"
     },
     "Coincheck": {
-      "article_count": 22,
+      "article_count": 23,
       "as_main_count": 3,
-      "as_related_count": 19,
+      "as_related_count": 20,
       "recent_articles": [
+        {
+          "title": "BTCBOX、日本円入金と暗号資産4銘柄の出庫を9/7再開へ",
+          "link": "https://www.neweconomy.jp/posts/605267",
+          "pub_date": "2026-09-04T17:10:09+09:00"
+        },
         {
           "title": "11/20開催「NIKKEI・NADAデジタルアセットカンファレンス2026」──第一弾のスピーカー発表",
           "link": "https://www.nadanews.com/366784/",
@@ -9806,15 +9856,10 @@
           "title": "メルカリでソラナ（SOL）取扱開始、コインチェック連携で計16銘柄に",
           "link": "https://www.neweconomy.jp/posts/603820",
           "pub_date": "2026-08-31T19:35:51+09:00"
-        },
-        {
-          "title": "【8/31話題】金融庁が信託型ステーブルコインの法定調書「提出不要」要望、トリコがETH、イオレがHYPE追加取得、クロノスのネットワーク停止など（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/603845",
-          "pub_date": "2026-08-31T21:28:23+09:00"
         }
       ],
       "first_seen": "2026-07-30T10:14:49.754867+09:00",
-      "last_seen": "2026-09-04T10:39:34.950949+09:00"
+      "last_seen": "2026-09-05T10:43:51.102306+09:00"
     },
     "GMOコイン": {
       "article_count": 6,
@@ -10397,10 +10442,15 @@
       "last_seen": "2026-07-30T10:16:21.007684+09:00"
     },
     "ジーキャッシュ": {
-      "article_count": 5,
-      "as_main_count": 3,
+      "article_count": 6,
+      "as_main_count": 4,
       "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "ジーキャッシュが約10年ぶりの高値に、時価総額は一時10位突入",
+          "link": "https://coinpost.jp/?p=735699",
+          "pub_date": "2026-09-05T06:15:22+09:00"
+        },
         {
           "title": "ザクラ、ジーキャッシュの秘匿送金を一部で3秒超から200ms未満に短縮",
           "link": "https://coinpost.jp/?p=734525",
@@ -10420,15 +10470,10 @@
           "title": "macOS「画面共有」脆弱性が悪用され不正マイニング被害、アップルは緊急パッチ公開",
           "link": "https://coinpost.jp/?p=731108",
           "pub_date": "2026-08-17T09:38:21+09:00"
-        },
-        {
-          "title": "米フォーティチュード社、新拠点稼働でジーキャッシュ採掘コスト削減へ",
-          "link": "https://coinpost.jp/?p=728284",
-          "pub_date": "2026-07-29T10:50:34+09:00"
         }
       ],
       "first_seen": "2026-07-30T10:16:21.007684+09:00",
-      "last_seen": "2026-09-01T11:20:04.302143+09:00"
+      "last_seen": "2026-09-05T10:42:29.142918+09:00"
     },
     "ハートサイエンシズ": {
       "article_count": 1,
@@ -11594,10 +11639,15 @@
       "last_seen": "2026-07-31T10:28:30.598381+09:00"
     },
     "国際決済銀行": {
-      "article_count": 6,
-      "as_main_count": 4,
+      "article_count": 7,
+      "as_main_count": 5,
       "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "国際決済銀行、XRP台帳を使ったデータ検証プロトタイプで論文公開",
+          "link": "https://coinpost.jp/?p=735563",
+          "pub_date": "2026-09-04T13:45:37+09:00"
+        },
         {
           "title": "BIS総支配人、ステーブルコインは大規模決済に不適格と指摘",
           "link": "https://coinpost.jp/?p=734357",
@@ -11617,15 +11667,10 @@
           "title": "BIS「プロジェクト・アゴラ」、実価値を伴う国際決済テスト結果公表。28機関が約80万スイスフラン相当を取引",
           "link": "https://www.neweconomy.jp/posts/596802",
           "pub_date": "2026-07-31T16:48:51+09:00"
-        },
-        {
-          "title": "【7/31話題】ケネディクスら4社が不動産STとステーブルコインのクロスチェーンDvP実証、ストラテジーのQ2決算は83億ドルの営業損失など（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/596853",
-          "pub_date": "2026-07-31T20:54:03+09:00"
         }
       ],
       "first_seen": "2026-07-31T10:28:40.417981+09:00",
-      "last_seen": "2026-09-01T11:20:47.973860+09:00"
+      "last_seen": "2026-09-05T10:42:55.703753+09:00"
     },
     "国際金融協会": {
       "article_count": 2,
@@ -13851,10 +13896,15 @@
       "last_seen": "2026-08-01T10:29:18.405739+09:00"
     },
     "金融審議会": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
+          "link": "https://www.nadanews.com/367021/",
+          "pub_date": "2026-09-05T10:00:00+09:00"
+        },
         {
           "title": "「規制を守る者ほど不利」に危機感──金商法移行を前にビットコイナーが激論",
           "link": "https://www.nadanews.com/361149/",
@@ -13867,13 +13917,28 @@
         }
       ],
       "first_seen": "2026-08-01T10:29:18.405739+09:00",
-      "last_seen": "2026-08-10T09:47:08.056000+09:00"
+      "last_seen": "2026-09-05T10:40:39.250320+09:00"
     },
     "国会": {
-      "article_count": 1,
+      "article_count": 4,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 4,
       "recent_articles": [
+        {
+          "title": "韓国、トークン化証券制度27年2月施行へ",
+          "link": "https://coinpost.jp/?p=735616",
+          "pub_date": "2026-09-04T14:15:11+09:00"
+        },
+        {
+          "title": "金融庁、暗号資産・ステーブルコイン政策の戦略的対応などで「目標達成」と報告",
+          "link": "https://coinpost.jp/?p=735726",
+          "pub_date": "2026-09-05T09:55:40+09:00"
+        },
+        {
+          "title": "金融庁の暗号資産改革、自己評価「オールA」──7項目で目標達成",
+          "link": "https://www.nadanews.com/367021/",
+          "pub_date": "2026-09-05T10:00:00+09:00"
+        },
         {
           "title": "【墨汁うまい氏寄稿】暗号資産分離課税へ王手、投資家が見落とす「対象外」の盲点とは？",
           "link": "https://www.nadanews.com/362002/",
@@ -13881,7 +13946,7 @@
         }
       ],
       "first_seen": "2026-08-01T10:29:18.405739+09:00",
-      "last_seen": "2026-08-01T10:29:18.405739+09:00"
+      "last_seen": "2026-09-05T10:42:48.982872+09:00"
     },
     "衆議院": {
       "article_count": 1,
@@ -13912,10 +13977,20 @@
       "last_seen": "2026-08-01T10:29:18.405739+09:00"
     },
     "BTCBOX": {
-      "article_count": 3,
-      "as_main_count": 2,
-      "as_related_count": 1,
+      "article_count": 5,
+      "as_main_count": 3,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "BTCBOX、日本円入金と暗号資産4銘柄の出庫を9/7再開へ",
+          "link": "https://www.neweconomy.jp/posts/605267",
+          "pub_date": "2026-09-04T17:10:09+09:00"
+        },
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "BTCBOX、約半年ぶりに一部サービス再開へ。ログイン・暗号資産入庫から",
           "link": "https://www.neweconomy.jp/posts/597264",
@@ -13933,7 +14008,7 @@
         }
       ],
       "first_seen": "2026-08-01T10:29:27.210435+09:00",
-      "last_seen": "2026-08-04T10:22:01.280121+09:00"
+      "last_seen": "2026-09-05T10:43:51.102306+09:00"
     },
     "BTCボックス": {
       "article_count": 1,
@@ -14103,10 +14178,15 @@
       "last_seen": "2026-08-01T10:29:48.474428+09:00"
     },
     "Deribit": {
-      "article_count": 7,
+      "article_count": 8,
       "as_main_count": 1,
-      "as_related_count": 6,
+      "as_related_count": 7,
       "recent_articles": [
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
         {
           "title": "ジャクソンホール待ちでビットコイン上昇一服 アルトに物色買いも【楽天ウォレットDaily Report】",
           "link": "https://www.nadanews.com/365789/",
@@ -14126,15 +14206,10 @@
           "title": "米雇用統計下振れでETHが10日ぶり高値──7億ドルのステーブルコイン増は次の値動きに影響するか【価格分析】",
           "link": "https://www.nadanews.com/363143/",
           "pub_date": "2026-08-08T20:55:39+09:00"
-        },
-        {
-          "title": "ビットマイン、ETH保有率5％に迫る──7月のETH ETF流入はビットコインETFの2倍超【価格分析】",
-          "link": "https://www.nadanews.com/362211/",
-          "pub_date": "2026-08-03T18:52:56+09:00"
         }
       ],
       "first_seen": "2026-08-01T10:29:48.474428+09:00",
-      "last_seen": "2026-08-27T14:23:40.622134+09:00"
+      "last_seen": "2026-09-05T10:41:37.677307+09:00"
     },
     "Nvidia": {
       "article_count": 3,
@@ -14560,10 +14635,15 @@
       "last_seen": "2026-08-06T10:22:26.514921+09:00"
     },
     "MetaMask": {
-      "article_count": 13,
+      "article_count": 14,
       "as_main_count": 3,
-      "as_related_count": 10,
+      "as_related_count": 11,
       "recent_articles": [
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
+          "link": "https://www.nadanews.com/366888/",
+          "pub_date": "2026-09-05T07:00:00+09:00"
+        },
         {
           "title": "自己管理ウォレットの暗号資産も差押え対象に？ 来年4月開始の「新・徴収手続」とは【泉税理士の「分離課税」解剖連載⑤】",
           "link": "https://www.nadanews.com/366332/",
@@ -14583,15 +14663,10 @@
           "title": "MetaMaskでローソンの商品を購入──約5秒で決済、その使い勝手は／「今はサトシよりイーロンに賭けたい」──ビットコイン保有量ゼロのBitcoin Japan、CEOが明かす狙い【日曜日に読みたい厳選5本】",
           "link": "https://www.nadanews.com/364892/",
           "pub_date": "2026-08-23T08:00:00+09:00"
-        },
-        {
-          "title": "【取材】ローソンでステーブルコイン決済実証第2弾、USDC・USDT・JPYCでネットスターズ「Stablecoin Pay」活用",
-          "link": "https://www.neweconomy.jp/posts/600287",
-          "pub_date": "2026-08-17T22:17:29+09:00"
         }
       ],
       "first_seen": "2026-08-01T10:31:29.228576+09:00",
-      "last_seen": "2026-09-01T11:18:46.011227+09:00"
+      "last_seen": "2026-09-05T10:41:01.011844+09:00"
     },
     "Ondo": {
       "article_count": 1,
@@ -15823,10 +15898,15 @@
       "last_seen": "2026-08-04T10:17:05.426739+09:00"
     },
     "River": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 1,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "ビットコイン8万ドル再突破／トランプ関連コイン損失7470億円【週末に読みたい厳選5本_相場編】",
+          "link": "https://www.nadanews.com/366913/",
+          "pub_date": "2026-09-05T08:00:00+09:00"
+        },
         {
           "title": "ビットコイン保管方法論争、CZ氏は取引所の優位性を強調",
           "link": "https://coinpost.jp/?p=729752",
@@ -15839,7 +15919,7 @@
         }
       ],
       "first_seen": "2026-08-04T10:17:14.754580+09:00",
-      "last_seen": "2026-08-05T10:23:37.920099+09:00"
+      "last_seen": "2026-09-05T10:40:50.525086+09:00"
     },
     "ColdCard": {
       "article_count": 1,
@@ -16686,10 +16766,15 @@
       "last_seen": "2026-08-04T10:20:59.747543+09:00"
     },
     "Trust Wallet": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
+          "link": "https://www.nadanews.com/366888/",
+          "pub_date": "2026-09-05T07:00:00+09:00"
+        },
         {
           "title": "セルフカストディウォレットは「保管」から「金融OS」へ──世界で進む次世代ウォレット競争【エックスウィン】",
           "link": "https://www.nadanews.com/364197/",
@@ -16702,13 +16787,18 @@
         }
       ],
       "first_seen": "2026-08-04T10:21:06.799770+09:00",
-      "last_seen": "2026-08-16T09:32:50.288493+09:00"
+      "last_seen": "2026-09-05T10:41:01.011844+09:00"
     },
     "Trezor": {
-      "article_count": 8,
-      "as_main_count": 2,
+      "article_count": 9,
+      "as_main_count": 3,
       "as_related_count": 6,
       "recent_articles": [
+        {
+          "title": "仮想通貨ウォレットTrezorの配送委託先で情報漏洩、新たに約6.7万人の被害を公表",
+          "link": "https://coinpost.jp/?p=735713",
+          "pub_date": "2026-09-05T07:45:00+09:00"
+        },
         {
           "title": "Rapid7、88万件超の電話番号検証から始まる仮想通貨詐欺「Operation ASTERIX」の全容を公開",
           "link": "https://coinpost.jp/?p=732025",
@@ -16728,15 +16818,10 @@
           "title": "セルフカストディウォレットは「保管」から「金融OS」へ──世界で進む次世代ウォレット競争【エックスウィン】",
           "link": "https://www.nadanews.com/364197/",
           "pub_date": "2026-08-16T06:00:00+09:00"
-        },
-        {
-          "title": "仮想通貨ウォレットTrezor、配送委託先のデータ侵害で約1.4万人の顧客情報が流出",
-          "link": "https://coinpost.jp/?p=730976",
-          "pub_date": "2026-08-14T13:15:16+09:00"
         }
       ],
       "first_seen": "2026-08-04T10:21:06.799770+09:00",
-      "last_seen": "2026-08-21T09:35:47.652977+09:00"
+      "last_seen": "2026-09-05T10:42:09.931742+09:00"
     },
     "SatoshiLabs": {
       "article_count": 1,
@@ -16753,10 +16838,15 @@
       "last_seen": "2026-08-04T10:21:06.799770+09:00"
     },
     "エヌビディア": {
-      "article_count": 6,
+      "article_count": 7,
       "as_main_count": 0,
-      "as_related_count": 6,
+      "as_related_count": 7,
       "recent_articles": [
+        {
+          "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+          "link": "https://www.neweconomy.jp/posts/605306",
+          "pub_date": "2026-09-04T17:28:17+09:00"
+        },
         {
           "title": "コインベース、米国株式の無期限先物提供を申請 広がる需要受け",
           "link": "https://coinpost.jp/?p=735493",
@@ -16776,15 +16866,10 @@
           "title": "コインベース、米国株のトークン化サービスをベースチェーンで開始",
           "link": "https://coinpost.jp/?p=732867",
           "pub_date": "2026-08-25T06:35:59+09:00"
-        },
-        {
-          "title": "ビットディア、ボルタと7,400億円規模のAIデータセンター契約締結 保有BTCはゼロ維持",
-          "link": "https://coinpost.jp/?p=729859",
-          "pub_date": "2026-08-05T09:55:07+09:00"
         }
       ],
       "first_seen": "2026-08-04T10:21:17.419559+09:00",
-      "last_seen": "2026-09-04T10:41:40.182907+09:00"
+      "last_seen": "2026-09-05T10:43:31.322347+09:00"
     },
     "国連": {
       "article_count": 1,
@@ -16904,10 +16989,15 @@
       "last_seen": "2026-08-04T10:21:54.430767+09:00"
     },
     "関東財務局": {
-      "article_count": 7,
+      "article_count": 8,
       "as_main_count": 0,
-      "as_related_count": 7,
+      "as_related_count": 8,
       "recent_articles": [
+        {
+          "title": "BTCBOX、日本円入金と暗号資産4銘柄の出庫を9/7再開へ",
+          "link": "https://www.neweconomy.jp/posts/605267",
+          "pub_date": "2026-09-04T17:10:09+09:00"
+        },
         {
           "title": "S.BLOX、NIGHT取扱い開始 「国内初」と発表、ADAも追加",
           "link": "https://coinpost.jp/?p=732773",
@@ -16927,15 +17017,10 @@
           "title": "野村のLaser Digital Japan、暗号資産交換業の登録完了",
           "link": "https://www.nadanews.com/365005/",
           "pub_date": "2026-08-21T18:40:24+09:00"
-        },
-        {
-          "title": "【独自】BitTrade、出金トラブル「BitradeX」の混同で問い合わせ届く── 「一切関与ない」と強調",
-          "link": "https://www.nadanews.com/363986/",
-          "pub_date": "2026-08-14T14:52:36+09:00"
         }
       ],
       "first_seen": "2026-08-04T10:22:01.280121+09:00",
-      "last_seen": "2026-08-25T09:33:56.593152+09:00"
+      "last_seen": "2026-09-05T10:43:51.102306+09:00"
     },
     "日証金信託銀行": {
       "article_count": 1,
@@ -17423,10 +17508,20 @@
       "last_seen": "2026-08-05T10:21:11.621305+09:00"
     },
     "連邦準備制度理事会": {
-      "article_count": 10,
-      "as_main_count": 1,
-      "as_related_count": 9,
+      "article_count": 12,
+      "as_main_count": 2,
+      "as_related_count": 10,
       "recent_articles": [
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
+        {
+          "title": "「恐怖」から「買い直し」へ── マクロショックで揺れたビットコイン投資家の心理【BitTrade Market Weekly】",
+          "link": "https://www.nadanews.com/367002/",
+          "pub_date": "2026-09-05T09:00:00+09:00"
+        },
         {
           "title": "ヘイズ氏、仏銀行の信用不安でFRB資金供給拡大へ 仮想通貨市場に追い風と予測",
           "link": "https://coinpost.jp/?p=735445",
@@ -17441,20 +17536,10 @@
           "title": "ビットコイン現物ETFへの純流入、9日間でストップ",
           "link": "https://www.nadanews.com/366189/",
           "pub_date": "2026-08-31T08:30:00+09:00"
-        },
-        {
-          "title": "恐怖が消えた後、市場は何を恐れるのか ── 8万ドル台のビットコインと投資家心理【BitTrade Market Weekly】",
-          "link": "https://www.nadanews.com/366092/",
-          "pub_date": "2026-08-29T07:00:23+09:00"
-        },
-        {
-          "title": "ブロックチェーン協会、ジーニアス法のステーブルコイン規則案を支持",
-          "link": "https://www.nadanews.com/365558/",
-          "pub_date": "2026-08-26T08:30:00+09:00"
         }
       ],
       "first_seen": "2026-08-05T10:21:11.621305+09:00",
-      "last_seen": "2026-09-04T10:42:21.524699+09:00"
+      "last_seen": "2026-09-05T10:41:37.677307+09:00"
     },
     "証券取引委員会": {
       "article_count": 2,
@@ -17609,10 +17694,15 @@
       "last_seen": "2026-08-16T09:32:38.081884+09:00"
     },
     "HSBC": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 1,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        },
         {
           "title": "【8/20話題】 トランプ大統領がCLARITY法案成立求め、ハイパーリキッドの米国展開にも言及、アーサー・ヘイズがFlop LabsのCEO就任など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/601002",
@@ -17630,7 +17720,7 @@
         }
       ],
       "first_seen": "2026-08-05T10:22:01.837372+09:00",
-      "last_seen": "2026-08-21T09:36:22.233368+09:00"
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
     },
     "$TRUMP": {
       "article_count": 1,
@@ -18810,10 +18900,15 @@
       "last_seen": "2026-08-06T10:17:36.019245+09:00"
     },
     "Cash App": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        },
         {
           "title": "Block、ビットコイン事業は減益も通期見通しを引き上げ",
           "link": "https://www.nadanews.com/362664/",
@@ -18821,7 +18916,7 @@
         }
       ],
       "first_seen": "2026-08-06T10:17:36.019245+09:00",
-      "last_seen": "2026-08-06T10:17:36.019245+09:00"
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
     },
     "Western Union": {
       "article_count": 1,
@@ -19234,10 +19329,15 @@
       "last_seen": "2026-08-07T11:08:36.376281+09:00"
     },
     "マネックス証券": {
-      "article_count": 5,
-      "as_main_count": 3,
+      "article_count": 6,
+      "as_main_count": 4,
       "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "BTC（ビットコイン）はECB理事会と米CPIを控え方向感を探る展開か、中東緊迫化による原油高が重石【マネックス証券】",
+          "link": "https://www.nadanews.com/366982/",
+          "pub_date": "2026-09-04T18:30:00+09:00"
+        },
         {
           "title": "BTC（ビットコイン）は米雇用統計をにらみ方向感を探る展開か、米イラン情勢には警戒【マネックス証券】",
           "link": "https://www.nadanews.com/365999/",
@@ -19257,15 +19357,10 @@
           "title": "マネックスGが「マネックス・オンチェーン金融研究所」創設、オンチェーン金融の社会実装へ",
           "link": "https://www.neweconomy.jp/posts/598447",
           "pub_date": "2026-08-06T13:15:03+09:00"
-        },
-        {
-          "title": "マネックス、オンチェーン金融研究所を創設──RWA・ステーブルコインの事業化を支援",
-          "link": "https://www.nadanews.com/362608/",
-          "pub_date": "2026-08-05T18:41:57+09:00"
         }
       ],
       "first_seen": "2026-08-06T10:19:26.533693+09:00",
-      "last_seen": "2026-08-28T16:20:35.162017+09:00"
+      "last_seen": "2026-09-05T10:41:20.094613+09:00"
     },
     "マネックス・アセットマネジメント": {
       "article_count": 2,
@@ -19594,10 +19689,15 @@
       "last_seen": "2026-08-15T09:32:21.742592+09:00"
     },
     "米財務省": {
-      "article_count": 42,
+      "article_count": 43,
       "as_main_count": 8,
-      "as_related_count": 34,
+      "as_related_count": 35,
       "recent_articles": [
+        {
+          "title": "ビットコインが金と同様の値動きに、コインシェアーズ分析",
+          "link": "https://coinpost.jp/?p=735696",
+          "pub_date": "2026-09-05T09:10:08+09:00"
+        },
         {
           "title": "ビットコインは「デジタルゴールド」になったのか──金との相関が6年ぶり高水準、40兆ドル債務が変える市場構造【エックスウィン】",
           "link": "https://www.nadanews.com/364513/",
@@ -19617,15 +19717,10 @@
           "title": "G20が暗号資産政策で新方針──議長声明でイノベーション支援を明記",
           "link": "https://www.nadanews.com/366593/",
           "pub_date": "2026-09-02T21:27:21+09:00"
-        },
-        {
-          "title": "ビットコイン市場は米財務省のTGA活用報道やNVIDIA好決算で8万ドル回復も、FRB議長のインフレ警戒姿勢を受け下落（仮想通貨市場レポート 8/31 号）",
-          "link": "https://www.neweconomy.jp/features/sbivct/603786",
-          "pub_date": "2026-08-31T18:42:03+09:00"
         }
       ],
       "first_seen": "2026-08-06T10:21:55.919675+09:00",
-      "last_seen": "2026-09-04T10:40:36.102361+09:00"
+      "last_seen": "2026-09-05T10:42:03.760389+09:00"
     },
     "BUIDL": {
       "article_count": 1,
@@ -19670,10 +19765,15 @@
       "last_seen": "2026-08-06T10:22:26.514921+09:00"
     },
     "ビットワイズ": {
-      "article_count": 9,
+      "article_count": 10,
       "as_main_count": 4,
-      "as_related_count": 5,
+      "as_related_count": 6,
       "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        },
         {
           "title": "【8/26話題】政府と日銀が次世代決済インフラ整備へ、ステーブルコインカード決済額は28年に年500億ドルへ、TORICOが2日連続ETH追加取得など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/602515",
@@ -19693,15 +19793,10 @@
           "title": "ロンバード、LBTC利回り源泉を変更へ、ビットワイズがオプション運用",
           "link": "https://www.neweconomy.jp/posts/600252",
           "pub_date": "2026-08-17T18:36:22+09:00"
-        },
-        {
-          "title": "【8/17話題】 セーフパルが不正アクセス被害、SBI VCトレードがBTC/JPYレバレッジ取引の標準スプレッド3333円になど（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/600248",
-          "pub_date": "2026-08-17T20:59:11+09:00"
         }
       ],
       "first_seen": "2026-08-06T10:22:56.435240+09:00",
-      "last_seen": "2026-08-27T14:27:17.111465+09:00"
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
     },
     "Proof of Play": {
       "article_count": 3,
@@ -20656,10 +20751,15 @@
       "last_seen": "2026-09-02T10:40:13.647090+09:00"
     },
     "日本暗号資産等取引業協会": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 2,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
+          "link": "https://www.neweconomy.jp/posts/605198",
+          "pub_date": "2026-09-04T14:21:20+09:00"
+        },
         {
           "title": "野村HD傘下レーザーデジタルジャパン、暗号資産交換業者に登録",
           "link": "https://www.neweconomy.jp/posts/601322",
@@ -20682,7 +20782,7 @@
         }
       ],
       "first_seen": "2026-08-07T11:01:33.533160+09:00",
-      "last_seen": "2026-08-22T09:33:41.476715+09:00"
+      "last_seen": "2026-09-05T10:44:27.717811+09:00"
     },
     "JVCEA": {
       "article_count": 6,
@@ -21115,10 +21215,15 @@
       "last_seen": "2026-09-04T10:43:35.434577+09:00"
     },
     "Sui": {
-      "article_count": 8,
+      "article_count": 9,
       "as_main_count": 4,
-      "as_related_count": 4,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+          "link": "https://www.neweconomy.jp/posts/605287",
+          "pub_date": "2026-09-04T17:15:34+09:00"
+        },
         {
           "title": "フル・セイル、Sui上のボールトで資金損失を確認。スイッチボードのオラクル侵害の可能性調査",
           "link": "https://www.neweconomy.jp/posts/604174",
@@ -21138,15 +21243,10 @@
           "title": "【8/24話題】ナイト（NIGHT）がソニーGのS.BLOXに国内初上場、ファントムのSuiサポート終了へ、ソラナの目標スロット時間が350msに短縮など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/601560",
           "pub_date": "2026-08-24T20:58:19+09:00"
-        },
-        {
-          "title": "ウォレットのファントム、スイのサポートを9月24日終了へ",
-          "link": "https://coinpost.jp/?p=732755",
-          "pub_date": "2026-08-24T14:10:42+09:00"
         }
       ],
       "first_seen": "2026-08-07T11:04:35.367211+09:00",
-      "last_seen": "2026-09-02T10:43:57.304212+09:00"
+      "last_seen": "2026-09-05T10:43:44.578461+09:00"
     },
     "NEAR Protocol": {
       "article_count": 1,
@@ -23582,10 +23682,15 @@
       "last_seen": "2026-08-10T09:47:08.056000+09:00"
     },
     "IMF": {
-      "article_count": 2,
-      "as_main_count": 2,
+      "article_count": 3,
+      "as_main_count": 3,
       "as_related_count": 0,
       "recent_articles": [
+        {
+          "title": "IMF、エルサルバドルの25年6月以降のビットコイン購入は寄付のみ",
+          "link": "https://coinpost.jp/?p=735685",
+          "pub_date": "2026-09-05T05:00:45+09:00"
+        },
         {
           "title": "IMF、ステーブルコイン規制へ国際協調を要請 新興国に警鐘",
           "link": "https://coinpost.jp/?p=734277",
@@ -23598,7 +23703,7 @@
         }
       ],
       "first_seen": "2026-08-10T09:47:14.536538+09:00",
-      "last_seen": "2026-08-31T10:57:12.860146+09:00"
+      "last_seen": "2026-09-05T10:42:42.564963+09:00"
     },
     "ケープタウン大学": {
       "article_count": 1,
@@ -25359,10 +25464,15 @@
       "last_seen": "2026-08-14T09:54:50.801865+09:00"
     },
     "ShipMonk": {
-      "article_count": 3,
-      "as_main_count": 1,
+      "article_count": 4,
+      "as_main_count": 2,
       "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "仮想通貨ウォレットTrezorの配送委託先で情報漏洩、新たに約6.7万人の被害を公表",
+          "link": "https://coinpost.jp/?p=735713",
+          "pub_date": "2026-09-05T07:45:00+09:00"
+        },
         {
           "title": "イスラエル最大の規制下仮想通貨ブローカー「Bits of Gold」で顧客情報流出の可能性",
           "link": "https://coinpost.jp/?p=731182",
@@ -25380,7 +25490,7 @@
         }
       ],
       "first_seen": "2026-08-14T09:54:56.642659+09:00",
-      "last_seen": "2026-08-18T09:32:38.764877+09:00"
+      "last_seen": "2026-09-05T10:42:09.931742+09:00"
     },
     "Pump.fun": {
       "article_count": 3,
@@ -25822,10 +25932,15 @@
       "last_seen": "2026-08-15T09:31:55.555865+09:00"
     },
     "欧州連合": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 2,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "バイナンス、MiCAライセンス未取得でもEU事業継続＝報道",
+          "link": "https://coinpost.jp/?p=735695",
+          "pub_date": "2026-09-05T10:15:05+09:00"
+        },
         {
           "title": "アンソロピック、「Claude Fable 5.1」一般提供開始、エージェント型タスクで最大45％コスト減",
           "link": "https://www.neweconomy.jp/posts/604622",
@@ -25848,7 +25963,7 @@
         }
       ],
       "first_seen": "2026-08-15T09:32:08.541495+09:00",
-      "last_seen": "2026-09-03T10:49:15.750288+09:00"
+      "last_seen": "2026-09-05T10:41:50.758352+09:00"
     },
     "レウミ銀行": {
       "article_count": 1,
@@ -26019,10 +26134,15 @@
       "last_seen": "2026-08-15T09:32:32.781465+09:00"
     },
     "テスラ": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+          "link": "https://www.neweconomy.jp/posts/605306",
+          "pub_date": "2026-09-04T17:28:17+09:00"
+        },
         {
           "title": "ノルウェー政府系ファンド、ビットコイン間接保有数が過去最高に",
           "link": "https://coinpost.jp/?p=731028",
@@ -26030,7 +26150,7 @@
         }
       ],
       "first_seen": "2026-08-15T09:32:32.781465+09:00",
-      "last_seen": "2026-08-15T09:32:32.781465+09:00"
+      "last_seen": "2026-09-05T10:43:31.322347+09:00"
     },
     "Cboe BZX": {
       "article_count": 2,
@@ -26842,10 +26962,15 @@
       "last_seen": "2026-08-18T09:31:31.673888+09:00"
     },
     "21シェアーズ": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 2,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        },
         {
           "title": "ソラナ、初のガバナンス投票でトークン発行抑制の加速案を採用",
           "link": "https://coinpost.jp/?p=734147",
@@ -26868,7 +26993,7 @@
         }
       ],
       "first_seen": "2026-08-18T09:31:31.673888+09:00",
-      "last_seen": "2026-08-29T13:33:46.530650+09:00"
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
     },
     "ハーモニー": {
       "article_count": 2,
@@ -27106,10 +27231,15 @@
       "last_seen": "2026-08-18T09:32:45.476094+09:00"
     },
     "JPモルガン・チェース": {
-      "article_count": 3,
+      "article_count": 4,
       "as_main_count": 2,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        },
         {
           "title": "JPモルガンなど米銀、ステーブルコイン反対から発行検討へ転換か＝報道",
           "link": "https://coinpost.jp/?p=733670",
@@ -27127,13 +27257,18 @@
         }
       ],
       "first_seen": "2026-08-18T09:33:00.657060+09:00",
-      "last_seen": "2026-08-27T14:24:49.279466+09:00"
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
     },
     "フィナンシャル・タイムズ": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        },
         {
           "title": "JPモルガン、ポリマーケット口座解消 IPO関与に意欲＝報道",
           "link": "https://coinpost.jp/?p=731141",
@@ -27141,7 +27276,7 @@
         }
       ],
       "first_seen": "2026-08-18T09:33:00.657060+09:00",
-      "last_seen": "2026-08-18T09:33:00.657060+09:00"
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
     },
     "オランダ国立サイバーセキュリティセンター": {
       "article_count": 1,
@@ -29180,10 +29315,15 @@
       "last_seen": "2026-08-20T09:31:04.159143+09:00"
     },
     "CoinGlass": {
-      "article_count": 4,
+      "article_count": 5,
       "as_main_count": 0,
-      "as_related_count": 4,
+      "as_related_count": 5,
       "recent_articles": [
+        {
+          "title": "イーサリアム未決済建玉は約110日間で最高──ウォラーFRB理事の発言で9月FOMCの利上げ観測が後退【価格分析】",
+          "link": "https://www.nadanews.com/366954/",
+          "pub_date": "2026-09-04T17:49:00+09:00"
+        },
         {
           "title": "ビットコイン、8万1000ドル突破──FRB理事「据え置き」示唆とドル安を受けて",
           "link": "https://www.nadanews.com/366844/",
@@ -29206,7 +29346,7 @@
         }
       ],
       "first_seen": "2026-08-20T09:31:10.135019+09:00",
-      "last_seen": "2026-09-04T10:40:08.668415+09:00"
+      "last_seen": "2026-09-05T10:41:37.677307+09:00"
     },
     "MerQube": {
       "article_count": 2,
@@ -29434,10 +29574,20 @@
       "last_seen": "2026-09-03T10:49:09.439496+09:00"
     },
     "スタンダードチャータード": {
-      "article_count": 4,
-      "as_main_count": 2,
-      "as_related_count": 2,
+      "article_count": 6,
+      "as_main_count": 3,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        },
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "スタンダードチャータード、UAEで仮想通貨現物取引を提供開始",
           "link": "https://coinpost.jp/?p=735482",
@@ -29452,15 +29602,10 @@
           "title": "【8/20話題】 トランプ大統領がCLARITY法案成立求め、ハイパーリキッドの米国展開にも言及、アーサー・ヘイズがFlop LabsのCEO就任など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/601002",
           "pub_date": "2026-08-20T21:29:33+09:00"
-        },
-        {
-          "title": "HSBCとスタンダードチャータード、初のトークン化預金取引を実施",
-          "link": "https://coinpost.jp/?p=731841",
-          "pub_date": "2026-08-20T07:05:10+09:00"
         }
       ],
       "first_seen": "2026-08-20T09:32:18.933656+09:00",
-      "last_seen": "2026-09-04T10:42:15.585625+09:00"
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
     },
     "デジタル・カレンシー・グループ": {
       "article_count": 1,
@@ -30192,10 +30337,20 @@
       "last_seen": "2026-08-20T09:34:40.894791+09:00"
     },
     "コインシェアーズ": {
-      "article_count": 4,
-      "as_main_count": 2,
-      "as_related_count": 2,
+      "article_count": 6,
+      "as_main_count": 3,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        },
+        {
+          "title": "ビットコインが金と同様の値動きに、コインシェアーズ分析",
+          "link": "https://coinpost.jp/?p=735696",
+          "pub_date": "2026-09-05T09:10:08+09:00"
+        },
         {
           "title": "仮想通貨相場の急反転、「実需の見極め必要」とコインシェアーズCEOが指摘",
           "link": "https://coinpost.jp/?p=734176",
@@ -30210,6 +30365,20 @@
           "title": "ビットコイン反発の主因をコインシェアーズが分析、次の材料は？",
           "link": "https://coinpost.jp/?p=732563",
           "pub_date": "2026-08-22T07:20:06+09:00"
+        }
+      ],
+      "first_seen": "2026-08-20T09:34:47.701276+09:00",
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
+    },
+    "ウィズダムツリー": {
+      "article_count": 2,
+      "as_main_count": 0,
+      "as_related_count": 2,
+      "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
         },
         {
           "title": "ジェーン・ストリート、ビットコイン現物ETF約9.9億ドル保有。IBITが8割超",
@@ -30218,27 +30387,18 @@
         }
       ],
       "first_seen": "2026-08-20T09:34:47.701276+09:00",
-      "last_seen": "2026-08-30T11:01:38.750724+09:00"
-    },
-    "ウィズダムツリー": {
-      "article_count": 1,
-      "as_main_count": 0,
-      "as_related_count": 1,
-      "recent_articles": [
-        {
-          "title": "ジェーン・ストリート、ビットコイン現物ETF約9.9億ドル保有。IBITが8割超",
-          "link": "https://www.neweconomy.jp/posts/600683",
-          "pub_date": "2026-08-19T14:57:00+09:00"
-        }
-      ],
-      "first_seen": "2026-08-20T09:34:47.701276+09:00",
-      "last_seen": "2026-08-20T09:34:47.701276+09:00"
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
     },
     "Swift": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        },
         {
           "title": "【8/20話題】 トランプ大統領がCLARITY法案成立求め、ハイパーリキッドの米国展開にも言及、アーサー・ヘイズがFlop LabsのCEO就任など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/601002",
@@ -30251,7 +30411,7 @@
         }
       ],
       "first_seen": "2026-08-20T09:34:54.818020+09:00",
-      "last_seen": "2026-08-21T09:36:22.233368+09:00"
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
     },
     "Kバンク": {
       "article_count": 1,
@@ -35386,10 +35546,15 @@
       "last_seen": "2026-08-27T14:24:36.522358+09:00"
     },
     "enish": {
-      "article_count": 5,
+      "article_count": 6,
       "as_main_count": 3,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "SBI VCトレード、「アプトス（APT）・イーサリアムクラシック（ETC）・オアシス（OAS）」取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605211",
+          "pub_date": "2026-09-04T14:38:47+09:00"
+        },
         {
           "title": "【8/31話題】金融庁が信託型ステーブルコインの法定調書「提出不要」要望、トリコがETH、イオレがHYPE追加取得、クロノスのネットワーク停止など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/603845",
@@ -35409,15 +35574,10 @@
           "title": "ビットコイン全売却のenish、値上がり続くソラナの購入を決定",
           "link": "https://www.nadanews.com/365986/",
           "pub_date": "2026-08-28T15:08:11+09:00"
-        },
-        {
-          "title": "enish、ソラナ購入決定 第一弾で1億円購入上限",
-          "link": "https://coinpost.jp/?p=733690",
-          "pub_date": "2026-08-27T13:34:10+09:00"
         }
       ],
       "first_seen": "2026-08-27T14:24:42.682713+09:00",
-      "last_seen": "2026-09-01T11:21:17.575930+09:00"
+      "last_seen": "2026-09-05T10:44:21.128631+09:00"
     },
     "SOLプラネット": {
       "article_count": 1,
@@ -36235,10 +36395,15 @@
       "last_seen": "2026-08-28T16:21:48.598787+09:00"
     },
     "Lightning Network": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        },
         {
           "title": "AIが発見したビットコイン・ライトニングの脆弱性、開発者が確認",
           "link": "https://www.nadanews.com/365936/",
@@ -36246,13 +36411,18 @@
         }
       ],
       "first_seen": "2026-08-28T16:21:57.083063+09:00",
-      "last_seen": "2026-08-28T16:21:57.083063+09:00"
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
     },
     "Core Lightning": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 2,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        },
         {
           "title": "ビットコインのCore Lightningに脆弱性、AI生成のセキュリティ報告から発覚",
           "link": "https://coinpost.jp/?p=733981",
@@ -36265,7 +36435,7 @@
         }
       ],
       "first_seen": "2026-08-28T16:21:57.083063+09:00",
-      "last_seen": "2026-08-28T16:23:10.499856+09:00"
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
     },
     "ダラス連邦準備銀行": {
       "article_count": 1,
@@ -36939,10 +37109,15 @@
       "last_seen": "2026-08-29T13:32:24.444856+09:00"
     },
     "Public Citizen": {
-      "article_count": 1,
-      "as_main_count": 1,
+      "article_count": 2,
+      "as_main_count": 2,
       "as_related_count": 0,
       "recent_articles": [
+        {
+          "title": "ビットコイン8万ドル再突破／トランプ関連コイン損失7470億円【週末に読みたい厳選5本_相場編】",
+          "link": "https://www.nadanews.com/366913/",
+          "pub_date": "2026-09-05T08:00:00+09:00"
+        },
         {
           "title": "トランプ関連コインで投資家損失7470億円に＝米市民団体調べ",
           "link": "https://www.nadanews.com/365992/",
@@ -36950,7 +37125,7 @@
         }
       ],
       "first_seen": "2026-08-29T13:32:44.327104+09:00",
-      "last_seen": "2026-08-29T13:32:44.327104+09:00"
+      "last_seen": "2026-09-05T10:40:50.525086+09:00"
     },
     "Nansen": {
       "article_count": 1,
@@ -37297,10 +37472,15 @@
       "last_seen": "2026-08-29T13:34:10.762112+09:00"
     },
     "アジャイブ": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "SBI VCトレード、「アプトス（APT）・イーサリアムクラシック（ETC）・オアシス（OAS）」取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605211",
+          "pub_date": "2026-09-04T14:38:47+09:00"
+        },
         {
           "title": "【8/28話題】SBIがインドネシア投資大手アジャイブとデジタル資産で連携、CZがBTC時価総額が次の強気相場で金を上回る可能性言及など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/603533",
@@ -37308,7 +37488,7 @@
         }
       ],
       "first_seen": "2026-08-29T13:34:29.100829+09:00",
-      "last_seen": "2026-08-29T13:34:29.100829+09:00"
+      "last_seen": "2026-09-05T10:44:21.128631+09:00"
     },
     "UPDATER": {
       "article_count": 2,
@@ -38122,10 +38302,20 @@
       "last_seen": "2026-08-30T11:01:27.696634+09:00"
     },
     "欧州中央銀行": {
-      "article_count": 1,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "バイナンス、MiCAライセンス未取得でもEU事業継続＝報道",
+          "link": "https://coinpost.jp/?p=735695",
+          "pub_date": "2026-09-05T10:15:05+09:00"
+        },
+        {
+          "title": "BTC（ビットコイン）はECB理事会と米CPIを控え方向感を探る展開か、中東緊迫化による原油高が重石【マネックス証券】",
+          "link": "https://www.nadanews.com/366982/",
+          "pub_date": "2026-09-04T18:30:00+09:00"
+        },
         {
           "title": "BIS総支配人、ステーブルコインは決済に不向きと発言＝報道",
           "link": "https://www.nadanews.com/366183/",
@@ -38133,7 +38323,7 @@
         }
       ],
       "first_seen": "2026-08-31T10:56:33.954344+09:00",
-      "last_seen": "2026-08-31T10:56:33.954344+09:00"
+      "last_seen": "2026-09-05T10:41:50.758352+09:00"
     },
     "金融安定研究所": {
       "article_count": 1,
@@ -38310,10 +38500,15 @@
       "last_seen": "2026-09-01T11:19:06.881469+09:00"
     },
     "Decrypt": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "ロビンフッド、AMCの株式トークン停止要求を拒否",
+          "link": "https://coinpost.jp/?p=735697",
+          "pub_date": "2026-09-05T07:15:11+09:00"
+        },
         {
           "title": "デファイ・デベロップメント、最大32億円の資金調達計画 ソラナ追加購入などに充当予定",
           "link": "https://coinpost.jp/?p=734824",
@@ -38326,7 +38521,7 @@
         }
       ],
       "first_seen": "2026-09-01T11:18:59.964444+09:00",
-      "last_seen": "2026-09-02T10:41:32.859223+09:00"
+      "last_seen": "2026-09-05T10:42:16.386118+09:00"
     },
     "DropsTab": {
       "article_count": 1,
@@ -38985,10 +39180,15 @@
       "last_seen": "2026-09-02T10:41:57.805032+09:00"
     },
     "ロンドン証券取引所": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 1,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        },
         {
           "title": "【9/2話題】SBI VCトレードでステーキング報酬がJPYSCで受取可能に、リポが保有アルトコイン全売却、大手金融機関21社がステーブルコイン事業で新会社など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/604681",
@@ -39001,7 +39201,7 @@
         }
       ],
       "first_seen": "2026-09-02T10:42:22.975946+09:00",
-      "last_seen": "2026-09-03T10:48:42.873244+09:00"
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
     },
     "ロンドン証券取引所グループ": {
       "article_count": 1,
@@ -39877,10 +40077,15 @@
       "last_seen": "2026-09-03T10:48:56.503980+09:00"
     },
     "コインベース・フィナンシャル・マーケッツ": {
-      "article_count": 2,
+      "article_count": 3,
       "as_main_count": 0,
-      "as_related_count": 2,
+      "as_related_count": 3,
       "recent_articles": [
+        {
+          "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+          "link": "https://www.neweconomy.jp/posts/605306",
+          "pub_date": "2026-09-04T17:28:17+09:00"
+        },
         {
           "title": "米コインベース、カナダで暗号資産の無期限先物など提供開始",
           "link": "https://www.neweconomy.jp/posts/604995",
@@ -39893,7 +40098,7 @@
         }
       ],
       "first_seen": "2026-09-03T10:46:51.039010+09:00",
-      "last_seen": "2026-09-04T10:43:15.477991+09:00"
+      "last_seen": "2026-09-05T10:43:31.322347+09:00"
     },
     "バミューダ金融庁": {
       "article_count": 1,
@@ -40083,10 +40288,15 @@
       "last_seen": "2026-09-03T10:48:09.587633+09:00"
     },
     "ドージコイン": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 0,
-      "as_related_count": 1,
+      "as_related_count": 2,
       "recent_articles": [
+        {
+          "title": "ジーキャッシュが約10年ぶりの高値に、時価総額は一時10位突入",
+          "link": "https://coinpost.jp/?p=735699",
+          "pub_date": "2026-09-05T06:15:22+09:00"
+        },
         {
           "title": "リミックスポイント、保有中のアルトコイン4銘柄を全売却",
           "link": "https://coinpost.jp/?p=734815",
@@ -40094,7 +40304,7 @@
         }
       ],
       "first_seen": "2026-09-03T10:48:22.661954+09:00",
-      "last_seen": "2026-09-03T10:48:22.661954+09:00"
+      "last_seen": "2026-09-05T10:42:29.142918+09:00"
     },
     "トン・ストラテジー": {
       "article_count": 1,
@@ -40905,10 +41115,20 @@
       "last_seen": "2026-09-04T10:43:02.829818+09:00"
     },
     "ビットポイント": {
-      "article_count": 1,
-      "as_main_count": 0,
+      "article_count": 3,
+      "as_main_count": 2,
       "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
+        {
+          "title": "SBI VCトレードとビットポイント、計9銘柄の取扱い廃止へ",
+          "link": "https://coinpost.jp/?p=735603",
+          "pub_date": "2026-09-04T13:15:26+09:00"
+        },
         {
           "title": "【9/3話題】三菱UFJアセットらがProgmatと国内初の「トークン化投信」設定、ロビンフッドチェーンがDEX取引高15億ドル突破など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/605021",
@@ -40916,7 +41136,7 @@
         }
       ],
       "first_seen": "2026-09-04T10:43:02.829818+09:00",
-      "last_seen": "2026-09-04T10:43:02.829818+09:00"
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
     },
     "バックパックUS": {
       "article_count": 1,
@@ -40975,10 +41195,15 @@
       "last_seen": "2026-09-04T10:43:02.829818+09:00"
     },
     "セトルミント": {
-      "article_count": 1,
+      "article_count": 2,
       "as_main_count": 1,
-      "as_related_count": 0,
+      "as_related_count": 1,
       "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        },
         {
           "title": "リップルとセトルミント、APAC金融機関向けにカストディ・トークン化の統合ソリューション提供",
           "link": "https://www.neweconomy.jp/posts/605001",
@@ -40986,7 +41211,7 @@
         }
       ],
       "first_seen": "2026-09-04T10:43:09.176114+09:00",
-      "last_seen": "2026-09-04T10:43:09.176114+09:00"
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
     },
     "公正取引委員会": {
       "article_count": 1,
@@ -41622,6 +41847,931 @@
       ],
       "first_seen": "2026-09-04T10:44:01.014292+09:00",
       "last_seen": "2026-09-04T10:44:01.014292+09:00"
+    },
+    "スマートレンディング": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.11】",
+          "link": "https://www.nadanews.com/366888/",
+          "pub_date": "2026-09-05T07:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:01.011844+09:00",
+      "last_seen": "2026-09-05T10:41:01.011844+09:00"
+    },
+    "全米保安官協会": {
+      "article_count": 2,
+      "as_main_count": 2,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "全米保安官協会が中立表明、クラリティー法案の上院採決に追い風か",
+          "link": "https://coinpost.jp/?p=735700",
+          "pub_date": "2026-09-05T05:50:24+09:00"
+        },
+        {
+          "title": "米有力法執行団体、クラリティ法案への反対を撤回",
+          "link": "https://www.nadanews.com/367008/",
+          "pub_date": "2026-09-04T21:36:01+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:13.913009+09:00",
+      "last_seen": "2026-09-05T10:42:35.953702+09:00"
+    },
+    "全米主要郡保安官協会": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "米有力法執行団体、クラリティ法案への反対を撤回",
+          "link": "https://www.nadanews.com/367008/",
+          "pub_date": "2026-09-04T21:36:01+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:13.913009+09:00",
+      "last_seen": "2026-09-05T10:41:13.913009+09:00"
+    },
+    "ADP": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "BTC（ビットコイン）はECB理事会と米CPIを控え方向感を探る展開か、中東緊迫化による原油高が重石【マネックス証券】",
+          "link": "https://www.nadanews.com/366982/",
+          "pub_date": "2026-09-04T18:30:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:20.094613+09:00",
+      "last_seen": "2026-09-05T10:41:20.094613+09:00"
+    },
+    "AMBOSS": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "Boltz": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "Blockstream": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "Lightspark": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "Lithic": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "Breez": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "Aqua Wallet": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "Bull Bitcoin": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "Lead Bank": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "Turnkey": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "LN Trends 2026年8月",
+          "link": "https://www.nadanews.com/366642/",
+          "pub_date": "2026-09-04T18:00:00+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:31.341711+09:00",
+      "last_seen": "2026-09-05T10:41:31.341711+09:00"
+    },
+    "欧州証券市場監督機関": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "バイナンス、MiCAライセンス未取得でもEU事業継続＝報道",
+          "link": "https://coinpost.jp/?p=735695",
+          "pub_date": "2026-09-05T10:15:05+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:50.758352+09:00",
+      "last_seen": "2026-09-05T10:41:50.758352+09:00"
+    },
+    "カイコ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "バイナンス、MiCAライセンス未取得でもEU事業継続＝報道",
+          "link": "https://coinpost.jp/?p=735695",
+          "pub_date": "2026-09-05T10:15:05+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:50.758352+09:00",
+      "last_seen": "2026-09-05T10:41:50.758352+09:00"
+    },
+    "センサータワー": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "バイナンス、MiCAライセンス未取得でもEU事業継続＝報道",
+          "link": "https://coinpost.jp/?p=735695",
+          "pub_date": "2026-09-05T10:15:05+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:41:50.758352+09:00",
+      "last_seen": "2026-09-05T10:41:50.758352+09:00"
+    },
+    "AMCエンターテインメント": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ロビンフッド、AMCの株式トークン停止要求を拒否",
+          "link": "https://coinpost.jp/?p=735697",
+          "pub_date": "2026-09-05T07:15:11+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:42:16.386118+09:00",
+      "last_seen": "2026-09-05T10:42:16.386118+09:00"
+    },
+    "tx": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ロビンフッド、AMCの株式トークン停止要求を拒否",
+          "link": "https://coinpost.jp/?p=735697",
+          "pub_date": "2026-09-05T07:15:11+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:42:16.386118+09:00",
+      "last_seen": "2026-09-05T10:42:16.386118+09:00"
+    },
+    "ロビンフッドチェーン": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ロビンフッドチェーン、4日夜約14分のブロック生成障害が発生",
+          "link": "https://coinpost.jp/?p=735698",
+          "pub_date": "2026-09-05T06:40:13+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:42:22.794413+09:00",
+      "last_seen": "2026-09-05T10:42:22.794413+09:00"
+    },
+    "ニューヨーク証券取引所アーカ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ジーキャッシュが約10年ぶりの高値に、時価総額は一時10位突入",
+          "link": "https://coinpost.jp/?p=735699",
+          "pub_date": "2026-09-05T06:15:22+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:42:29.142918+09:00",
+      "last_seen": "2026-09-05T10:42:29.142918+09:00"
+    },
+    "チボ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "IMF、エルサルバドルの25年6月以降のビットコイン購入は寄付のみ",
+          "link": "https://coinpost.jp/?p=735685",
+          "pub_date": "2026-09-05T05:00:45+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:42:42.564963+09:00",
+      "last_seen": "2026-09-05T10:42:42.564963+09:00"
+    },
+    "トークン証券協議体": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "韓国、トークン化証券制度27年2月施行へ",
+          "link": "https://coinpost.jp/?p=735616",
+          "pub_date": "2026-09-04T14:15:11+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:42:48.982872+09:00",
+      "last_seen": "2026-09-05T10:42:48.982872+09:00"
+    },
+    "ハーグリーブス・ランズダウン": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:10.329350+09:00",
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
+    },
+    "iシェアーズ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:10.329350+09:00",
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
+    },
+    "インベスコ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:10.329350+09:00",
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
+    },
+    "金融行為規制機構": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:10.329350+09:00",
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
+    },
+    "ストラティフィー": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
+          "link": "https://coinpost.jp/?p=735514",
+          "pub_date": "2026-09-04T13:00:29+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:10.329350+09:00",
+      "last_seen": "2026-09-05T10:43:10.329350+09:00"
+    },
+    "ソーファイ・テクノロジーズ": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "クラーケン親会社ペイワードとソーファイが提携、仮想通貨市場と銀行サービスを接続へ",
+          "link": "https://coinpost.jp/?p=735532",
+          "pub_date": "2026-09-04T10:55:23+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:16.921301+09:00",
+      "last_seen": "2026-09-05T10:43:16.921301+09:00"
+    },
+    "ソーファイ・エクスチェンジ・ネットワーク": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "クラーケン親会社ペイワードとソーファイが提携、仮想通貨市場と銀行サービスを接続へ",
+          "link": "https://coinpost.jp/?p=735532",
+          "pub_date": "2026-09-04T10:55:23+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:16.921301+09:00",
+      "last_seen": "2026-09-05T10:43:16.921301+09:00"
+    },
+    "SoFiUSD": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "クラーケン親会社ペイワードとソーファイが提携、仮想通貨市場と銀行サービスを接続へ",
+          "link": "https://coinpost.jp/?p=735532",
+          "pub_date": "2026-09-04T10:55:23+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:16.921301+09:00",
+      "last_seen": "2026-09-05T10:43:16.921301+09:00"
+    },
+    "ソーファイ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:23.909737+09:00",
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
+    },
+    "ワールド": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:23.909737+09:00",
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
+    },
+    "ジュピター": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:23.909737+09:00",
+      "last_seen": "2026-09-05T10:43:23.909737+09:00"
+    },
+    "オーストラリア証券投資委員会": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "豪ASIC、デジタル資産事業者にライセンス申請を改めて呼びかけ",
+          "link": "https://www.neweconomy.jp/posts/605261",
+          "pub_date": "2026-09-04T16:51:33+09:00"
+        },
+        {
+          "title": "【9/4話題】ハイパーリキッドが許可型市場向け機能追加へ、SBI VCトレードがAPT・ETC・OAS、ビットポイントがBNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へなど（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/605524",
+          "pub_date": "2026-09-04T22:32:03+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:23.909737+09:00",
+      "last_seen": "2026-09-05T10:44:01.811294+09:00"
+    },
+    "コインベース・デリバティブズ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "コインベース、米国で単一株パーペチュアル提供目指す、SECに通知登録",
+          "link": "https://www.neweconomy.jp/posts/605306",
+          "pub_date": "2026-09-04T17:28:17+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:31.322347+09:00",
+      "last_seen": "2026-09-05T10:43:31.322347+09:00"
+    },
+    "金融監督管理委員会": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "中央通訊社": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "立法院": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "行政院": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "台湾フィンテック協会": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "アジア・フィンテック・アライアンス": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "国連薬物犯罪事務所": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "TRON": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "カイア": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "タイワンモバイル": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "台湾、暗号資産・ステーブルコイン規制を最速で2027年Q1施行の見通し",
+          "link": "https://www.neweconomy.jp/posts/605295",
+          "pub_date": "2026-09-04T17:21:50+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:37.747755+09:00",
+      "last_seen": "2026-09-05T10:43:37.747755+09:00"
+    },
+    "Jupiter": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+          "link": "https://www.neweconomy.jp/posts/605287",
+          "pub_date": "2026-09-04T17:15:34+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:44.578461+09:00",
+      "last_seen": "2026-09-05T10:43:44.578461+09:00"
+    },
+    "Jump Crypto": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ジュピター、ソラナへのクロスチェーン入金機能「Universal Deposit」提供開始。ブリッジやスワップ自動化",
+          "link": "https://www.neweconomy.jp/posts/605287",
+          "pub_date": "2026-09-04T17:15:34+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:44.578461+09:00",
+      "last_seen": "2026-09-05T10:43:44.578461+09:00"
+    },
+    "Uphold": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "BTCBOX、日本円入金と暗号資産4銘柄の出庫を9/7再開へ",
+          "link": "https://www.neweconomy.jp/posts/605267",
+          "pub_date": "2026-09-04T17:10:09+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:43:51.102306+09:00",
+      "last_seen": "2026-09-05T10:43:51.102306+09:00"
+    },
+    "DigitalX": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "豪ASIC、デジタル資産事業者にライセンス申請を改めて呼びかけ",
+          "link": "https://www.neweconomy.jp/posts/605261",
+          "pub_date": "2026-09-04T16:51:33+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:01.811294+09:00",
+      "last_seen": "2026-09-05T10:44:01.811294+09:00"
+    },
+    "スタンダードチャータードDIFC": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:08.330257+09:00",
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
+    },
+    "ドバイ国際金融センター": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:08.330257+09:00",
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
+    },
+    "ドバイ金融サービス機構": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:08.330257+09:00",
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
+    },
+    "ゾディア・マーケッツ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:08.330257+09:00",
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
+    },
+    "リベアラ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:08.330257+09:00",
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
+    },
+    "DCS": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "スタンダードチャータード、UAEで機関投資家向けBTC・ETH現物取引開始、G-SIBで初",
+          "link": "https://www.neweconomy.jp/posts/605253",
+          "pub_date": "2026-09-04T16:46:11+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:08.330257+09:00",
+      "last_seen": "2026-09-05T10:44:08.330257+09:00"
+    },
+    "ビットポイントジャパン": {
+      "article_count": 2,
+      "as_main_count": 1,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "SBI VCトレード、「アプトス（APT）・イーサリアムクラシック（ETC）・オアシス（OAS）」取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605211",
+          "pub_date": "2026-09-04T14:38:47+09:00"
+        },
+        {
+          "title": "ビットポイント、BNB・JMY・DEP・OSHI・PEPE・TRUMP取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605219",
+          "pub_date": "2026-09-04T14:50:55+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:14.582382+09:00",
+      "last_seen": "2026-09-05T10:44:21.128631+09:00"
+    },
+    "アプトス": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "SBI VCトレード、「アプトス（APT）・イーサリアムクラシック（ETC）・オアシス（OAS）」取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605211",
+          "pub_date": "2026-09-04T14:38:47+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:21.128631+09:00",
+      "last_seen": "2026-09-05T10:44:21.128631+09:00"
+    },
+    "イーサリアムクラシック": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "SBI VCトレード、「アプトス（APT）・イーサリアムクラシック（ETC）・オアシス（OAS）」取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605211",
+          "pub_date": "2026-09-04T14:38:47+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:21.128631+09:00",
+      "last_seen": "2026-09-05T10:44:21.128631+09:00"
+    },
+    "オアシス": {
+      "article_count": 1,
+      "as_main_count": 1,
+      "as_related_count": 0,
+      "recent_articles": [
+        {
+          "title": "SBI VCトレード、「アプトス（APT）・イーサリアムクラシック（ETC）・オアシス（OAS）」取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605211",
+          "pub_date": "2026-09-04T14:38:47+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:21.128631+09:00",
+      "last_seen": "2026-09-05T10:44:21.128631+09:00"
+    },
+    "コインゲコ": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "SBI VCトレード、「アプトス（APT）・イーサリアムクラシック（ETC）・オアシス（OAS）」取扱い廃止へ",
+          "link": "https://www.neweconomy.jp/posts/605211",
+          "pub_date": "2026-09-04T14:38:47+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:21.128631+09:00",
+      "last_seen": "2026-09-05T10:44:21.128631+09:00"
+    },
+    "bitFlyer Holdings": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
+          "link": "https://www.neweconomy.jp/posts/605198",
+          "pub_date": "2026-09-04T14:21:20+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:27.717811+09:00",
+      "last_seen": "2026-09-05T10:44:27.717811+09:00"
+    },
+    "bitFlyer EUROPE S.A.": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
+          "link": "https://www.neweconomy.jp/posts/605198",
+          "pub_date": "2026-09-04T14:21:20+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:27.717811+09:00",
+      "last_seen": "2026-09-05T10:44:27.717811+09:00"
+    },
+    "ルクセンブルク金融監督委員会": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
+          "link": "https://www.neweconomy.jp/posts/605198",
+          "pub_date": "2026-09-04T14:21:20+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:27.717811+09:00",
+      "last_seen": "2026-09-05T10:44:27.717811+09:00"
+    },
+    "bitFlyer USA": {
+      "article_count": 1,
+      "as_main_count": 0,
+      "as_related_count": 1,
+      "recent_articles": [
+        {
+          "title": "ビットフライヤー、2026年上期の国内ビットコイン取引量で首位＝同社調べ",
+          "link": "https://www.neweconomy.jp/posts/605198",
+          "pub_date": "2026-09-04T14:21:20+09:00"
+        }
+      ],
+      "first_seen": "2026-09-05T10:44:27.717811+09:00",
+      "last_seen": "2026-09-05T10:44:27.717811+09:00"
     }
   }
 }
