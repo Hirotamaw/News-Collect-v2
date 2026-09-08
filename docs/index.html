@@ -93,6 +93,9 @@
     cursor: pointer;
     font-size: 13px;
     color: var(--text);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
   }
   .btn:hover { background: var(--chip-bg); }
   .btn.active {
@@ -363,6 +366,7 @@
     </div>
     <button class="btn" id="todayOnlyBtn" title="当日09:00 JST以降の記事に絞り込み">🌅 今日分</button>
     <button class="btn" id="refreshBtn" title="news.jsonを再読み込み">↻ 更新</button>
+    <a class="btn" href="entities.html" title="企業名から記事を探す">🏢 企業一覧</a>
     <div class="spacer"></div>
     <input type="text" id="search" placeholder="タイトル・要約・企業名で検索">
     <button class="btn" id="settingsBtn" title="GitHub Personal Access Tokenの設定">⚙</button>

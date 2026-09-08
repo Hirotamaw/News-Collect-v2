@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>企業一覧 | 暗号資産ニュース</title>
+<style>
+  :root {
+    --bg: #f4f5f7;
+    --card-bg: #ffffff;
+    --text: #1a1d23;
+    --text-sub: #6b7280;
+    --border: #e5e7eb;
+    --accent: #111827;
+    --chip-bg: #eef0f3;
+    --chip-text: #374151;
+    --main-entity-bg: #fde68a;
+    --main-entity-text: #78350f;
+    --related-entity-bg: #e5e7eb;
+    --related-entity-text: #374151;
+    --error-color: #dc2626;
+    --mark-bg: #fef08a;
+    --row-active-bg: #eef2ff;
+    --row-active-border: #6366f1;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+
+  header {
+    background: var(--card-bg);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  header h1 {
+    margin: 0 0 4px;
+    font-size: 20px;
+  }
+  header h1 .sub {
+    font-size: 13px;
+    color: var(--text-sub);
+    font-weight: normal;
+    margin-left: 8px;
+  }
+  .back-link {
+    display: inline-block;
+    font-size: 13px;
+    color: var(--text-sub);
+    text-decoration: none;
+    margin-bottom: 10px;
+  }
+  .back-link:hover { color: var(--text); text-decoration: underline; }
+
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+  #entitySearch {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 7px 12px;
+    font-size: 13px;
+    flex: 1;
+    min-width: 160px;
+    max-width: 320px;
+  }
+  .sort-tabs {
+    display: flex;
+    gap: 6px;
+    background: var(--chip-bg);
+    padding: 4px;
+    border-radius: 10px;
+  }
+  .sort-tabs button {
+    border: none;
+    background: transparent;
+    padding: 6px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--chip-text);
+  }
+  .sort-tabs button.active { background: var(--accent); color: #fff; }
+
+  .layout {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 16px;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 16px 20px 60px;
+    align-items: start;
+  }
+  @media (max-width: 780px) {
+    .layout { grid-template-columns: 1fr; }
+  }
+
+  .entity-panel {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    max-height: calc(100vh - 160px);
+    overflow-y: auto;
+    position: sticky;
+    top: 140px;
+  }
+  @media (max-width: 780px) {
+    .entity-panel { position: static; max-height: 360px; }
+    .entity-panel.hide-on-mobile { display: none; }
+  }
+
+  .entity-count-line {
+    font-size: 12px;
+    color: var(--text-sub);
+    padding: 10px 14px 4px;
+  }
+
+  .entity-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+  }
+  .entity-row:last-child { border-bottom: none; }
+  .entity-row:hover { background: var(--chip-bg); }
+  .entity-row.active { background: var(--row-active-bg); border-left: 3px solid var(--row-active-border); padding-left: 11px; }
+  .entity-row .name { font-size: 14px; font-weight: 500; }
+  .entity-row .breakdown { font-size: 11px; color: var(--text-sub); margin-top: 2px; }
+  .entity-row .count {
+    font-size: 12px;
+    color: #fff;
+    background: var(--accent);
+    border-radius: 999px;
+    padding: 2px 9px;
+    flex-shrink: 0;
+  }
+
+  .article-panel { min-width: 0; }
+  .mobile-back {
+    display: none;
+    margin-bottom: 10px;
+  }
+  @media (max-width: 780px) {
+    .mobile-back.show { display: inline-flex; }
+  }
+  .btn {
+    border: 1px solid var(--border);
+    background: var(--card-bg);
+    padding: 7px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--text);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+  }
+  .btn:hover { background: var(--chip-bg); }
+
+  .article-panel-header {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin-bottom: 14px;
+    flex-wrap: wrap;
+  }
+  .article-panel-header h2 { font-size: 18px; margin: 0; }
+  .article-panel-header .meta { font-size: 12px; color: var(--text-sub); }
+
+  .empty-state {
+    text-align: center;
+    color: var(--text-sub);
+    padding: 60px 20px;
+    font-size: 14px;
+  }
+
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+    margin-bottom: 12px;
+  }
+  .badges { display: flex; gap: 6px; align-items: center; margin-bottom: 8px; flex-wrap: wrap; }
+  .badge { font-size: 11px; padding: 3px 9px; border-radius: 999px; color: #fff; font-weight: 600; }
+  .badge.category { background: var(--chip-bg); color: var(--chip-text); font-weight: 500; }
+  .badge.role { font-weight: 500; }
+  .badge.role.main { background: var(--main-entity-bg); color: var(--main-entity-text); }
+  .badge.role.related { background: var(--related-entity-bg); color: var(--related-entity-text); }
+
+  .card h3 { font-size: 15px; margin: 0 0 6px; }
+  .card h3 a { color: var(--text); text-decoration: none; }
+  .card h3 a:hover { text-decoration: underline; }
+  .pub-date { font-size: 12px; color: var(--text-sub); margin-bottom: 8px; }
+  .summary { font-size: 13px; margin-bottom: 10px; color: var(--text); }
+  .summary.error { color: var(--error-color); }
+
+  .entities { display: flex; flex-wrap: wrap; gap: 6px; }
+  .tag { font-size: 11px; padding: 3px 9px; border-radius: 999px; }
+  .tag.main { background: var(--main-entity-bg); color: var(--main-entity-text); font-weight: 600; }
+  .tag.related { background: var(--related-entity-bg); color: var(--related-entity-text); }
+  .tag.current { outline: 2px solid var(--row-active-border); }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161a;
+      --card-bg: #1c1f26;
+      --text: #e7e9ec;
+      --text-sub: #9aa1ab;
+      --border: #2c313a;
+      --accent: #e7e9ec;
+      --chip-bg: #262a32;
+      --chip-text: #c6cad2;
+      --main-entity-bg: #7c5e0f;
+      --main-entity-text: #fde68a;
+      --related-entity-bg: #2c313a;
+      --related-entity-text: #c6cad2;
+      --mark-bg: #7c5e0f;
+      --row-active-bg: #1e2240;
+      --row-active-border: #818cf8;
+    }
+    .sort-tabs button.active { color: #14161a; }
+    .entity-row .count { color: #14161a; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="back-link" href="index.html">← ニュース一覧に戻る</a>
+  <h1>企業一覧<span class="sub" id="lastUpdated"></span></h1>
+  <div class="toolbar">
+    <input type="text" id="entitySearch" placeholder="企業名で絞り込み">
+    <div class="sort-tabs" id="sortTabs">
+      <button data-sort="count" class="active">記事数順</button>
+      <button data-sort="name">名前順</button>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+  <div class="entity-panel" id="entityPanel">
+    <div class="entity-count-line" id="entityCountLine"></div>
+    <div id="entityList"></div>
+  </div>
+
+  <div class="article-panel" id="articlePanel">
+    <button class="btn mobile-back" id="mobileBackBtn">← 企業一覧に戻る</button>
+    <div id="articlePanelInner">
+      <div class="empty-state">左の一覧から企業名を選択すると、関連記事が表示されます</div>
+    </div>
+  </div>
+</div>
+
+<script>
+const NEWS_URL = 'data/news.json';
+
+const state = {
+  articles: [],
+  entityIndex: new Map(), // name -> {name, articles:[], mainCount, relatedCount}
+  sort: 'count',
+  query: '',
+  selected: null,
+};
+
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function formatJst(isoString) {
+  const d = new Date(isoString);
+  const shifted = new Date(d.getTime() + 9 * 3600 * 1000);
+  const pad = n => String(n).padStart(2, '0');
+  return `${shifted.getUTCFullYear()}年${pad(shifted.getUTCMonth() + 1)}月${pad(shifted.getUTCDate())}日 ${pad(shifted.getUTCHours())}:${pad(shifted.getUTCMinutes())}`;
+}
+
+function buildEntityIndex(articles) {
+  const map = new Map();
+  for (const a of articles) {
+    const mainSet = new Set(a.main_entities || []);
+    const names = a.all_entities || [];
+    for (const name of names) {
+      if (!name) continue;
+      if (!map.has(name)) map.set(name, { name, articles: [], mainCount: 0, relatedCount: 0 });
+      const rec = map.get(name);
+      rec.articles.push(a);
+      if (mainSet.has(name)) rec.mainCount++;
+      else rec.relatedCount++;
+    }
+  }
+  for (const rec of map.values()) {
+    rec.articles.sort((x, y) => new Date(y.pub_date) - new Date(x.pub_date));
+  }
+  return map;
+}
+
+function sortedEntities() {
+  let list = Array.from(state.entityIndex.values());
+  if (state.query) {
+    const q = state.query.toLowerCase();
+    list = list.filter(e => e.name.toLowerCase().includes(q));
+  }
+  if (state.sort === 'name') {
+    list.sort((a, b) => a.name.localeCompare(b.name, 'ja'));
+  } else {
+    list.sort((a, b) => b.articles.length - a.articles.length || a.name.localeCompare(b.name, 'ja'));
+  }
+  return list;
+}
+
+function renderEntityList() {
+  const list = sortedEntities();
+  document.getElementById('entityCountLine').textContent = `${list.length}社`;
+  const container = document.getElementById('entityList');
+  if (!list.length) {
+    container.innerHTML = '<div class="empty-state">該当する企業がありません</div>';
+    return;
+  }
+  container.innerHTML = list.map(e => `
+    <div class="entity-row${state.selected === e.name ? ' active' : ''}" data-name="${escapeHtml(e.name)}">
+      <div>
+        <div class="name">${escapeHtml(e.name)}</div>
+        <div class="breakdown">主体 ${e.mainCount} / 関連 ${e.relatedCount}</div>
+      </div>
+      <div class="count">${e.articles.length}</div>
+    </div>
+  `).join('');
+  container.querySelectorAll('.entity-row').forEach(row => {
+    row.addEventListener('click', () => selectEntity(row.dataset.name));
+  });
+}
+
+function cardHtml(article, entityName) {
+  const isMain = (article.main_entities || []).includes(entityName);
+  return `
+  <article class="card">
+    <div class="badges">
+      <span class="badge" style="background:${article.source_color || '#666'}">${escapeHtml(article.source_name)}</span>
+      <span class="badge category">${escapeHtml(article.category || '未分類')}</span>
+      <span class="badge role ${isMain ? 'main' : 'related'}">${isMain ? '主体' : '関連'}</span>
+    </div>
+    <h3><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a></h3>
+    <div class="pub-date">${formatJst(article.pub_date)}</div>
+    <div class="summary${article.summary_error ? ' error' : ''}">${escapeHtml((article.summary || '').slice(0, 160))}${(article.summary || '').length > 160 ? '…' : ''}</div>
+    <div class="entities">
+      ${(article.main_entities || []).map(e => `<span class="tag main${e === entityName ? ' current' : ''}">${escapeHtml(e)}</span>`).join('')}
+      ${(article.all_entities || []).filter(e => !(article.main_entities || []).includes(e)).map(e => `<span class="tag related${e === entityName ? ' current' : ''}">${escapeHtml(e)}</span>`).join('')}
+    </div>
+  </article>`;
+}
+
+function renderArticlePanel() {
+  const inner = document.getElementById('articlePanelInner');
+  const mobileBack = document.getElementById('mobileBackBtn');
+  const entityPanel = document.getElementById('entityPanel');
+
+  if (!state.selected) {
+    inner.innerHTML = '<div class="empty-state">左の一覧から企業名を選択すると、関連記事が表示されます</div>';
+    mobileBack.classList.remove('show');
+    entityPanel.classList.remove('hide-on-mobile');
+    return;
+  }
+
+  const rec = state.entityIndex.get(state.selected);
+  if (!rec) {
+    inner.innerHTML = '<div class="empty-state">該当する記事が見つかりません</div>';
+    return;
+  }
+
+  mobileBack.classList.add('show');
+  entityPanel.classList.add('hide-on-mobile');
+
+  const header = `
+    <div class="article-panel-header">
+      <h2>${escapeHtml(rec.name)}</h2>
+      <span class="meta">${rec.articles.length}件の記事（主体 ${rec.mainCount} / 関連 ${rec.relatedCount}）</span>
+    </div>`;
+  inner.innerHTML = header + rec.articles.map(a => cardHtml(a, rec.name)).join('');
+}
+
+function selectEntity(name) {
+  state.selected = name;
+  location.hash = `entity=${encodeURIComponent(name)}`;
+  renderEntityList();
+  renderArticlePanel();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function applyHashSelection() {
+  const match = location.hash.match(/entity=([^&]+)/);
+  if (match) {
+    const name = decodeURIComponent(match[1]);
+    if (state.entityIndex.has(name)) {
+      state.selected = name;
+    }
+  }
+}
+
+function setupToolbar() {
+  let searchTimer = null;
+  document.getElementById('entitySearch').addEventListener('input', (e) => {
+    clearTimeout(searchTimer);
+    const value = e.target.value;
+    searchTimer = setTimeout(() => {
+      state.query = value.trim();
+      renderEntityList();
+    }, 150);
+  });
+
+  document.querySelectorAll('#sortTabs button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.sort = btn.dataset.sort;
+      document.querySelectorAll('#sortTabs button').forEach(b => b.classList.toggle('active', b === btn));
+      renderEntityList();
+    });
+  });
+
+  document.getElementById('mobileBackBtn').addEventListener('click', () => {
+    state.selected = null;
+    history.replaceState(null, '', location.pathname + location.search);
+    renderEntityList();
+    renderArticlePanel();
+  });
+
+  window.addEventListener('hashchange', () => {
+    applyHashSelection();
+    renderEntityList();
+    renderArticlePanel();
+  });
+}
+
+async function loadData() {
+  const res = await fetch(NEWS_URL);
+  const data = await res.json();
+  state.articles = data.articles || [];
+  state.entityIndex = buildEntityIndex(state.articles);
+  document.getElementById('lastUpdated').textContent = data.last_updated
+    ? `最終更新: ${formatJst(data.last_updated)}`
+    : '';
+  applyHashSelection();
+  renderEntityList();
+  renderArticlePanel();
+}
+
+setupToolbar();
+loadData();
+</script>
+</body>
+</html>
