@@ -94,6 +94,19 @@ NEWS_FILE=scripts/test_data/news.sample.json GEMINI_API_KEY=xxxxx python scripts
 
 結果を確認してから、本番の `docs/data/news.json` に対して同様に実行する（`NEWS_FILE` を指定しなければ既定パスが使われる）。
 
+## reanalyzeのトークン節約設計
+
+`reanalyze.py` は以下の2点でGemini APIのトークン消費を抑えている。
+
+- **1回の実行件数の上限**（`--limit`、既定10件）: 対象記事が多くても一部だけ処理し、残りは次回実行時に処理される。
+- **バッチ処理**（`--batch-size`、既定5件）: 記事を複数件まとめて1回のAPI呼び出しで分析する。カテゴリ一覧などの指示文オーバーヘッドを記事ごとに重複させないため、1件ずつ呼び出す場合よりトークン消費を大きく削減できる。
+
+```bash
+python scripts/reanalyze.py --limit 5 --batch-size 5
+```
+
+GitHub Actionsの `Reanalyze Articles` ワークフローも `workflow_dispatch` の入力（`limit` / `batch_size`）から同じ値を渡せる。429（クォータ超過）を検知した場合は即座にその実行内のGemini呼び出しを打ち切り、残りはキーワードフォールバックに切り替わる。
+
 ## RSSソースについて
 
 `CoinTelegraph JP` (`jp.cointelegraph.com`) は現在サイトが「410 Gone」を返しており取得できないため、

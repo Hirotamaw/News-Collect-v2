@@ -392,6 +392,104 @@ def gemini_analyze(title, body_text, api_key, timeout=30):
     }
 
 
+def _build_batch_prompt(items):
+    """複数記事をまとめて1回のAPI呼び出しで分析するためのプロンプト。
+    カテゴリ一覧・出力ルールなどの指示文は記事の数に関わらず1回分しか送らないため、
+    記事1件ごとに呼び出す場合に比べてトークン消費を大きく抑えられる。
+    """
+    categories_list = "\n".join(f"- {c}" for c in CATEGORIES)
+    blocks = "\n\n".join(
+        f"### 記事ID: {item['id']}\nタイトル: {item['title']}\n本文:\n{item['body'][:4000]}"
+        for item in items
+    )
+    return f"""あなたは暗号資産(仮想通貨)ニュースの編集者です。以下は複数の記事です。
+それぞれの記事を個別に分析し、指定のJSON形式（results配列、記事ごとに1要素）で出力してください。
+記事は「### 記事ID: X」で区切られています。記事数と同じ数だけresultsに要素を含めること。
+
+# 記事一覧
+{blocks}
+
+# resultsの各要素の出力項目
+- id: 対応する記事ID（上記の「### 記事ID: X」のXの値をそのまま文字列で）。
+- summary: 350〜400字の日本語要約。省略記号（…や"[…]"など）は使わず、必ず完結した文章にすること。
+- category: 以下のカテゴリの中から最も適切なものを1つだけ選ぶこと（このリストの文字列をそのまま出力し、番号は使わないこと）。
+{categories_list}
+- all_entities: その記事本文中に登場する全ての企業名・団体名・プロジェクト名のリスト。以下のルールを厳守すること。
+  - 同一の企業・団体がカタカナ表記と英語表記の両方で記事中に登場する場合（例:「コインベース」と「Coinbase」）、重複して列挙せず、どちらか一方（より正式・一般的な表記）に統一すること。
+  - 人物名（例:「デービッド・ソロモン」）や役職名（CEO、会長、社長、代表取締役など）は企業名ではないため含めないこと。その人物が所属する企業名のみを含めること。
+- main_entities: all_entitiesのうち、タイトルにおいて主役となっている企業・団体を1〜3件選んだリスト。
+  - カテゴリが「分析・レポート」の場合は、分析・調査を行っている企業や機関（分析主体）を優先すること。分析対象となっている企業やプロトコルそのものではない点に注意すること。
+"""
+
+
+def gemini_analyze_batch(items, api_key, timeout=60):
+    """複数記事(items: [{"id","title","body"}, ...])をまとめてGemini APIで分析する。
+    戻り値は {id(str): 分析結果dict} で、応答に含まれなかったidは含まれない
+    （呼び出し側でフォールバックにより補完すること）。全体が失敗した場合は例外を送出する。
+    """
+    if not api_key:
+        raise RuntimeError("GEMINI_API_KEY is not set")
+    if not items:
+        return {}
+
+    payload = {
+        "contents": [{"parts": [{"text": _build_batch_prompt(items)}]}],
+        "generationConfig": {
+            "temperature": 0.3,
+            # バッチ分まとめて出力するため記事数に応じて上限を引き上げる
+            "maxOutputTokens": max(2048, 1200 * len(items)),
+            "thinkingConfig": {"thinkingBudget": 512},
+            "responseMimeType": "application/json",
+            "responseSchema": {
+                "type": "OBJECT",
+                "properties": {
+                    "results": {
+                        "type": "ARRAY",
+                        "items": {
+                            "type": "OBJECT",
+                            "properties": {
+                                "id": {"type": "STRING"},
+                                "summary": {"type": "STRING"},
+                                "category": {"type": "STRING", "enum": CATEGORIES},
+                                "all_entities": {"type": "ARRAY", "items": {"type": "STRING"}},
+                                "main_entities": {"type": "ARRAY", "items": {"type": "STRING"}},
+                            },
+                            "required": ["id", "summary", "category", "all_entities", "main_entities"],
+                        },
+                    },
+                },
+                "required": ["results"],
+            },
+        },
+    }
+    headers = {
+        "Content-Type": "application/json",
+        "x-goog-api-key": api_key,
+    }
+    resp = requests.post(GEMINI_ENDPOINT, headers=headers, json=payload, timeout=timeout)
+    resp.raise_for_status()
+    data = resp.json()
+    text = data["candidates"][0]["content"]["parts"][0]["text"]
+    parsed = json.loads(text)
+
+    results = {}
+    for entry in parsed.get("results", []):
+        item_id = str(entry.get("id", "")).strip()
+        summary = (entry.get("summary") or "").strip()
+        if not item_id or not summary:
+            continue
+        results[item_id] = {
+            "summary": summary,
+            "summary_error": False,
+            "category": entry.get("category") or DEFAULT_CATEGORY,
+            "all_entities": canonicalize_entities(entry.get("all_entities")),
+            "main_entities": canonicalize_entities(entry.get("main_entities")),
+        }
+    if not results:
+        raise ValueError("empty batch results from Gemini")
+    return results
+
+
 def _describe_error(exc):
     """例外からHTTPステータスコードと理由を人間可読な形にする（キー・URLは含めない）。"""
     if isinstance(exc, requests.HTTPError) and exc.response is not None:
@@ -436,3 +534,41 @@ def analyze_article(title, body_text, api_key=None, retries=3):
     result = fallback_analysis(title, body_text)
     result["quota_exhausted"] = False
     return result
+
+
+def analyze_batch(items, api_key=None, retries=3):
+    """複数記事(items: [{"id","title","body"}, ...])を1回のGemini呼び出しでまとめて分析する。
+    記事ごとに指示文を送るanalyze_article()に比べ、指示文オーバーヘッドをitems件数ぶん
+    重複させずに済むためトークン消費を抑えられる。戻り値は {id(str): 分析結果dict}
+    （全item分そろっている。失敗分はキーワードフォールバック）。
+    """
+    if not items:
+        return {}
+
+    quota_exhausted = False
+    if api_key:
+        last_err = None
+        for attempt in range(retries):
+            try:
+                results = gemini_analyze_batch(items, api_key)
+                # 応答に含まれなかったid（モデルが取りこぼした分）は個別にフォールバックで補完
+                for item in items:
+                    key = str(item["id"])
+                    if key not in results:
+                        results[key] = fallback_analysis(item["title"], item["body"])
+                    results[key]["quota_exhausted"] = False
+                return results
+            except Exception as exc:  # noqa: BLE001
+                last_err = exc
+                if _status_code(exc) == 429:
+                    quota_exhausted = True
+                    break
+                time.sleep(2.0 * (attempt + 1))
+        print(f"[warn] Gemini batch analysis failed ({_describe_error(last_err)}); using keyword fallback for {len(items)} article(s)")
+
+    results = {}
+    for item in items:
+        result = fallback_analysis(item["title"], item["body"])
+        result["quota_exhausted"] = quota_exhausted
+        results[str(item["id"])] = result
+    return results

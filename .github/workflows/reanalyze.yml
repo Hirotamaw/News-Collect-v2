@@ -2,7 +2,18 @@ name: Reanalyze Articles
 
 # 手動実行専用。定期実行スケジュールは持たない。
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "1回の実行で処理する件数の上限（トークン節約のため既定は少なめ）"
+        required: true
+        default: "10"
+        type: string
+      batch_size:
+        description: "バッチ1回あたりの記事数（まとめてAPIに送る件数）"
+        required: true
+        default: "5"
+        type: string
 
 permissions:
   contents: write
@@ -26,6 +37,8 @@ jobs:
       - name: Run reanalyze.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          REANALYZE_LIMIT: ${{ github.event.inputs.limit || '10' }}
+          REANALYZE_BATCH_SIZE: ${{ github.event.inputs.batch_size || '5' }}
         run: python scripts/reanalyze.py
 
       - name: Commit and push if changed
