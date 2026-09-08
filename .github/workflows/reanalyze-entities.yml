@@ -1,0 +1,64 @@
+name: Reanalyze Entity Issues
+
+# 手動実行専用。企業名の表記重複（カタカナ/英語）・人物名混入・主体企業未抽出を
+# まず識別し、対象記事だけをバッチ処理で再分析する。
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "true: 対象記事の識別・件数表示のみ行い、API呼び出しは行わない"
+        required: true
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+      limit:
+        description: "1回の実行で処理する件数の上限（トークン節約のため既定は少なめ）"
+        required: true
+        default: "10"
+        type: string
+      batch_size:
+        description: "バッチ1回あたりの記事数（まとめてAPIに送る件数）"
+        required: true
+        default: "5"
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  reanalyze-entities:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      # 識別 → (dry_run=falseの場合のみ) 再分析 → commit/push の順序は厳守
+      - name: Run reanalyze_entities.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          REANALYZE_LIMIT: ${{ github.event.inputs.limit || '10' }}
+          REANALYZE_BATCH_SIZE: ${{ github.event.inputs.batch_size || '5' }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "false" ]; then
+            python scripts/reanalyze_entities.py
+          else
+            python scripts/reanalyze_entities.py --dry-run
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/news.json docs/data/entities.json
+          git diff --cached --quiet || git commit -m "chore: reanalyze articles with entity-quality issues"
+          git push

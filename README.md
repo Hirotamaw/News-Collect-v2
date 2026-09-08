@@ -7,19 +7,22 @@ Webページで閲覧できるシステム。ホスティングは [Render](http
 
 ```
 scripts/
-  fetch_news.py    # 毎日自動実行（RSS取得→分析→docs/data/*.json更新）
-  reanalyze.py      # 既存記事の再分析（手動実行のみ）
-  analyzer.py       # 共通ロジック（Gemini呼び出し・キーワードフォールバック・企業名抽出）
+  fetch_news.py         # 毎日自動実行（RSS取得→分析→docs/data/*.json更新）
+  reanalyze.py           # 既存記事の再分析（手動実行のみ）
+  reanalyze_entities.py  # 企業名タグの品質問題（表記重複・主体企業未抽出）を識別して再分析（手動実行のみ）
+  analyzer.py            # 共通ロジック（Gemini呼び出し・キーワードフォールバック・企業名抽出）
   test_data/
     news.sample.json  # API動作確認用の5記事サンプル（トークン節約用）
 docs/
   index.html         # フロントエンド（Renderが配信する静的ファイル）
+  entities.html      # 企業名から記事を探すページ
   data/
     news.json
     entities.json
 .github/workflows/
-  fetch-news.yml     # 毎日09:00 JSTに自動実行 → git push
-  reanalyze.yml       # 手動実行のみ
+  fetch-news.yml           # 毎日09:00 JSTに自動実行 → git push
+  reanalyze.yml             # 手動実行のみ
+  reanalyze-entities.yml    # 手動実行のみ（企業名品質問題の識別・再分析）
 render.yaml           # RenderのStatic Site定義（Blueprint）
 ```
 
@@ -106,6 +109,30 @@ python scripts/reanalyze.py --limit 5 --batch-size 5
 ```
 
 GitHub Actionsの `Reanalyze Articles` ワークフローも `workflow_dispatch` の入力（`limit` / `batch_size`）から同じ値を渡せる。429（クォータ超過）を検知した場合は即座にその実行内のGemini呼び出しを打ち切り、残りはキーワードフォールバックに切り替わる。
+
+## 企業名タグの品質問題だけを狙って再分析する
+
+`reanalyze.py` の対象条件（要約エラーなど）とは別に、企業名タグに以下のような問題がある記事だけを
+識別して再分析したい場合は `scripts/reanalyze_entities.py` を使う。
+
+- 表記重複・人物名/役職名混入の疑い（例:「コインベース」と「Coinbase」が別々に列挙、
+  「ネットスターズ取締役CFO安達源」のような人物名+役職名が混入）
+- 主体企業が未抽出（`all_entities` はあるのに `main_entities` が空）
+
+判定は `canonicalize_entities()`（表記統一・人物名/役職名除去）を適用して件数が減るかどうかで
+機械的に行うため、summary_error=false の「一見成功済み」の記事も対象になり得る。
+
+```bash
+# まず対象件数を確認する（API呼び出しなし）
+python scripts/reanalyze_entities.py --dry-run
+
+# 確認できたら実際に再分析する（reanalyze.pyと同じ --limit / --batch-size のトークン節約策あり）
+python scripts/reanalyze_entities.py --limit 5 --batch-size 5
+```
+
+GitHub Actionsの `Reanalyze Entity Issues` ワークフローは `dry_run` 入力の既定値が `true`
+（識別・件数表示のみでAPI呼び出しなし）になっている。実際に再分析を実行するには `dry_run` を
+`false` に指定して手動実行すること。
 
 ## RSSソースについて
 

@@ -93,28 +93,27 @@ def chunked(seq, size):
         yield seq[i : i + size]
 
 
-def main():
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--limit", type=int, default=DEFAULT_LIMIT, help=f"1回の実行で処理する件数の上限（既定: {DEFAULT_LIMIT}）")
-    parser.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE, help=f"バッチ1回あたりの記事数（既定: {DEFAULT_BATCH_SIZE}）")
-    args = parser.parse_args()
+def process_targets(all_targets, limit, batch_size, api_key, label="reanalysis criteria"):
+    """対象記事リストをバッチ処理で再分析する（上限・バッチ化・429時の打ち切りを内包）。
 
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        print("[info] GEMINI_API_KEY not set; using keyword fallback for all articles")
+    articleオブジェクトはnews_db['articles']内のものをその場で書き換える
+    （呼び出し側でsave_jsonすること）。他のスクリプト（reanalyze_entities.py等）から
+    ターゲット選定ロジックだけを差し替えて再利用できるよう分離してある。
 
-    news_db = load_json(DATA_FILE, {"articles": [], "last_updated": None, "total_count": 0, "sources": []})
-    all_targets = [a for a in news_db["articles"] if needs_reanalysis(a)]
-    targets = all_targets[: args.limit] if args.limit else all_targets
+    戻り値: 実際に更新した件数。
+    """
+    targets = all_targets[:limit] if limit else all_targets
     remaining = len(all_targets) - len(targets)
     print(
-        f"[info] {len(all_targets)} article(s) match reanalysis criteria; "
-        f"processing {len(targets)} this run (limit={args.limit}, batch_size={args.batch_size})"
+        f"[info] {len(all_targets)} article(s) match {label}; "
+        f"processing {len(targets)} this run (limit={limit}, batch_size={batch_size})"
         + (f"; {remaining} will remain for a future run" if remaining > 0 else "")
     )
+    if not targets:
+        return 0
 
     updated_count = 0
-    for chunk in chunked(targets, args.batch_size):
+    for chunk in chunked(targets, batch_size):
         items = []
         for i, article in enumerate(chunk):
             body_text = fetch_article_body(article["link"])
@@ -140,6 +139,23 @@ def main():
 
         if api_key:
             time.sleep(4)  # バッチ間でGemini APIの無料枠レート制限に配慮
+
+    return updated_count
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument("--limit", type=int, default=DEFAULT_LIMIT, help=f"1回の実行で処理する件数の上限（既定: {DEFAULT_LIMIT}）")
+    parser.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE, help=f"バッチ1回あたりの記事数（既定: {DEFAULT_BATCH_SIZE}）")
+    args = parser.parse_args()
+
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("[info] GEMINI_API_KEY not set; using keyword fallback for all articles")
+
+    news_db = load_json(DATA_FILE, {"articles": [], "last_updated": None, "total_count": 0, "sources": []})
+    all_targets = [a for a in news_db["articles"] if needs_reanalysis(a)]
+    updated_count = process_targets(all_targets, args.limit, args.batch_size, api_key)
 
     news_db["last_updated"] = datetime.now(JST).isoformat()
     save_json(DATA_FILE, news_db)
