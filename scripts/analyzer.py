@@ -375,6 +375,7 @@ def gemini_analyze(title, body_text, api_key, timeout=30):
     resp = requests.post(GEMINI_ENDPOINT, headers=headers, json=payload, timeout=timeout)
     resp.raise_for_status()
     data = resp.json()
+    _log_usage(data, 1)
     text = data["candidates"][0]["content"]["parts"][0]["text"]
     result = json.loads(text)
 
@@ -390,6 +391,22 @@ def gemini_analyze(title, body_text, api_key, timeout=30):
         "all_entities": canonicalize_entities(result.get("all_entities")),
         "main_entities": canonicalize_entities(result.get("main_entities")),
     }
+
+
+def _log_usage(response_data, article_count):
+    """Gemini応答のusageMetadataをログに出す（キー・URLは含まない）。"""
+    usage = response_data.get("usageMetadata")
+    if not usage:
+        return
+    prompt = usage.get("promptTokenCount", 0)
+    thoughts = usage.get("thoughtsTokenCount", 0)
+    completion = usage.get("candidatesTokenCount", 0)
+    total = usage.get("totalTokenCount", 0)
+    per_article = f"{total / article_count:.0f}" if article_count else "n/a"
+    print(
+        f"[info] Gemini usage: prompt={prompt} thoughts={thoughts} completion={completion} "
+        f"total={total} ({article_count} article(s), ~{per_article} tokens/article)"
+    )
 
 
 def _build_batch_prompt(items):
@@ -469,6 +486,7 @@ def gemini_analyze_batch(items, api_key, timeout=60):
     resp = requests.post(GEMINI_ENDPOINT, headers=headers, json=payload, timeout=timeout)
     resp.raise_for_status()
     data = resp.json()
+    _log_usage(data, len(items))
     text = data["candidates"][0]["content"]["parts"][0]["text"]
     parsed = json.loads(text)
 
