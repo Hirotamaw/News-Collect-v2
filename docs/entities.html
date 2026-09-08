@@ -93,6 +93,43 @@
   }
   .sort-tabs button.active { background: var(--accent); color: #fff; }
 
+  .type-tabs {
+    display: flex;
+    gap: 6px;
+    background: var(--chip-bg);
+    padding: 4px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+  }
+  .type-tabs button {
+    border: none;
+    background: transparent;
+    padding: 6px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--chip-text);
+  }
+  .type-tabs button.active { background: var(--accent); color: #fff; }
+
+  .role-tabs {
+    display: flex;
+    gap: 6px;
+    background: var(--chip-bg);
+    padding: 4px;
+    border-radius: 10px;
+  }
+  .role-tabs button {
+    border: none;
+    background: transparent;
+    padding: 5px 11px;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 12px;
+    color: var(--chip-text);
+  }
+  .role-tabs button.active { background: var(--accent); color: #fff; }
+
   .layout {
     display: grid;
     grid-template-columns: 320px 1fr;
@@ -138,8 +175,17 @@
   .entity-row:last-child { border-bottom: none; }
   .entity-row:hover { background: var(--chip-bg); }
   .entity-row.active { background: var(--row-active-bg); border-left: 3px solid var(--row-active-border); padding-left: 11px; }
-  .entity-row .name { font-size: 14px; font-weight: 500; }
+  .entity-row .name { font-size: 14px; font-weight: 500; display: flex; align-items: center; gap: 6px; }
   .entity-row .breakdown { font-size: 11px; color: var(--text-sub); margin-top: 2px; }
+  .type-badge {
+    font-size: 10px;
+    padding: 1px 7px;
+    border-radius: 999px;
+    font-weight: 500;
+    flex-shrink: 0;
+  }
+  .type-badge.organization { background: #dbeafe; color: #1e40af; }
+  .type-badge.other { background: #f3e8ff; color: #6b21a8; }
   .entity-row .count {
     font-size: 12px;
     color: #fff;
@@ -234,7 +280,11 @@
       --row-active-border: #818cf8;
     }
     .sort-tabs button.active { color: #14161a; }
+    .type-tabs button.active { color: #14161a; }
+    .role-tabs button.active { color: #14161a; }
     .entity-row .count { color: #14161a; }
+    .type-badge.organization { background: #1e3a5f; color: #93c5fd; }
+    .type-badge.other { background: #4c1d95; color: #e9d5ff; }
   }
 </style>
 </head>
@@ -248,6 +298,14 @@
     <div class="sort-tabs" id="sortTabs">
       <button data-sort="count" class="active">記事数順</button>
       <button data-sort="name">名前順</button>
+    </div>
+  </div>
+  <div class="toolbar" style="margin-top:8px;">
+    <div class="type-tabs" id="typeTabs">
+      <button data-type="all" class="active">すべて</button>
+      <button data-type="company">企業</button>
+      <button data-type="organization">組織</button>
+      <button data-type="other">その他</button>
     </div>
   </div>
 </header>
@@ -271,9 +329,11 @@ const NEWS_URL = 'data/news.json';
 
 const state = {
   articles: [],
-  entityIndex: new Map(), // name -> {name, articles:[], mainCount, relatedCount}
+  entityIndex: new Map(), // name -> {name, articles:[], mainCount, relatedCount, type}
   sort: 'count',
   query: '',
+  typeFilter: 'all', // 'all' | 'company' | 'organization' | 'other'
+  roleFilter: 'all',  // 'all' | 'main' | 'related'
   selected: null,
 };
 
@@ -285,6 +345,51 @@ function escapeHtml(str) {
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
 }
+
+// ==== 企業/組織/その他 の分類ロジック ====
+// 判断軸: デフォルトは「企業」。非企業と確信できるものだけを個別に除外する
+// （実在企業が誤って弾かれるのを避けるため、判定に自信が持てないものは全て「企業」寄りに倒す）。
+// 1) 主要な暗号資産・ステーブルコインのティッカー/シンボルに完全一致 → 「その他」
+// 2) 規制当局・中央銀行・議会・国際機関などの確実なリストに完全一致、
+//    または「大学」「協会」「財団」「委員会」「理事会」等の非営利・公的な接尾辞に一致 → 「組織」
+// 3) それ以外はすべて「企業」（デフォルト）
+
+const TICKER_OTHER = new Set([
+  'BTC', 'ETH', 'XRP', 'BNB', 'SOL', 'ADA', 'DOGE', 'TRX', 'TON', 'DOT', 'LINK', 'MATIC', 'AVAX',
+  'USDT', 'USDC', 'USD1', 'USDE', 'USDO', 'JPYC', 'JPYSC', 'RLUSD', 'GBTC', 'FBTC', 'IBIT', 'BUIDL', 'BILS', 'OUSD',
+  'IOTA', 'ENA', 'BONK',
+]);
+
+const ORG_EXACT = new Set([
+  // 日本の公的機関
+  '金融庁', '日本銀行', 'デジタル庁', '財務省', '国税庁', '消費者庁', '公正取引委員会', '証券取引等監視委員会',
+  '国会', '衆議院', '参議院',
+  // 海外の規制当局・中央銀行
+  'SEC', 'CFTC', 'FBI', 'CIA', 'IRS', 'OFAC', 'FINRA', 'OCC', 'FDIC', 'NYDFS', 'FRB', 'ECB', 'FCA', 'HMRC',
+  'NIST', 'VARA', 'FSRA', 'FMA', '米連邦捜査局', '米証券取引委員会', '米商品先物取引委員会', '米財務省',
+  '米連邦準備制度理事会', '欧州中央銀行', 'EU理事会', '欧州委員会',
+  // 国際機関・議会団体
+  'IMF', 'EU', 'G20', 'NATO', 'OECD', 'BIS', 'FSB', 'IEA', 'WTO', 'ISO', 'FATF', 'APPG',
+  '国連', '世界銀行', '国際通貨基金', '経済協力開発機構',
+  // 非営利の業界団体・専門家団体
+  'ABA', 'AICPA',
+]);
+
+const ORG_SUFFIX_PATTERNS = [
+  /大学$/, /大学院$/, /University$/i,
+  /(協会|財団|委員会|審議会|理事会|機構|税関)$/,
+  /(Association|Foundation|Commission|Institute|Council)$/i,
+];
+
+function classifyEntity(name) {
+  const upper = name.toUpperCase();
+  if (TICKER_OTHER.has(upper)) return 'other';
+  if (ORG_EXACT.has(name) || ORG_EXACT.has(upper)) return 'organization';
+  if (ORG_SUFFIX_PATTERNS.some(re => re.test(name))) return 'organization';
+  return 'company';
+}
+
+const TYPE_LABELS = { company: '企業', organization: '組織', other: 'その他' };
 
 function formatJst(isoString) {
   const d = new Date(isoString);
@@ -300,7 +405,7 @@ function buildEntityIndex(articles) {
     const names = a.all_entities || [];
     for (const name of names) {
       if (!name) continue;
-      if (!map.has(name)) map.set(name, { name, articles: [], mainCount: 0, relatedCount: 0 });
+      if (!map.has(name)) map.set(name, { name, articles: [], mainCount: 0, relatedCount: 0, type: classifyEntity(name) });
       const rec = map.get(name);
       rec.articles.push(a);
       if (mainSet.has(name)) rec.mainCount++;
@@ -315,6 +420,9 @@ function buildEntityIndex(articles) {
 
 function sortedEntities() {
   let list = Array.from(state.entityIndex.values());
+  if (state.typeFilter !== 'all') {
+    list = list.filter(e => e.type === state.typeFilter);
+  }
   if (state.query) {
     const q = state.query.toLowerCase();
     list = list.filter(e => e.name.toLowerCase().includes(q));
@@ -338,7 +446,7 @@ function renderEntityList() {
   container.innerHTML = list.map(e => `
     <div class="entity-row${state.selected === e.name ? ' active' : ''}" data-name="${escapeHtml(e.name)}">
       <div>
-        <div class="name">${escapeHtml(e.name)}</div>
+        <div class="name">${escapeHtml(e.name)}${e.type !== 'company' ? `<span class="type-badge ${e.type}">${TYPE_LABELS[e.type]}</span>` : ''}</div>
         <div class="breakdown">主体 ${e.mainCount} / 関連 ${e.relatedCount}</div>
       </div>
       <div class="count">${e.articles.length}</div>
@@ -389,16 +497,40 @@ function renderArticlePanel() {
   mobileBack.classList.add('show');
   entityPanel.classList.add('hide-on-mobile');
 
+  const filtered = rec.articles.filter(a => {
+    if (state.roleFilter === 'all') return true;
+    const isMain = (a.main_entities || []).includes(rec.name);
+    return state.roleFilter === 'main' ? isMain : !isMain;
+  });
+
   const header = `
     <div class="article-panel-header">
-      <h2>${escapeHtml(rec.name)}</h2>
-      <span class="meta">${rec.articles.length}件の記事（主体 ${rec.mainCount} / 関連 ${rec.relatedCount}）</span>
+      <h2>${escapeHtml(rec.name)}${rec.type !== 'company' ? `<span class="type-badge ${rec.type}">${TYPE_LABELS[rec.type]}</span>` : ''}</h2>
+      <span class="meta">${filtered.length}件表示中（全${rec.articles.length}件）</span>
+    </div>
+    <div class="role-tabs" id="roleTabs" style="margin-bottom:14px;">
+      <button data-role="all" class="${state.roleFilter === 'all' ? 'active' : ''}">すべて (${rec.articles.length})</button>
+      <button data-role="main" class="${state.roleFilter === 'main' ? 'active' : ''}">主体 (${rec.mainCount})</button>
+      <button data-role="related" class="${state.roleFilter === 'related' ? 'active' : ''}">関連 (${rec.relatedCount})</button>
     </div>`;
-  inner.innerHTML = header + rec.articles.map(a => cardHtml(a, rec.name)).join('');
+
+  const body = filtered.length
+    ? filtered.map(a => cardHtml(a, rec.name)).join('')
+    : '<div class="empty-state">該当する記事がありません</div>';
+
+  inner.innerHTML = header + body;
+
+  document.querySelectorAll('#roleTabs button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.roleFilter = btn.dataset.role;
+      renderArticlePanel();
+    });
+  });
 }
 
 function selectEntity(name) {
   state.selected = name;
+  state.roleFilter = 'all';
   location.hash = `entity=${encodeURIComponent(name)}`;
   renderEntityList();
   renderArticlePanel();
@@ -434,6 +566,14 @@ function setupToolbar() {
     });
   });
 
+  document.querySelectorAll('#typeTabs button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.typeFilter = btn.dataset.type;
+      document.querySelectorAll('#typeTabs button').forEach(b => b.classList.toggle('active', b === btn));
+      renderEntityList();
+    });
+  });
+
   document.getElementById('mobileBackBtn').addEventListener('click', () => {
     state.selected = null;
     history.replaceState(null, '', location.pathname + location.search);
@@ -448,6 +588,16 @@ function setupToolbar() {
   });
 }
 
+function updateTypeTabCounts() {
+  const counts = { company: 0, organization: 0, other: 0 };
+  for (const e of state.entityIndex.values()) counts[e.type]++;
+  const total = state.entityIndex.size;
+  const labelFor = { all: `すべて (${total})`, company: `企業 (${counts.company})`, organization: `組織 (${counts.organization})`, other: `その他 (${counts.other})` };
+  document.querySelectorAll('#typeTabs button').forEach(btn => {
+    btn.textContent = labelFor[btn.dataset.type];
+  });
+}
+
 async function loadData() {
   const res = await fetch(NEWS_URL);
   const data = await res.json();
@@ -456,6 +606,7 @@ async function loadData() {
   document.getElementById('lastUpdated').textContent = data.last_updated
     ? `最終更新: ${formatJst(data.last_updated)}`
     : '';
+  updateTypeTabCounts();
   applyHashSelection();
   renderEntityList();
   renderArticlePanel();
