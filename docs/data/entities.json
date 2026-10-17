@@ -1,11 +1,26 @@
 {
   "entities": {
     "楽天ウォレット": {
-      "article_count": 26,
-      "as_main_count": 24,
+      "article_count": 29,
+      "as_main_count": 27,
       "as_related_count": 2,
       "recent_articles": [
         {
+          "title": "BTC（ビットコイン）はFOMC前に底堅い展開か、米企業決算と中東情勢次第では一段安も【マネックス証券】",
+          "link": "https://www.nadanews.com/372746/",
+          "pub_date": "2026-10-16T19:31:37+09:00"
+        },
+        {
+          "title": "マトリックス法によるテクニカル分析（2026/10/16）ダブルトップ解消も、予断許さず【楽天ウォレット】",
+          "link": "https://www.nadanews.com/372750/",
+          "pub_date": "2026-10-16T20:00:00+09:00"
+        },
+        {
+          "title": "私が尊敬する世界の暗号資産アナリスト5人──市場を読み解くために学び続けていること【エックスウィン】",
+          "link": "https://www.nadanews.com/372651/",
+          "pub_date": "2026-10-17T06:00:00+09:00"
+        },
+        {
           "title": "楽天ウォレット、現物と証拠金のアプリを統合 パスキー必須に",
           "link": "https://coinpost.jp/?p=743139",
           "pub_date": "2026-10-15T13:59:03+09:00"
@@ -14,31 +29,31 @@
           "title": "ビットコイン8.2万ドル台回復、米国債利回り低下で買い戻し",
           "link": "https://www.nadanews.com/372593/",
           "pub_date": "2026-10-16T05:29:58+09:00"
-        },
-        {
-          "title": "米CPI上振れでビットコイン8万2000ドル割れ──10月利上げ観測が急上昇",
-          "link": "https://www.nadanews.com/372479/",
-          "pub_date": "2026-10-15T08:30:00+09:00"
-        },
-        {
-          "title": "楽天ウォレット、暗号資産アプリを統合──現物・証拠金を一本化",
-          "link": "https://www.nadanews.com/368289/",
-          "pub_date": "2026-10-15T10:00:00+09:00"
-        },
-        {
-          "title": "ビットコインの9万ドル再挑戦、米CPIとタイでのIMF総会が鍵【価格分析】",
-          "link": "https://www.nadanews.com/372264/",
-          "pub_date": "2026-10-13T23:09:46+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.237265+09:00",
-      "last_seen": "2026-10-16T10:59:56.166648+09:00"
+      "last_seen": "2026-10-17T10:52:12.075396+09:00"
     },
     "楽天": {
-      "article_count": 14,
-      "as_main_count": 5,
-      "as_related_count": 9,
+      "article_count": 17,
+      "as_main_count": 6,
+      "as_related_count": 11,
       "recent_articles": [
+        {
+          "title": "BTC（ビットコイン）はFOMC前に底堅い展開か、米企業決算と中東情勢次第では一段安も【マネックス証券】",
+          "link": "https://www.nadanews.com/372746/",
+          "pub_date": "2026-10-16T19:31:37+09:00"
+        },
+        {
+          "title": "マトリックス法によるテクニカル分析（2026/10/16）ダブルトップ解消も、予断許さず【楽天ウォレット】",
+          "link": "https://www.nadanews.com/372750/",
+          "pub_date": "2026-10-16T20:00:00+09:00"
+        },
+        {
+          "title": "私が尊敬する世界の暗号資産アナリスト5人──市場を読み解くために学び続けていること【エックスウィン】",
+          "link": "https://www.nadanews.com/372651/",
+          "pub_date": "2026-10-17T06:00:00+09:00"
+        },
         {
           "title": "楽天ウォレット、現物と証拠金のアプリを統合 パスキー必須に",
           "link": "https://coinpost.jp/?p=743139",
@@ -48,59 +63,44 @@
           "title": "ビットコイン8.2万ドル台回復、米国債利回り低下で買い戻し",
           "link": "https://www.nadanews.com/372593/",
           "pub_date": "2026-10-16T05:29:58+09:00"
-        },
-        {
-          "title": "米CPI上振れでビットコイン8万2000ドル割れ──10月利上げ観測が急上昇",
-          "link": "https://www.nadanews.com/372479/",
-          "pub_date": "2026-10-15T08:30:00+09:00"
-        },
-        {
-          "title": "楽天ウォレット、暗号資産アプリを統合──現物・証拠金を一本化",
-          "link": "https://www.nadanews.com/368289/",
-          "pub_date": "2026-10-15T10:00:00+09:00"
-        },
-        {
-          "title": "ビットコインの9万ドル再挑戦、米CPIとタイでのIMF総会が鍵【価格分析】",
-          "link": "https://www.nadanews.com/372264/",
-          "pub_date": "2026-10-13T23:09:46+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.237265+09:00",
-      "last_seen": "2026-10-16T10:59:56.166648+09:00"
+      "last_seen": "2026-10-17T10:52:12.075396+09:00"
     },
     "Coinbase": {
-      "article_count": 198,
-      "as_main_count": 70,
-      "as_related_count": 128,
+      "article_count": 203,
+      "as_main_count": 74,
+      "as_related_count": 129,
       "recent_articles": [
         {
-          "title": "コインベース、ビットコインの量子コンピューター対策で技術提言。既存BTCの移行方法も提示",
-          "link": "https://www.neweconomy.jp/posts/617048",
-          "pub_date": "2026-10-15T17:07:26+09:00"
+          "title": "SBIら、ドル建てOUSD連合に参画 円建てJPYSCと相互運用を検討",
+          "link": "https://coinpost.jp/?p=743339",
+          "pub_date": "2026-10-16T14:53:09+09:00"
         },
         {
-          "title": "米上場エバーノース、保有する4.7億XRPを運用へ リップルやコインベースなど4社と連携",
-          "link": "https://coinpost.jp/?p=742976",
-          "pub_date": "2026-10-15T05:40:02+09:00"
+          "title": "英上場スマーター・ウェブ、83BTCのビットコインを追加取得 保有2830BTCに",
+          "link": "https://coinpost.jp/?p=743362",
+          "pub_date": "2026-10-16T16:51:25+09:00"
         },
         {
-          "title": "英大手銀、ステーブルコイン2兆ドル到達予測を2030年に後ろ倒し",
-          "link": "https://coinpost.jp/?p=742972",
-          "pub_date": "2026-10-15T06:55:54+09:00"
+          "title": "サークル、上半期売上の約59％を提携先と取引費用に",
+          "link": "https://coinpost.jp/?p=743407",
+          "pub_date": "2026-10-17T05:55:38+09:00"
         },
         {
-          "title": "米SEC、コインベースなど一部企業の業績連動バイナリーオプションを承認",
-          "link": "https://coinpost.jp/?p=742971",
-          "pub_date": "2026-10-15T07:25:52+09:00"
+          "title": "コインベース、カード発行のMarqetaに仮想通貨基盤提供",
+          "link": "https://coinpost.jp/?p=743408",
+          "pub_date": "2026-10-17T10:00:35+09:00"
         },
         {
-          "title": "AIエージェントの暗号資産決済が拡大＝Chainalysis",
-          "link": "https://www.nadanews.com/372465/",
-          "pub_date": "2026-10-15T07:00:00+09:00"
+          "title": "ビットコインは年末にかけて回復見通し、ただし9万ドルが壁＝レポート",
+          "link": "https://coinpost.jp/?p=743430",
+          "pub_date": "2026-10-17T10:25:36+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-10-16T11:03:23.359220+09:00"
+      "last_seen": "2026-10-17T10:56:27.628225+09:00"
     },
     "Strategy": {
       "article_count": 56,
@@ -137,10 +137,20 @@
       "last_seen": "2026-10-13T13:11:53.940419+09:00"
     },
     "BlackRock": {
-      "article_count": 91,
-      "as_main_count": 34,
-      "as_related_count": 57,
+      "article_count": 93,
+      "as_main_count": 35,
+      "as_related_count": 58,
       "recent_articles": [
+        {
+          "title": "SBIら、ドル建てOUSD連合に参画 円建てJPYSCと相互運用を検討",
+          "link": "https://coinpost.jp/?p=743339",
+          "pub_date": "2026-10-16T14:53:09+09:00"
+        },
+        {
+          "title": "2022年以来初、米国がビットコイン純輸入国に",
+          "link": "https://coinpost.jp/?p=743388",
+          "pub_date": "2026-10-17T05:00:54+09:00"
+        },
         {
           "title": "英大手銀、ステーブルコイン2兆ドル到達予測を2030年に後ろ倒し",
           "link": "https://coinpost.jp/?p=742972",
@@ -155,26 +165,21 @@
           "title": "BlackRock、暗号資産関連AUMが前四半期比63％増",
           "link": "https://www.nadanews.com/372463/",
           "pub_date": "2026-10-15T06:30:00+09:00"
-        },
-        {
-          "title": "Coinbase、量子対策を今すぐ始めるよう提言──「数年かかる可能性もある」",
-          "link": "https://www.nadanews.com/372469/",
-          "pub_date": "2026-10-15T08:00:00+09:00"
-        },
-        {
-          "title": "サム・アルトマン氏出資のビットコイン生保会社、60億円を追加調達",
-          "link": "https://www.nadanews.com/372078/",
-          "pub_date": "2026-10-12T07:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-10-15T11:10:35.435445+09:00"
+      "last_seen": "2026-10-17T10:56:27.628225+09:00"
     },
     "Fidelity": {
-      "article_count": 19,
-      "as_main_count": 4,
+      "article_count": 20,
+      "as_main_count": 5,
       "as_related_count": 15,
       "recent_articles": [
+        {
+          "title": "グーグル、量子コンピュータ「20年の壁」に前進 必須工程でエラー40分の1に",
+          "link": "https://coinpost.jp/?p=743320",
+          "pub_date": "2026-10-16T14:20:57+09:00"
+        },
         {
           "title": "週刊仮想通貨ニュース（10/2）｜国税庁の新システム稼働・相場分析・DAT企業の動向まとめ",
           "link": "https://coinpost.jp/?p=740608",
@@ -194,21 +199,21 @@
           "title": "イーサリアム財務企業の時価総額94億ドル増──ETHがビットコインを2カ月連続で上回る、9月の注視点3つ",
           "link": "https://www.nadanews.com/366486/",
           "pub_date": "2026-09-02T08:00:00+09:00"
-        },
-        {
-          "title": "ビットコインETF「30億ドルの買い」は誰だったのか──9日間の資金流入が突然止まった理由【エックスウィン】",
-          "link": "https://www.nadanews.com/366250/",
-          "pub_date": "2026-09-01T06:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-10-04T12:09:26.260404+09:00"
+      "last_seen": "2026-10-17T10:56:44.609882+09:00"
     },
     "Ripple": {
-      "article_count": 70,
-      "as_main_count": 36,
+      "article_count": 71,
+      "as_main_count": 37,
       "as_related_count": 34,
       "recent_articles": [
+        {
+          "title": "リップル社、株式や金属などに連動する無期限スワップを機関向けに開始",
+          "link": "https://coinpost.jp/?p=743347",
+          "pub_date": "2026-10-16T15:45:42+09:00"
+        },
         {
           "title": "米リップル、証券取引基盤にRLUSD決済など導入へ。ドライブウェルスと提携で",
           "link": "https://www.neweconomy.jp/posts/617031",
@@ -228,21 +233,21 @@
           "title": "リップルとストライプ傘下Privyが提携、XRPレジャーの決済・AI向けウォレット基盤を開発者に提供",
           "link": "https://coinpost.jp/?p=742649",
           "pub_date": "2026-10-14T06:05:53+09:00"
-        },
-        {
-          "title": "スタンダードチャータード、RLUSDのカストディ開始",
-          "link": "https://www.nadanews.com/372298/",
-          "pub_date": "2026-10-14T06:30:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:05.509758+09:00",
-      "last_seen": "2026-10-16T11:03:58.070867+09:00"
+      "last_seen": "2026-10-17T10:56:10.639229+09:00"
     },
     "Visa": {
-      "article_count": 57,
+      "article_count": 58,
       "as_main_count": 14,
-      "as_related_count": 43,
+      "as_related_count": 44,
       "recent_articles": [
+        {
+          "title": "SBIら、ドル建てOUSD連合に参画 円建てJPYSCと相互運用を検討",
+          "link": "https://coinpost.jp/?p=743339",
+          "pub_date": "2026-10-16T14:53:09+09:00"
+        },
         {
           "title": "Mastercard、法定通貨とステーブルコインを一元管理するプラットフォームを発表",
           "link": "https://www.nadanews.com/372604/",
@@ -262,21 +267,21 @@
           "title": "EU規制当局、USDTなど未認可ステーブルコインを排除へ──3カ月の期限を設定",
           "link": "https://www.nadanews.com/371584/",
           "pub_date": "2026-10-09T08:30:00+09:00"
-        },
-        {
-          "title": "アジア太平洋地域の消費者調査、46%が「ステーブルコインを5年以内に利用」＝Visa",
-          "link": "https://www.nadanews.com/371153/",
-          "pub_date": "2026-10-07T07:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:06.153632+09:00",
-      "last_seen": "2026-10-16T10:56:29.270608+09:00"
+      "last_seen": "2026-10-17T10:56:27.628225+09:00"
     },
     "Mastercard": {
-      "article_count": 26,
-      "as_main_count": 7,
+      "article_count": 27,
+      "as_main_count": 8,
       "as_related_count": 19,
       "recent_articles": [
+        {
+          "title": "マスターカードとBVNK、法定通貨とステーブルコイン対応の決済基盤を提供開始。銀行送金やカード決済も統合",
+          "link": "https://www.neweconomy.jp/posts/617453",
+          "pub_date": "2026-10-16T15:49:03+09:00"
+        },
         {
           "title": "【徹底比較】どれを選ぶ？ 買い物で暗号資産が貯まるクレジットカード",
           "link": "https://www.neweconomy.jp/posts/614840",
@@ -296,15 +301,10 @@
           "title": "米政権、クラリティ法案成立待たず暗号資産規制を推進／メタプラネット、役員報酬制度でDAT大手10社唯一の「Bad」評価【日曜日に読みたい厳選5本】",
           "link": "https://www.nadanews.com/369367/",
           "pub_date": "2026-09-27T08:00:00+09:00"
-        },
-        {
-          "title": "ユーロ建てステーブルコイン「EURAU」、ステラ上でドイツの福利厚生プログラムに本番利用",
-          "link": "https://www.neweconomy.jp/posts/611035",
-          "pub_date": "2026-09-25T16:54:35+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:06.153632+09:00",
-      "last_seen": "2026-10-16T11:02:31.032017+09:00"
+      "last_seen": "2026-10-17T10:59:34.944877+09:00"
     },
     "Grayscale": {
       "article_count": 23,
@@ -409,10 +409,15 @@
       "last_seen": "2026-10-03T11:44:00.793310+09:00"
     },
     "日本銀行": {
-      "article_count": 44,
+      "article_count": 45,
       "as_main_count": 10,
-      "as_related_count": 34,
+      "as_related_count": 35,
       "recent_articles": [
+        {
+          "title": "国際通貨基金（IMF）、6500億ドル規模のAI循環金融に警鐘──ビットコイン採掘株は最高値から50％下落【価格分析】",
+          "link": "https://www.nadanews.com/372783/",
+          "pub_date": "2026-10-17T10:00:00+09:00"
+        },
         {
           "title": "米CPI上振れでビットコイン8万2000ドル割れ──10月利上げ観測が急上昇",
           "link": "https://www.nadanews.com/372479/",
@@ -432,21 +437,21 @@
           "title": "ビットコイン、一時8万7000ドル突破──米雇用統計の低迷で利上げ観測が後退",
           "link": "https://www.nadanews.com/370777/",
           "pub_date": "2026-10-05T08:30:00+09:00"
-        },
-        {
-          "title": "ビットコインETF、1億270万ドル流入で「アップトーバー」幕開け──日銀とFRBの金利動向に注目【価格分析】",
-          "link": "https://www.nadanews.com/370607/",
-          "pub_date": "2026-10-02T21:50:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:08.779894+09:00",
-      "last_seen": "2026-10-15T11:06:14.889990+09:00"
+      "last_seen": "2026-10-17T10:50:12.393033+09:00"
     },
     "Circle": {
-      "article_count": 72,
-      "as_main_count": 30,
+      "article_count": 73,
+      "as_main_count": 31,
       "as_related_count": 42,
       "recent_articles": [
+        {
+          "title": "サークル、上半期売上の約59％を提携先と取引費用に",
+          "link": "https://coinpost.jp/?p=743407",
+          "pub_date": "2026-10-17T05:55:38+09:00"
+        },
         {
           "title": "ステーブルコインUSDC、EU初の「重要な電子マネートークン（EMT）」に指定",
           "link": "https://coinpost.jp/?p=743060",
@@ -466,21 +471,21 @@
           "title": "企業ではSAP、個人ではGalaxy──ステーブルコインが“いつもの場所”に入り始めた【編集長コラム】",
           "link": "https://www.nadanews.com/372051/",
           "pub_date": "2026-10-12T10:00:00+09:00"
-        },
-        {
-          "title": "JPYSCで利払いする社債が示したこと──金融は「1つのチェーン」にはならない【編集長コラム】",
-          "link": "https://www.nadanews.com/371923/",
-          "pub_date": "2026-10-11T10:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:10.024598+09:00",
-      "last_seen": "2026-10-16T10:59:38.854957+09:00"
+      "last_seen": "2026-10-17T10:54:45.411612+09:00"
     },
     "Binance": {
-      "article_count": 121,
+      "article_count": 122,
       "as_main_count": 54,
-      "as_related_count": 67,
+      "as_related_count": 68,
       "recent_articles": [
+        {
+          "title": "サークル、上半期売上の約59％を提携先と取引費用に",
+          "link": "https://coinpost.jp/?p=743407",
+          "pub_date": "2026-10-17T05:55:38+09:00"
+        },
         {
           "title": "【徹底比較】どれを選ぶ？ 買い物で暗号資産が貯まるクレジットカード",
           "link": "https://www.neweconomy.jp/posts/614840",
@@ -500,21 +505,26 @@
           "title": "ロシア、2027年7月から個人間の暗号資産P2P取引を禁止",
           "link": "https://www.nadanews.com/372616/",
           "pub_date": "2026-10-16T08:30:00+09:00"
-        },
-        {
-          "title": "バイナンスAIが正式リリース、対象ユーザーへ順次提供",
-          "link": "https://www.neweconomy.jp/posts/616572",
-          "pub_date": "2026-10-14T16:10:20+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:13.718679+09:00",
-      "last_seen": "2026-10-16T11:02:31.032017+09:00"
+      "last_seen": "2026-10-17T10:54:45.411612+09:00"
     },
     "Tether": {
-      "article_count": 58,
-      "as_main_count": 26,
-      "as_related_count": 32,
+      "article_count": 60,
+      "as_main_count": 27,
+      "as_related_count": 33,
       "recent_articles": [
+        {
+          "title": "テザー、AIエージェント向け決済基盤「AIsa」に戦略的出資",
+          "link": "https://www.neweconomy.jp/posts/617486",
+          "pub_date": "2026-10-16T16:43:43+09:00"
+        },
+        {
+          "title": "金地金トークン展開のunbanked、暗号資産事業から撤退へ",
+          "link": "https://www.nadanews.com/372758/",
+          "pub_date": "2026-10-16T20:30:00+09:00"
+        },
         {
           "title": "ステーブルコインUSDC、EU初の「重要な電子マネートークン（EMT）」に指定",
           "link": "https://coinpost.jp/?p=743060",
@@ -529,26 +539,21 @@
           "title": "テザー、EFYファイナンスに出資。中南米でステーブルコイン利用基盤の強化へ",
           "link": "https://www.neweconomy.jp/posts/616619",
           "pub_date": "2026-10-14T17:14:40+09:00"
-        },
-        {
-          "title": "英大手銀、ステーブルコイン2兆ドル到達予測を2030年に後ろ倒し",
-          "link": "https://coinpost.jp/?p=742972",
-          "pub_date": "2026-10-15T06:55:54+09:00"
-        },
-        {
-          "title": "ザクラ開発チーム、Zcashへの耐量子署名導入を1月に目指す",
-          "link": "https://www.neweconomy.jp/posts/616178",
-          "pub_date": "2026-10-13T19:33:21+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:22.011018+09:00",
-      "last_seen": "2026-10-16T10:59:38.854957+09:00"
+      "last_seen": "2026-10-17T10:58:43.863478+09:00"
     },
     "Robinhood": {
-      "article_count": 73,
+      "article_count": 74,
       "as_main_count": 24,
-      "as_related_count": 49,
+      "as_related_count": 50,
       "recent_articles": [
+        {
+          "title": "暗号資産ストロングホールド、国内上場1カ月で8割上昇／ビットコインの9万ドル再挑戦【週末に読みたい厳選5本_相場編】",
+          "link": "https://www.nadanews.com/372665/",
+          "pub_date": "2026-10-17T07:00:00+09:00"
+        },
         {
           "title": "米SEC、コインベースなど一部企業の業績連動バイナリーオプションを承認",
           "link": "https://coinpost.jp/?p=742971",
@@ -568,21 +573,26 @@
           "title": "イーサリアム研究者がAIによる暗号解読リスクを警告、資産の予防的移動を提案",
           "link": "https://www.neweconomy.jp/posts/615613",
           "pub_date": "2026-10-09T16:52:34+09:00"
-        },
-        {
-          "title": "シトリニ・リサーチ、伝統金融と仮想通貨の「壁」が崩れ始めたと指摘",
-          "link": "https://coinpost.jp/?p=742123",
-          "pub_date": "2026-10-09T15:42:10+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:23.529514+09:00",
-      "last_seen": "2026-10-15T11:10:17.826506+09:00"
+      "last_seen": "2026-10-17T10:51:03.275525+09:00"
     },
     "SEC": {
-      "article_count": 156,
+      "article_count": 158,
       "as_main_count": 41,
-      "as_related_count": 115,
+      "as_related_count": 117,
       "recent_articles": [
+        {
+          "title": "ヴァンエック、Lidoの「stETH」保有型ETFの登録届出書撤回を米SECに申請",
+          "link": "https://www.neweconomy.jp/posts/617445",
+          "pub_date": "2026-10-16T15:42:57+09:00"
+        },
+        {
+          "title": "暗号資産ストロングホールド、国内上場1カ月で8割上昇／ビットコインの9万ドル再挑戦【週末に読みたい厳選5本_相場編】",
+          "link": "https://www.nadanews.com/372665/",
+          "pub_date": "2026-10-17T07:00:00+09:00"
+        },
         {
           "title": "元FTX欧州責任者率いる米上場企業、SEC特例でトークン化株式取引へ",
           "link": "https://coinpost.jp/?p=743082",
@@ -597,20 +607,10 @@
           "title": "米ホワイトハウス仮想通貨評議会のウィット事務局長が退任、後任未発表",
           "link": "https://coinpost.jp/?p=742983",
           "pub_date": "2026-10-15T08:22:44+09:00"
-        },
-        {
-          "title": "セイラー氏「オレンジ色はいくらあっても困らない」と投稿──祝日明けの開示に注目",
-          "link": "https://www.nadanews.com/372075/",
-          "pub_date": "2026-10-12T06:30:00+09:00"
-        },
-        {
-          "title": "Blockchain.com、米国で予測市場と仮想通貨デリバティブの免許を申請",
-          "link": "https://coinpost.jp/?p=742266",
-          "pub_date": "2026-10-10T12:00:50+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:26.941210+09:00",
-      "last_seen": "2026-10-16T11:01:21.317412+09:00"
+      "last_seen": "2026-10-17T10:59:51.967414+09:00"
     },
     "Upbit": {
       "article_count": 24,
@@ -1241,10 +1241,20 @@
       "last_seen": "2026-07-24T17:30:36.197802+09:00"
     },
     "金融庁": {
-      "article_count": 122,
-      "as_main_count": 49,
+      "article_count": 124,
+      "as_main_count": 51,
       "as_related_count": 73,
       "recent_articles": [
+        {
+          "title": "3メガ銀、共同発行ステーブルコインで国際決済の実証を完了",
+          "link": "https://coinpost.jp/?p=743371",
+          "pub_date": "2026-10-16T17:54:23+09:00"
+        },
+        {
+          "title": "3メガ銀、ステーブルコイン共同発行の実現性を確認と発表",
+          "link": "https://www.nadanews.com/372715/",
+          "pub_date": "2026-10-16T17:03:52+09:00"
+        },
         {
           "title": "Coinbase、量子対策を今すぐ始めるよう提言──「数年かかる可能性もある」",
           "link": "https://www.nadanews.com/372469/",
@@ -1259,20 +1269,10 @@
           "title": "利息も償還もJPYSCで——スターテイルが社債募集／金融庁、無登録の暗号資産業者一覧を公開【日曜日に読みたい厳選5本】",
           "link": "https://www.nadanews.com/371710/",
           "pub_date": "2026-10-11T08:00:00+09:00"
-        },
-        {
-          "title": "ソニーや三井物産ら4氏が語る、実業資産をトークン化する狙い",
-          "link": "https://coinpost.jp/?p=742137",
-          "pub_date": "2026-10-09T17:50:57+09:00"
-        },
-        {
-          "title": "財務省、国債オンチェーン化の3類型を提示 新形態の国債発行も類型に",
-          "link": "https://coinpost.jp/?p=741978",
-          "pub_date": "2026-10-09T10:16:28+09:00"
         }
       ],
       "first_seen": "2026-07-24T17:30:54.717778+09:00",
-      "last_seen": "2026-10-15T11:06:32.067167+09:00"
+      "last_seen": "2026-10-17T10:55:19.549205+09:00"
     },
     "NADA NEWS": {
       "article_count": 31,
@@ -2713,10 +2713,15 @@
       "last_seen": "2026-10-01T11:48:45.854891+09:00"
     },
     "Polymarket": {
-      "article_count": 91,
-      "as_main_count": 28,
+      "article_count": 92,
+      "as_main_count": 29,
       "as_related_count": 63,
       "recent_articles": [
+        {
+          "title": "国際通貨基金（IMF）、6500億ドル規模のAI循環金融に警鐘──ビットコイン採掘株は最高値から50％下落【価格分析】",
+          "link": "https://www.nadanews.com/372783/",
+          "pub_date": "2026-10-17T10:00:00+09:00"
+        },
         {
           "title": "米SEC、コインベースなど一部企業の業績連動バイナリーオプションを承認",
           "link": "https://coinpost.jp/?p=742971",
@@ -2736,15 +2741,10 @@
           "title": "Blockchain.com、米国で予測市場と仮想通貨デリバティブの免許を申請",
           "link": "https://coinpost.jp/?p=742266",
           "pub_date": "2026-10-10T12:00:50+09:00"
-        },
-        {
-          "title": "ポリマーケット、予測市場基盤「Protocol V2」の本番導入開始",
-          "link": "https://www.neweconomy.jp/posts/614830",
-          "pub_date": "2026-10-07T17:34:10+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:31.192786+09:00",
-      "last_seen": "2026-10-15T11:10:17.826506+09:00"
+      "last_seen": "2026-10-17T10:50:12.393033+09:00"
     },
     "Robinhood Chain": {
       "article_count": 17,
@@ -3045,10 +3045,25 @@
       "last_seen": "2026-10-01T11:45:59.487652+09:00"
     },
     "Metaplanet": {
-      "article_count": 91,
-      "as_main_count": 47,
-      "as_related_count": 44,
+      "article_count": 94,
+      "as_main_count": 49,
+      "as_related_count": 45,
       "recent_articles": [
+        {
+          "title": "私が尊敬する世界の暗号資産アナリスト5人──市場を読み解くために学び続けていること【エックスウィン】",
+          "link": "https://www.nadanews.com/372651/",
+          "pub_date": "2026-10-17T06:00:00+09:00"
+        },
+        {
+          "title": "暗号資産ストロングホールド、国内上場1カ月で8割上昇／ビットコインの9万ドル再挑戦【週末に読みたい厳選5本_相場編】",
+          "link": "https://www.nadanews.com/372665/",
+          "pub_date": "2026-10-17T07:00:00+09:00"
+        },
+        {
+          "title": "「売り疲れ」から「買い手の確認」へ── 8万ドル攻防で分かれたビットコイン投資家の心理【BitTrade Market Weekly】",
+          "link": "https://www.nadanews.com/372738/",
+          "pub_date": "2026-10-17T09:00:00+09:00"
+        },
         {
           "title": "メタプラネット傘下入り予定の米スーパーリーグ、ビットコイン初購入",
           "link": "https://coinpost.jp/?p=743106",
@@ -3058,25 +3073,10 @@
           "title": "【速報】メタプラネット、MSCI指数除外の可能性高まる──新ルール決定で",
           "link": "https://www.nadanews.com/372623/",
           "pub_date": "2026-10-16T09:54:30+09:00"
-        },
-        {
-          "title": "【10/14話題】レジャーの不正部品による復元フレーズ窃取の手口公表、メタプラネットがユーロ円建て転換社債を初発行へなど（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/616643",
-          "pub_date": "2026-10-14T19:10:28+09:00"
-        },
-        {
-          "title": "米ストライブ、2日連続でビットコイン追加購入を発表 上場企業保有量で世界4位に",
-          "link": "https://coinpost.jp/?p=742947",
-          "pub_date": "2026-10-14T21:45:00+09:00"
-        },
-        {
-          "title": "米CPI上振れでビットコイン8万2000ドル割れ──10月利上げ観測が急上昇",
-          "link": "https://www.nadanews.com/372479/",
-          "pub_date": "2026-10-15T08:30:00+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:46.708258+09:00",
-      "last_seen": "2026-10-16T11:00:14.549264+09:00"
+      "last_seen": "2026-10-17T10:51:20.272628+09:00"
     },
     "ギャラクシー・デジタル": {
       "article_count": 8,
@@ -4261,10 +4261,15 @@
       "last_seen": "2026-07-28T10:19:47.490386+09:00"
     },
     "VanEck": {
-      "article_count": 13,
-      "as_main_count": 2,
+      "article_count": 14,
+      "as_main_count": 3,
       "as_related_count": 11,
       "recent_articles": [
+        {
+          "title": "ヴァンエック、Lidoの「stETH」保有型ETFの登録届出書撤回を米SECに申請",
+          "link": "https://www.neweconomy.jp/posts/617445",
+          "pub_date": "2026-10-16T15:42:57+09:00"
+        },
         {
           "title": "ビットコインETF、1億270万ドル流入で「アップトーバー」幕開け──日銀とFRBの金利動向に注目【価格分析】",
           "link": "https://www.nadanews.com/370607/",
@@ -4284,15 +4289,10 @@
           "title": "DAT上位20社、mNAV1倍超はわずか4社＝DWF調査",
           "link": "https://www.nadanews.com/369311/",
           "pub_date": "2026-09-24T22:00:00+09:00"
-        },
-        {
-          "title": "仏企業Sequans、ビットコイン財務戦略から撤退完了",
-          "link": "https://www.nadanews.com/369351/",
-          "pub_date": "2026-09-25T08:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-28T10:19:47.490386+09:00",
-      "last_seen": "2026-10-03T11:37:40.145701+09:00"
+      "last_seen": "2026-10-17T10:59:51.967414+09:00"
     },
     "Apollo": {
       "article_count": 2,
@@ -10427,10 +10427,15 @@
       "last_seen": "2026-10-16T10:57:53.593579+09:00"
     },
     "GMOコイン": {
-      "article_count": 13,
-      "as_main_count": 4,
+      "article_count": 14,
+      "as_main_count": 5,
       "as_related_count": 9,
       "recent_articles": [
+        {
+          "title": "金地金トークン展開のunbanked、暗号資産事業から撤退へ",
+          "link": "https://www.nadanews.com/372758/",
+          "pub_date": "2026-10-16T20:30:00+09:00"
+        },
         {
           "title": "ビットバンク、価格の乖離でエンジンコインの取扱い廃止",
           "link": "https://www.nadanews.com/368011/",
@@ -10450,15 +10455,10 @@
           "title": "【9/9話題】シティが日本企業向けトークン化預金の海外送金へ、ロビンフッドチェーンが約1.68万ETHを収益分配、GMOコインがSAND・CHZ・FIL取扱廃止など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/606589",
           "pub_date": "2026-09-09T22:04:55+09:00"
-        },
-        {
-          "title": "GMOコイン、３銘柄取扱廃止 10月24日で終了",
-          "link": "https://coinpost.jp/?p=736490",
-          "pub_date": "2026-09-09T13:33:31+09:00"
         }
       ],
       "first_seen": "2026-07-30T10:14:49.754867+09:00",
-      "last_seen": "2026-09-15T11:09:14.921532+09:00"
+      "last_seen": "2026-10-17T10:51:38.186195+09:00"
     },
     "JPYC社": {
       "article_count": 4,
@@ -18799,10 +18799,15 @@
       "last_seen": "2026-09-16T11:01:01.089856+09:00"
     },
     "SBI": {
-      "article_count": 30,
-      "as_main_count": 7,
+      "article_count": 31,
+      "as_main_count": 8,
       "as_related_count": 23,
       "recent_articles": [
+        {
+          "title": "【10/16話題】3メガバンク円建てステーブルコインの共同発行が実証完了、SBIとスターテイルがOpen Standard参画、レジャーのAndroid搭載端末など（音声ニュース）",
+          "link": "https://www.neweconomy.jp/posts/617540",
+          "pub_date": "2026-10-16T22:31:16+09:00"
+        },
         {
           "title": "【徹底比較】どれを選ぶ？ 買い物で暗号資産が貯まるクレジットカード",
           "link": "https://www.neweconomy.jp/posts/614840",
@@ -18822,15 +18827,10 @@
           "title": "【10/13話題】SBIらがAIエージェント活用の日韓金融・決済で基本合意、エバーノースがナスダック上場、XRP不正生成の脆弱性を修正など（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/616125",
           "pub_date": "2026-10-13T22:20:44+09:00"
-        },
-        {
-          "title": "サム・アルトマン氏出資のビットコイン生保会社、60億円を追加調達",
-          "link": "https://www.nadanews.com/372078/",
-          "pub_date": "2026-10-12T07:00:00+09:00"
         }
       ],
       "first_seen": "2026-08-05T10:21:54.809606+09:00",
-      "last_seen": "2026-10-16T11:02:31.032017+09:00"
+      "last_seen": "2026-10-17T10:57:36.074386+09:00"
     },
     "野村": {
       "article_count": 1,
@@ -19420,10 +19420,15 @@
       "last_seen": "2026-08-05T10:23:30.770370+09:00"
     },
     "ソニー": {
-      "article_count": 6,
+      "article_count": 7,
       "as_main_count": 1,
-      "as_related_count": 5,
+      "as_related_count": 6,
       "recent_articles": [
+        {
+          "title": "コインベース、カード発行のMarqetaに仮想通貨基盤提供",
+          "link": "https://coinpost.jp/?p=743408",
+          "pub_date": "2026-10-17T10:00:35+09:00"
+        },
         {
           "title": "NIGHTの板取引、OKJが国内で初めて提供へ",
           "link": "https://www.nadanews.com/371806/",
@@ -19443,15 +19448,10 @@
           "title": "ブロックチェーンのプライバシー、静かに本流へ移りつつある【記者コラム】",
           "link": "https://www.nadanews.com/369066/",
           "pub_date": "2026-09-23T08:09:13+09:00"
-        },
-        {
-          "title": "2年前は「どのチェーンが勝つか？」だった──ステーブルコインで始まる、オンチェーン金融の次の“陣取り合戦”【編集長コラム】",
-          "link": "https://www.nadanews.com/367042/",
-          "pub_date": "2026-09-06T10:00:00+09:00"
         }
       ],
       "first_seen": "2026-08-05T10:23:30.770370+09:00",
-      "last_seen": "2026-10-11T11:33:16.538623+09:00"
+      "last_seen": "2026-10-17T10:53:20.158800+09:00"
     },
     "日本アジア投資": {
       "article_count": 1,
@@ -22712,10 +22712,15 @@
       "last_seen": "2026-08-29T13:31:43.314294+09:00"
     },
     "Cardano": {
-      "article_count": 15,
-      "as_main_count": 9,
+      "article_count": 16,
+      "as_main_count": 10,
       "as_related_count": 6,
       "recent_articles": [
+        {
+          "title": "東証上場のunbanked、金連動トークン「Kinka」の暗号資産事業を廃止 採算難",
+          "link": "https://coinpost.jp/?p=743404",
+          "pub_date": "2026-10-17T07:30:59+09:00"
+        },
         {
           "title": "OKJ、NIGHTを13日に取扱い開始 板取引は「国内初」と発表",
           "link": "https://coinpost.jp/?p=742349",
@@ -22735,15 +22740,10 @@
           "title": "カルダノ創設者、ヴィタリック氏のAI脅威論に反論",
           "link": "https://www.nadanews.com/371775/",
           "pub_date": "2026-10-09T22:00:00+09:00"
-        },
-        {
-          "title": "【N.Avenue club 4期4回ラウンドテーブル】AI時代、プライバシーはどう守るのか──データを渡しすぎない「認証」と「信頼」の未来",
-          "link": "https://www.nadanews.com/370801/",
-          "pub_date": "2026-10-06T10:00:00+09:00"
         }
       ],
       "first_seen": "2026-08-07T11:04:35.367211+09:00",
-      "last_seen": "2026-10-12T11:59:48.124847+09:00"
+      "last_seen": "2026-10-17T10:53:54.389539+09:00"
     },
     "Hedera": {
       "article_count": 5,
