@@ -69,10 +69,25 @@
       "last_seen": "2026-10-31T11:59:31.621449+09:00"
     },
     "Coinbase": {
-      "article_count": 238,
+      "article_count": 241,
       "as_main_count": 102,
-      "as_related_count": 136,
+      "as_related_count": 139,
       "recent_articles": [
+        {
+          "title": "トランプ大統領、バイナンス流出で北朝鮮の関与「調べている」＝Bloomberg",
+          "link": "https://www.nadanews.com/388992/",
+          "pub_date": "2026-10-31T14:00:00+09:00"
+        },
+        {
+          "title": "米CFTC委員長、暗号資産市場の規制必要性を強調──バイナンス流出受け",
+          "link": "https://www.nadanews.com/389038/",
+          "pub_date": "2026-10-31T16:10:00+09:00"
+        },
+        {
+          "title": "FBI、バイナンスの1兆円流出は北朝鮮の犯行と認定",
+          "link": "https://www.nadanews.com/389075/",
+          "pub_date": "2026-11-01T11:00:00+09:00"
+        },
         {
           "title": "【10/30話題】バイナンス不正流出の推定影響額は約1兆円、SMBCグループがSBIとスターテイルの合弁に5％出資へなど（音声ニュース）",
           "link": "https://www.neweconomy.jp/posts/622590",
@@ -82,25 +97,10 @@
           "title": "米仮想通貨関連株が全面安、1兆円規模のハッキングも市場全体への脅威は限定的とアナリストが見解",
           "link": "https://coinpost.jp/?p=745773",
           "pub_date": "2026-10-31T07:05:00+09:00"
-        },
-        {
-          "title": "ハイパーリキッドの収益源多角化、USDC準備金利回りなどの割合増加＝レポート",
-          "link": "https://coinpost.jp/?p=745794",
-          "pub_date": "2026-10-31T11:02:39+09:00"
-        },
-        {
-          "title": "バイナンス、利用者への補償に約1兆円を確保",
-          "link": "https://www.nadanews.com/388938/",
-          "pub_date": "2026-10-30T21:31:18+09:00"
-        },
-        {
-          "title": "Yコンビネーター、暗号資産スタートアップの重点6分野を公表。「機関主導」の市場拡大を指摘",
-          "link": "https://www.neweconomy.jp/posts/621965",
-          "pub_date": "2026-10-29T15:51:32+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:04.888620+09:00",
-      "last_seen": "2026-10-31T12:05:17.070847+09:00"
+      "last_seen": "2026-11-01T11:54:43.493871+09:00"
     },
     "Strategy": {
       "article_count": 68,
@@ -205,10 +205,15 @@
       "last_seen": "2026-10-27T11:43:12.234515+09:00"
     },
     "Ripple": {
-      "article_count": 92,
-      "as_main_count": 55,
+      "article_count": 93,
+      "as_main_count": 56,
       "as_related_count": 37,
       "recent_articles": [
+        {
+          "title": "週刊仮想通貨ニュース（10/30）｜バイナンス流出・BTC価格予測・リップルの発表のまとめ",
+          "link": "https://coinpost.jp/?p=745600",
+          "pub_date": "2026-11-01T09:25:25+09:00"
+        },
         {
           "title": "ムーディーズ、リップルのステーブルコインRLUSDに『A2』格付けを付与",
           "link": "https://coinpost.jp/?p=745457",
@@ -228,15 +233,10 @@
           "title": "リップルとコインベースが提携、ステーブルコインRLUSDのアクセス拡大へ",
           "link": "https://coinpost.jp/?p=745271",
           "pub_date": "2026-10-29T10:44:40+09:00"
-        },
-        {
-          "title": "ビットコイン、「アップトーバー」不発の背景──米国需要の弱さと7万4000ドルの攻防【エックスウィン】",
-          "link": "https://www.nadanews.com/388293/",
-          "pub_date": "2026-10-29T06:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:05.509758+09:00",
-      "last_seen": "2026-10-30T12:16:53.952086+09:00"
+      "last_seen": "2026-11-01T11:55:18.365125+09:00"
     },
     "Visa": {
       "article_count": 70,
@@ -341,10 +341,15 @@
       "last_seen": "2026-10-21T11:17:39.233998+09:00"
     },
     "JPMorgan": {
-      "article_count": 50,
+      "article_count": 51,
       "as_main_count": 24,
-      "as_related_count": 26,
+      "as_related_count": 27,
       "recent_articles": [
+        {
+          "title": "秘密鍵の漏えいは確認されず。それでも1兆円流出──バイナンスの巨額流出が問う“安全”の意味【編集長コラム】",
+          "link": "https://www.nadanews.com/388966/",
+          "pub_date": "2026-11-01T10:00:00+09:00"
+        },
         {
           "title": "ビザのステーブルコイン清算額が10倍に拡大──市場残高は減少も、企業決済への導入が加速【エックスウィン】",
           "link": "https://www.nadanews.com/388613/",
@@ -364,15 +369,10 @@
           "title": "米金融大手BNY、XRP・RLUSDの保管に対応──貿易金融のトークン化へ",
           "link": "https://www.nadanews.com/388259/",
           "pub_date": "2026-10-28T10:00:00+09:00"
-        },
-        {
-          "title": "ビットコインの2026年末目標価格、シティなど3社が引き下げ 15万ドルまで約88％上昇必要",
-          "link": "https://coinpost.jp/?p=744774",
-          "pub_date": "2026-10-27T08:30:09+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:07.510251+09:00",
-      "last_seen": "2026-10-30T12:15:26.425903+09:00"
+      "last_seen": "2026-11-01T11:52:27.117465+09:00"
     },
     "Uniswap": {
       "article_count": 38,
@@ -477,44 +477,49 @@
       "last_seen": "2026-10-31T12:01:49.729592+09:00"
     },
     "Binance": {
-      "article_count": 157,
-      "as_main_count": 83,
+      "article_count": 169,
+      "as_main_count": 95,
       "as_related_count": 74,
       "recent_articles": [
         {
-          "title": "バイナンス、ブラジルで融資・マージン取引など8サービスの新規利用を制限",
-          "link": "https://www.neweconomy.jp/posts/622587",
-          "pub_date": "2026-10-30T18:52:38+09:00"
+          "title": "米クラリティー法案が再び焦点に、バイナンス被害で資産凍結の法的保護めぐり論争広がる",
+          "link": "https://coinpost.jp/?p=745789",
+          "pub_date": "2026-10-31T13:45:50+09:00"
         },
         {
-          "title": "【10/30話題】バイナンス不正流出の推定影響額は約1兆円、SMBCグループがSBIとスターテイルの合弁に5％出資へなど（音声ニュース）",
-          "link": "https://www.neweconomy.jp/posts/622590",
-          "pub_date": "2026-10-30T19:21:29+09:00"
+          "title": "仮想通貨犯罪追跡大手チェイナリシス、不正アクセス被害に",
+          "link": "https://coinpost.jp/?p=745824",
+          "pub_date": "2026-10-31T14:02:04+09:00"
         },
         {
-          "title": "バイナンスジャパンが暗号資産入出金を一時停止、ビットフライヤーはバイナンス送金を制限",
-          "link": "https://coinpost.jp/?p=745638",
-          "pub_date": "2026-10-30T13:40:48+09:00"
+          "title": "週刊仮想通貨ニュース（10/30）｜バイナンス流出・BTC価格予測・リップルの発表のまとめ",
+          "link": "https://coinpost.jp/?p=745600",
+          "pub_date": "2026-11-01T09:25:25+09:00"
         },
         {
-          "title": "約1兆円の不正流出を受けたバイナンス、TRMが北朝鮮の犯行と分析",
-          "link": "https://coinpost.jp/?p=745651",
-          "pub_date": "2026-10-30T14:10:37+09:00"
+          "title": "ビットコイン、急落し1200万円台に AI関連決算と雇用統計が焦点｜bitbankアナリスト寄稿",
+          "link": "https://coinpost.jp/?p=745685",
+          "pub_date": "2026-11-01T11:30:13+09:00"
         },
         {
-          "title": "メタプラネットCEO、バイナンス流出受け声明 保有ビットコインは全量コールド保管",
-          "link": "https://coinpost.jp/?p=745669",
-          "pub_date": "2026-10-30T15:29:54+09:00"
+          "title": "トランプ大統領、バイナンス流出で北朝鮮の関与「調べている」＝Bloomberg",
+          "link": "https://www.nadanews.com/388992/",
+          "pub_date": "2026-10-31T14:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:13.718679+09:00",
-      "last_seen": "2026-10-31T12:06:42.507982+09:00"
+      "last_seen": "2026-11-01T11:55:52.765873+09:00"
     },
     "Tether": {
-      "article_count": 70,
-      "as_main_count": 30,
+      "article_count": 71,
+      "as_main_count": 31,
       "as_related_count": 40,
       "recent_articles": [
+        {
+          "title": "テザー社、USDT準備金の超過分が1兆円超えに回復 6月末から約2倍に",
+          "link": "https://coinpost.jp/?p=745813",
+          "pub_date": "2026-10-31T13:10:53+09:00"
+        },
         {
           "title": "BTC（ビットコイン）は米中間選挙とバイナンスのハッキング疑惑が焦点、下値模索が続くか【マネックス証券】",
           "link": "https://www.nadanews.com/388928/",
@@ -534,15 +539,10 @@
           "title": "米SEC、証券トークン取引所運営計画3社を公表 OKX・ICE合弁など",
           "link": "https://coinpost.jp/?p=744566",
           "pub_date": "2026-10-24T13:00:18+09:00"
-        },
-        {
-          "title": "イスラエル首相、制裁リスクに備えブロックチェーン活用を模索＝報道",
-          "link": "https://www.nadanews.com/387670/",
-          "pub_date": "2026-10-24T14:00:00+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:22.011018+09:00",
-      "last_seen": "2026-10-31T11:59:14.325542+09:00"
+      "last_seen": "2026-11-01T11:56:09.758104+09:00"
     },
     "Robinhood": {
       "article_count": 90,
@@ -579,10 +579,20 @@
       "last_seen": "2026-10-31T12:01:49.729592+09:00"
     },
     "SEC": {
-      "article_count": 185,
+      "article_count": 187,
       "as_main_count": 49,
-      "as_related_count": 136,
+      "as_related_count": 138,
       "recent_articles": [
+        {
+          "title": "米クラリティー法案が再び焦点に、バイナンス被害で資産凍結の法的保護めぐり論争広がる",
+          "link": "https://coinpost.jp/?p=745789",
+          "pub_date": "2026-10-31T13:45:50+09:00"
+        },
+        {
+          "title": "ビットコイン、急落し1200万円台に AI関連決算と雇用統計が焦点｜bitbankアナリスト寄稿",
+          "link": "https://coinpost.jp/?p=745685",
+          "pub_date": "2026-11-01T11:30:13+09:00"
+        },
         {
           "title": "著名投資家ドラッケンミラー、ハイパーリキッド基盤企業TradeXYZに出資 イーロン氏が反応",
           "link": "https://coinpost.jp/?p=745455",
@@ -597,20 +607,10 @@
           "title": "Strategy、優先株の「日次配当」実施へ──株主が承認",
           "link": "https://www.nadanews.com/388480/",
           "pub_date": "2026-10-29T09:00:00+09:00"
-        },
-        {
-          "title": "SEC、2027年度の検査でAI・サイバーリスクを重視。証券トークン化も対象に",
-          "link": "https://www.neweconomy.jp/posts/620798",
-          "pub_date": "2026-10-27T16:08:31+09:00"
-        },
-        {
-          "title": "自民ブロックチェーン推進議連、米国視察を報告 DeFiや予測市場を議論",
-          "link": "https://coinpost.jp/?p=745019",
-          "pub_date": "2026-10-27T19:40:16+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:26.941210+09:00",
-      "last_seen": "2026-10-30T12:19:15.963177+09:00"
+      "last_seen": "2026-11-01T11:55:52.765873+09:00"
     },
     "Upbit": {
       "article_count": 24,
@@ -715,10 +715,15 @@
       "last_seen": "2026-10-31T12:00:40.549849+09:00"
     },
     "Bybit": {
-      "article_count": 35,
+      "article_count": 36,
       "as_main_count": 8,
-      "as_related_count": 27,
+      "as_related_count": 28,
       "recent_articles": [
+        {
+          "title": "FBI、バイナンスの1兆円流出は北朝鮮の犯行と認定",
+          "link": "https://www.nadanews.com/389075/",
+          "pub_date": "2026-11-01T11:00:00+09:00"
+        },
         {
           "title": "約1兆円の不正流出を受けたバイナンス、TRMが北朝鮮の犯行と分析",
           "link": "https://coinpost.jp/?p=745651",
@@ -738,21 +743,26 @@
           "title": "株式・金・原油などの無期限先物に高需要、10ヶ月で取引高33倍に＝レポート",
           "link": "https://coinpost.jp/?p=744536",
           "pub_date": "2026-10-24T12:00:55+09:00"
-        },
-        {
-          "title": "バイビットのドバイ法人、VARAから現物取引のライセンス取得",
-          "link": "https://www.neweconomy.jp/posts/619925",
-          "pub_date": "2026-10-23T15:04:34+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:31.154591+09:00",
-      "last_seen": "2026-10-31T12:04:42.458063+09:00"
+      "last_seen": "2026-11-01T11:52:10.003558+09:00"
     },
     "Solana": {
-      "article_count": 183,
+      "article_count": 185,
       "as_main_count": 76,
-      "as_related_count": 107,
+      "as_related_count": 109,
       "recent_articles": [
+        {
+          "title": "米クラリティー法案が再び焦点に、バイナンス被害で資産凍結の法的保護めぐり論争広がる",
+          "link": "https://coinpost.jp/?p=745789",
+          "pub_date": "2026-10-31T13:45:50+09:00"
+        },
+        {
+          "title": "週刊仮想通貨ニュース（10/30）｜バイナンス流出・BTC価格予測・リップルの発表のまとめ",
+          "link": "https://coinpost.jp/?p=745600",
+          "pub_date": "2026-11-01T09:25:25+09:00"
+        },
         {
           "title": "韓国・未来アセット証券、ソラナ上でトークン化債券を発行、機関投資家向けに私募",
           "link": "https://www.neweconomy.jp/posts/622607",
@@ -767,20 +777,10 @@
           "title": "ビットゴーとジュピターが提携、既存のカストディ口座からSOLステーキング可能に",
           "link": "https://www.neweconomy.jp/posts/622255",
           "pub_date": "2026-10-30T11:37:13+09:00"
-        },
-        {
-          "title": "グーグル、金融機関向けの仮想通貨・トークン化資産セキュリティツールを限定公開",
-          "link": "https://coinpost.jp/?p=745262",
-          "pub_date": "2026-10-29T10:12:34+09:00"
-        },
-        {
-          "title": "ギャラクシーデジタル、7～9月期は510億円の黒字 前四半期の赤字から転換",
-          "link": "https://coinpost.jp/?p=745078",
-          "pub_date": "2026-10-28T09:45:41+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:31.772049+09:00",
-      "last_seen": "2026-10-31T12:06:08.243580+09:00"
+      "last_seen": "2026-11-01T11:55:52.765873+09:00"
     },
     "ARK Invest": {
       "article_count": 11,
@@ -817,10 +817,15 @@
       "last_seen": "2026-10-27T11:43:29.590154+09:00"
     },
     "bitbank": {
-      "article_count": 54,
+      "article_count": 55,
       "as_main_count": 34,
-      "as_related_count": 20,
+      "as_related_count": 21,
       "recent_articles": [
+        {
+          "title": "ビットコイン、急落し1200万円台に AI関連決算と雇用統計が焦点｜bitbankアナリスト寄稿",
+          "link": "https://coinpost.jp/?p=745685",
+          "pub_date": "2026-11-01T11:30:13+09:00"
+        },
         {
           "title": "SBI VCトレードとビットバンク、バイナンスの暗号資産流出で顧客資産に影響なし",
           "link": "https://coinpost.jp/?p=745755",
@@ -840,15 +845,10 @@
           "title": "ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点｜bitbankアナリスト寄稿",
           "link": "https://coinpost.jp/?p=743353",
           "pub_date": "2026-10-18T11:30:53+09:00"
-        },
-        {
-          "title": "【徹底比較】どれを選ぶ？ 買い物で暗号資産が貯まるクレジットカード",
-          "link": "https://www.neweconomy.jp/posts/614840",
-          "pub_date": "2026-10-15T18:03:14+09:00"
         }
       ],
       "first_seen": "2026-07-24T16:16:33.007405+09:00",
-      "last_seen": "2026-10-31T12:02:41.408423+09:00"
+      "last_seen": "2026-11-01T11:55:00.825997+09:00"
     },
     "BitMEX": {
       "article_count": 16,
@@ -3045,10 +3045,15 @@
       "last_seen": "2026-10-01T11:45:59.487652+09:00"
     },
     "Metaplanet": {
-      "article_count": 119,
+      "article_count": 120,
       "as_main_count": 66,
-      "as_related_count": 53,
+      "as_related_count": 54,
       "recent_articles": [
+        {
+          "title": "秘密鍵の漏えいは確認されず。それでも1兆円流出──バイナンスの巨額流出が問う“安全”の意味【編集長コラム】",
+          "link": "https://www.nadanews.com/388966/",
+          "pub_date": "2026-11-01T10:00:00+09:00"
+        },
         {
           "title": "メタプラネットCEO、バイナンス流出受け声明 保有ビットコインは全量コールド保管",
           "link": "https://coinpost.jp/?p=745669",
@@ -3068,15 +3073,10 @@
           "title": "Strategy、優先株の「日次配当」実施へ──株主が承認",
           "link": "https://www.nadanews.com/388480/",
           "pub_date": "2026-10-29T09:00:00+09:00"
-        },
-        {
-          "title": "メタプラが出資予定の米スーパーリーグ、ビットコイン4BTCを追加購入。累計取得量7BTCに",
-          "link": "https://www.neweconomy.jp/posts/620850",
-          "pub_date": "2026-10-27T16:35:34+09:00"
         }
       ],
       "first_seen": "2026-07-26T10:27:46.708258+09:00",
-      "last_seen": "2026-10-31T12:04:25.181279+09:00"
+      "last_seen": "2026-11-01T11:52:27.117465+09:00"
     },
     "ギャラクシー・デジタル": {
       "article_count": 8,
